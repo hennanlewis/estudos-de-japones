@@ -3,6 +3,7 @@
 A parte fonética e fonológica tem bastante peso pra se aprender um idioma de forma  plena, entretanto, para quem mal começou ou não tem muita proficiência na língua japonesa se torna apenas mais um peso ou carga não relevante em um primeiro contato.
 Logo, mesmo ao tratar sobre fonética de forma superficial, a primeira parte deste guia terá foco no sistema de escrita japonesa, e como tema do primeiro capítulo, falaremos primeiro de um dos três principais: o ***hiragana*** (平仮名).
 
+
 - [**Hiragana**](#hiragana)
 	- [**Contextualização histórica**](#contextualização-histórica)
 	- [**Os caracteres e seus fonemas**](#os-caracteres-e-seus-fonemas)
@@ -19,6 +20,19 @@ Logo, mesmo ao tratar sobre fonética de forma superficial, a primeira parte des
 		- [**Os caracteres na coluna do w**](#os-caracteres-na-coluna-do-w)
 		- [**O caractere ん**](#o-caractere-ん)
 		- [**A ordem alfabética**](#a-ordem-alfabética)
+	- [**A ordem do traçado**](#a-ordem-do-traçado)
+		- [**Os caracteres あ, い, う, え e お**](#os-caracteres-あ-い-う-え-e-お-1)
+		- [**Os caracteres da coluna do k**](#os-caracteres-da-coluna-do-k-1)
+		- [**Os caracteres da coluna do s**](#os-caracteres-da-coluna-do-s-1)
+		- [**Os caracteres da coluna do t**](#os-caracteres-da-coluna-do-t-1)
+		- [**Os caracteres da coluna do n**](#os-caracteres-da-coluna-do-n-1)
+		- [**Os caracteres da coluna do h**](#os-caracteres-da-coluna-do-h-1)
+		- [**Os caracteres na coluna do m**](#os-caracteres-na-coluna-do-m-1)
+		- [**Os caracteres na coluna do y**](#os-caracteres-na-coluna-do-y-1)
+		- [**Os caracteres na coluna do r**](#os-caracteres-na-coluna-do-r-1)
+		- [**Os caracteres da coluna do w e ん**](#os-caracteres-da-coluna-do-w-e-ん)
+	- [**Notas finais**](#notas-finais)
+	- [**Para exercitar a leitura**](#para-exercitar-a-leitura)
 
 ## **Contextualização histórica**
 
@@ -32,7 +46,7 @@ O ***man’yougana*** foi escolhido como representação por seu valor fonético
 
 Cada um dos retângulos menores da figura abaixo mostra os ***kanji*** do ***man’yougana*** em cima, sua versão cursiva no meio e o atual ***hiragana*** em baixo.
 
-![](images/01/01-Hiragana_origin.jpg)
+![](images/01/hiragana_origin.jpg)
 
 Devido as limitações fonéticas do idioma japonês em comparação ao chinês, vários ***kanji*** que deveriam ter pronúncias diferentes são iguais.
 Isso fez com que vários ideogramas pudessem representar o mesmo som e para decidir qual usar, os critérios eram de qual chegava mais perto de representar o sentido na palavra desejada.
@@ -50,7 +64,7 @@ Em minha pesquisa inicial encontrei que como a publicação durou cerca de 50 an
 
 Chegou a parte de finalmente mostrar os caracteres do ***hiragana***, então sem fazer  suspense, estão representados na seguinte tabela:
 
-![](images/01/01%20-%20hiragana.png)
+![](images/01/hiragana.png)
 
 A tabela está disposta na forma da escrita tradicional japonesa, de cima pra baixo e da direita para a esquerda, ou seja, a ordem correta para ser lida é あ, い, う, え, お, か, き, く, け, こ, e assim por diante.
 
@@ -120,6 +134,7 @@ A romanização é **na**, **ni**, **nu**, **ne** e **no**, respectivamente.
 Nesse também a diferença tá na いだん e うだん.
 O som em は, へ e ほ são exatamente como o som do r no início de palavras como **requeijão** ou em **rr** como em **arroz**, e esse símbolo fonético é representado por [h].
 Já o ひ é um som que não existe no português mas não é difícil de reproduzi-lo, basta tentar fazer o som de **x** de xícara ao mesmo tempo que faz som de [h] e o símbolo pra esse som é um [ç] como em **cabeça**, apesar de a letra em português e o símbolo do AFI não representarem a mesma coisa.
+
 O som do ふ parece bem difícil a um primeiro contato e resumidamente é algo entre um [fɯ] e um [hɯ], mas para ser mais precisamente por fazer um f mas sem encostrar o lábio inferior no dente, ou melhor, tentar o som de **f** com a boca na mesma formação de dizer a letra **a**.
 Tem o símbolo [ɸ].
 は, ひ, ふ, へe ほ são lidos respectivamente como [ha], [çi], [ɸɯ], [he] e [ho].
@@ -162,8 +177,262 @@ A equivalência a ordem alfabética para o ***hiragana*** é a mesma ordem de le
 Existe uma outra forma de ordenação, que se baseia em um poema conhecido por ***iroha*** (いろは) cujo primeiro registro de sua existência data de 1079 – é o poema na figura abaixo.
 Ele é usado como ordenação pois as palavras nele estão dispostas de forma a aparecer todos os caracteres da tabela do ***hiragana*** – menos o ん por ser relativamente moderno – e que cada um só aparece uma única vez.
 
-![](images/01/01-iroha.png)
+![](images/01/iroha.png)
 
 Como forma de ordenação é arcaica, mas ainda hoje podemos encontrá-la em uso, por exemplo, como denominação das notas musicais.
 Perceba que por ser um poema arcaico, sua escrita está na forma tradicional e sua primeira estrofe possui sete caracteres, igual ao número de notas.
 Lá, si, dó, ré, mi, fá e sol são respectivamente い, ろ, は, に, ほ, へ e と.
+
+## **A ordem do traçado**
+Se você já prestou atenção em pessoas escrevendo, deve ter percebido que algumas delas escrevem as letras em ordem dos traços de forma diferente.
+Por exemplo, ao escrever uma letra que precisa fazer algum círculo como a letra **o**, algumas pessoas o escrevem no sentido horário, mas outras já o escrevem no sentido anti-horário e as duas estão certas.
+
+No japonês, por incrível que pareça, existe uma ordem correta dos traços.
+Devido a alguns caracteres serem mais complexos e que apesar de alguns serem parecidos, carregam um significado totalmente diferente, a ordem dos traços na escrita a mão influencia em como entendemos.
+No ***hiragana*** não existem tantos caracteres que são parecidos, mas no ***katakana***, o sistema que aprenderemos no próximo capítulo possui vários parecidos entre si, como o ツ e o シ, então em textos manuscritos ajuda a entender qual é qual.
+
+Os caracteres estarão em “ordem alfabética” e para ver com mais detalhes, acesse o site Japanese Lesson.
+Lá também tem versões alternativas de traçados.
+
+### **Os caracteres あ, い, う, え e お**
+あ
+
+![](images/01/あ.png)
+
+い
+
+![](images/01/い.png)
+
+う
+
+![](images/01/う.png)
+
+え
+
+![](images/01/え.png)
+
+お
+
+![](images/01/お.png)
+
+
+### **Os caracteres da coluna do k**
+か
+
+![](images/01/か.png)
+
+き
+
+![](images/01/き.png)
+
+く
+
+![](images/01/く.png)
+
+け
+
+![](images/01/け.png)
+
+こ
+
+![](images/01/こ.png)
+
+### **Os caracteres da coluna do s**
+さ
+
+![](images/01/さ.png)
+
+し
+
+![](images/01/し.png)
+
+す
+
+![](images/01/す.png)
+
+せ
+
+![](images/01/せ.png)
+
+そ
+
+![](images/01/そ.png)
+
+### **Os caracteres da coluna do t**
+た
+
+![](images/01/た.png)
+
+ち
+
+![](images/01/ち.png)
+
+つ
+
+![](images/01/つ.png)
+
+て
+
+![](images/01/て.png)
+
+と
+
+![](images/01/と.png)
+
+### **Os caracteres da coluna do n**
+な
+
+![](images/01/な.png)
+
+に
+
+![](images/01/に.png)
+
+ぬ
+
+![](images/01/ぬ.png)
+
+ね
+
+![](images/01/ね.png)
+
+の
+
+![](images/01/の.png)
+
+### **Os caracteres da coluna do h**
+は
+
+![](images/01/は.png)
+
+ひ
+
+![](images/01/ひ.png)
+
+ふ
+
+![](images/01/ふ.png)
+
+へ
+
+![](images/01/へ.png)
+
+ほ
+
+![](images/01/ほ.png)
+
+### **Os caracteres na coluna do m**
+ま
+
+![](images/01/ま.png)
+
+み
+
+![](images/01/み.png)
+
+む
+
+![](images/01/む.png)
+
+め
+
+![](images/01/め.png)
+
+も
+
+![](images/01/も.png)
+
+### **Os caracteres na coluna do y**
+や
+
+![](images/01/や.png)
+
+ゆ
+
+![](images/01/ゆ.png)
+
+よ
+
+![](images/01/よ.png)
+
+### **Os caracteres na coluna do r**
+ら
+
+![](images/01/ら.png)
+
+り
+
+![](images/01/り.png)
+
+る
+
+![](images/01/る.png)
+
+れ
+
+![](images/01/れ.png)
+
+ろ
+
+![](images/01/ろ.png)
+
+### **Os caracteres da coluna do w e ん**
+
+わ
+
+![](images/01/わ.png)
+
+を
+
+![](images/01/を.png)
+
+ん
+
+![](images/01/ん.png)
+
+
+## **Notas finais**
+Chegamos ao final do primeiro capítulo do guia e espero que o conteúdo tenha sido repassado da forma mais clara possível, mesmo que tenha sido só o início da nossa jornada. 
+Caso tenha interesse em se aprofundar mais sobre o conteúdo, utilize a seguinte lista com as principais referências utilizadas para construção deste capítulo:
+1. Blog [***Ganbarou Ze* – Gramática Japonesa**](https://ganbarouze.blogspot.com/);
+2. Site [***Japanese Lesson***](http://japanese-lesson.com/characters/hiragana/hiragana_writing.html).
+
+## **Para exercitar a leitura**
+|||||
+|:-:|:-:|:-:|:-:|
+いたす     | たく     | にもつ    | うち
+あおい     | こい     | ひる      | かなめ
+けい       | よし     | ぬれる    | ある
+きく       | かいけつ  | おりる    | いいえ
+つこむ     | まつり    | つき      | やわらかい
+すくない   | とら      | むら      | とう
+かんさつ   | かめ      | ほんとに  | れい
+かたち     | ここ      | おくさん  | しかる
+おこなう   | わるい    | もつ      | たいよう
+すくう     | はし      | おりる    | きり
+ていこう   | いなか    | きめる    | いいえ
+せん       | むすめ    | とき      | まく
+すむ       | はつ      | やね      | しゅちょう
+いきる     | もゆの    | つま      | しはい
+へいか     | そのまま  | なか      | ちゅうしん
+たから     | いち      | なお      | しちうかい
+つくえ     | もむ      | まいにち   | うかふ
+ころ       | たのしむ  | みまわす   | なる
+よむ       | こし      | とり      | すて
+いよいよ   | とくに     | かける    | あつさり
+みやる     | ふりかえる | ふる      | やつはり
+いたい     | いよいよ   | ふるわせる | つくえ
+いれる     | へいき     | もの      | カメラ
+なし       | むく       | こめる    | かんし
+せかい     | くるしい   | まわす     | かい
+おとなしい | みかた     | こむ       | むこう
+あしおと   | おす       | むすこ     | たてる
+ふとん     | うける     | しょう     | とつせん
+その       | なん       | つて      | おさない
+いか       | にん       | ていこく  | なにもの
+さく       | けん       | しる      | なんて
+くせ       | ひてい     | むかし     | はる
+たい       | にたいする | ちち       | いう
+たつ       | ちんもく   | ほか       | ゆくえ
+たいち     | あう       | しみん     | つふやく
+ふれる     | かく       | はう       | いちけき

@@ -9,6 +9,8 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
 1. [**LIÇÃO 01 – HIRAGANA**](#lição-01-hiragana)
 
    - [Contextualização histórica](doc/lição01.md#contextualização-histórica)
+   - [Os caracteres e seus fonemas](doc/lição01.md#os-caracteres-e-seus-fonemas)
+   - [A ordem do traçado](doc/lição01.md#a-ordem-do-traçado)
 
 # Lição 01: Hiragana
 
