@@ -1,3 +1,7 @@
+[Voltar ao README 🡑](../README.md)
+
+[Próximo capítulo »](lição02.md)
+
 # **Hiragana**
 
 A parte fonética e fonológica tem bastante peso pra se aprender um idioma de forma  plena, entretanto, para quem mal começou ou não tem muita proficiência na língua japonesa se torna apenas mais um peso ou carga não relevante em um primeiro contato.
@@ -165,6 +169,9 @@ Seu símbolo fonético é [ɰ], justamente para indicar semelhança com o [ɯ].
 を é lido como [o], exatamente o mesmo de を.
 Em capítulos posteriores entenderemos porque isso acontece.
 A romanização é **wa** e **wo**.
+
+> **Observação**:
+> ゑ e ゐ são caracteres obsoletos. Não são mais usados atualmente, por consequência disso, só são encontrados em poemas, documentos ou textos antigos.
 
 ### **O caractere ん**
 Esse é o ***hiragana*** mais estranho da tabela, por isso ele está separado, pois ele não faz par com vogal, e som dele muda dependendo de quem vez depois, mas para simplificar, é o mesmo de quando alguém faz uma pergunta e outra pessoa responder “hm” em confirmação.
@@ -436,3 +443,7 @@ Caso tenha interesse em se aprofundar mais sobre o conteúdo, utilize a seguinte
 たつ       | ちんもく   | ほか       | ゆくえ
 たいち     | あう       | しみん     | つふやく
 ふれる     | かく       | はう       | いちけき
+
+[Próximo capítulo »](lição02.md)
+
+[Voltar ao README 🡑](../README.md)

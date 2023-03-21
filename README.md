@@ -14,6 +14,7 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
 
 - [**LIÇÃO 02 – KATAKANA**](#lição-02-–-katakana)
    - [Contextualização histórica](doc/lição02.md#contextualização-histórica)
+   - [Os caracteres e seus fonemas](doc/lição02.md#os-caracteres-e-seus-fonemas)
 
 # Lição 01: Hiragana
 
