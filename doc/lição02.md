@@ -11,6 +11,20 @@ Não terá apenas o conteúdo fosse uma releitura do anterior, pois existem vár
 	- [**Contextualização histórica**](#contextualização-histórica)
 	- [**Os caracteres e seus fonemas**](#os-caracteres-e-seus-fonemas)
 	- [**Alguns casos de uso no katakana**](#alguns-casos-de-uso-no-katakana)
+	- [**A ordem do traçado**](#a-ordem-do-traçado)
+		- [**Os caracteres ア, イ, ウ, エ e オ**](#os-caracteres-ア-イ-ウ-エ-e-オ)
+		- [**Os caracteres da coluna do k**](#os-caracteres-da-coluna-do-k)
+		- [**Os caracteres da coluna do s**](#os-caracteres-da-coluna-do-s)
+		- [**Os caracteres da coluna do t**](#os-caracteres-da-coluna-do-t)
+		- [**Os caracteres da coluna do n**](#os-caracteres-da-coluna-do-n)
+		- [**Os caracteres da coluna do h**](#os-caracteres-da-coluna-do-h)
+		- [**Os caracteres na coluna do m**](#os-caracteres-na-coluna-do-m)
+		- [**Os caracteres na coluna do y**](#os-caracteres-na-coluna-do-y)
+		- [**Os caracteres na coluna do r**](#os-caracteres-na-coluna-do-r)
+		- [**Os caracteres da coluna do w**](#os-caracteres-da-coluna-do-w)
+		- [**O caractere ン**](#o-caractere-ン)
+- [**Notas finais**](#notas-finais)
+- [**Para exercitar a leitura**](#para-exercitar-a-leitura)
 
 ## **Contextualização histórica**
 Uma das formas de se referir ao ***katakana***, de forma parecida com o ***hiragana***, era 男手(おとこで).
@@ -73,6 +87,258 @@ A lista a seguir pontua alguns de seus casos de uso:
 - **Indicação de pronúncia**: pode ser encontrada próximo aos ***kanji***, acima, ou do lado em um tamanho um pouco menor;
 - **Modos de fala**: normalmente aparece quando um personagem não japonês fala algo, ou em alguns casos, até personagens não humanos, como robôs ou alienígenas;
 - **Nomes pessoais**: normalmente se escreve o nome de pessoas estrangeiras em ***katakana***.
+
+## **A ordem do traçado**
+A ordem do traçado do katakana é bem mais importante em comparação a do hiragana, tudo devido a alguns caracteres serem bastante semelhantes. Visualmente eles são semelhantes, mas a ordem dos traços e posição são levemente diferentes para que isso também ajude a diferenciá-los.
+
+### **Os caracteres ア, イ, ウ, エ e オ**
+ア
+
+![](images/02/ア.png)
+
+イ
+
+![](images/02/イ.png)
+
+ウ
+
+![](images/02/ウ.png)
+
+エ
+
+![](images/02/エ.png)
+
+オ
+
+![](images/02/オ.png)
+
+
+### **Os caracteres da coluna do k**
+カ
+
+![](images/02/カ.png)
+
+キ
+
+![](images/02/キ.png)
+
+ク
+
+![](images/02/ク.png)
+
+ケ
+
+![](images/02/ケ.png)
+
+コ
+
+![](images/02/コ.png)
+
+### **Os caracteres da coluna do s**
+サ
+
+![](images/02/サ.png)
+
+シ
+
+![](images/02/シ.png)
+
+ス
+
+![](images/02/ス.png)
+
+セ
+
+![](images/02/セ.png)
+
+ソ
+
+![](images/02/ソ.png)
+
+### **Os caracteres da coluna do t**
+タ
+
+![](images/02/タ.png)
+
+チ
+
+![](images/02/チ.png)
+
+ツ
+
+![](images/02/ツ.png)
+
+テ
+
+![](images/02/テ.png)
+
+ト
+
+![](images/02/ト.png)
+
+### **Os caracteres da coluna do n**
+ナ
+
+![](images/02/ナ.png)
+
+ニ
+
+![](images/02/ニ.png)
+
+ヌ
+
+![](images/02/ヌ.png)
+
+ネ
+
+![](images/02/ネ.png)
+
+ノ
+
+![](images/02/ノ.png)
+
+### **Os caracteres da coluna do h**
+ハ
+
+![](images/02/ハ.png)
+
+ヒ
+
+![](images/02/ヒ.png)
+
+フ
+
+![](images/02/フ.png)
+
+ヘ
+
+![](images/02/ヘ.png)
+
+ホ
+
+![](images/02/ホ.png)
+
+### **Os caracteres na coluna do m**
+マ
+
+![](images/02/マ.png)
+
+ミ
+
+![](images/02/ミ.png)
+
+ム
+
+![](images/02/ム.png)
+
+メ
+
+![](images/02/メ.png)
+
+モ
+
+![](images/02/モ.png)
+
+### **Os caracteres na coluna do y**
+ヤ
+
+![](images/02/ヤ.png)
+
+ユ
+
+![](images/02/ユ.png)
+
+ヨ
+
+![](images/02/ヨ.png)
+
+### **Os caracteres na coluna do r**
+ラ
+
+![](images/02/ラ.png)
+
+リ
+
+![](images/02/リ.png)
+
+ル
+
+![](images/02/ル.png)
+
+レ
+
+![](images/02/レ.png)
+
+ロ
+
+![](images/02/ロ.png)
+
+### **Os caracteres da coluna do w**
+
+ワ
+
+![](images/02/ワ.png)
+
+ヲ
+
+![](images/02/ヲ.png)
+
+### **O caractere ン**
+ン
+
+![](images/02/ン.png)
+
+# **Notas finais**
+Chegamos ao fim do segundo capítulo.
+Como podemos ver o segundo capítulo foi levemente mais curto que o primeiro devido a uma boa parte do conteúdo ser reaproveitado, como a contextualização histórica e a introdução e a explicação em torno da representação fonética.
+Por ser uma quantidade menor de conteúdo, não o ignore, pois ele é mais difícil de fixar devido à frequência do uso do ***katakana*** ser bem menor em comparação ao ***hiragana***.
+
+Apesar de ter terminado a base dos dois ***kana***, ainda faltam alguns assuntos relacionados que trataremos no próximo capítulo, entre eles é como representar o som o **g**, **z**, **d** e vários outros.
+Caso tenha interesse em se aprofundar mais sobre o conteúdo, utilize a seguinte lista com as principais referências utilizadas para construção deste capítulo:
+
+1. Blog [***Ganbarou Ze* – Gramática Japonesa**](https://ganbarouze.blogspot.com/);
+2. Site [***Japanese Lesson***](http://japanese-lesson.com/characters/katakana/katakana_writing.html).
+
+# **Para exercitar a leitura**
+|||||
+|:-:|:-:|:-:|:-:|
+ヨシ        | ショウ      | オス       | クセ
+トキ        | イレル      | オリル     | イナカ
+ナオ        | トラ        | トウ       | ツマ
+コム        | フルワセル  | ヘイキ      | タイヨウ
+コシ        | ナンテ      | ハシ       | ミヤル
+ニタイスル  | ツフヤク     | モユノ     | ナル
+イキル      | イイエ      | レイ       | コロ
+キメル      | タツ        | マイニチ   | ソノママ
+テイコク    | ハル        | ソノ       | キク
+トツセン    | セン        | トリ       | スム
+ムク        | ムスコ      | ヤツハリ   | キリ
+ナン        | イイエ      | ムコウ     | ワルイ
+オクサン    | シュチョウ   | ウカフ     | ヒテイ
+イカ        | マク        | ツテ       | ムラ
+シミン      | トクニ      | タイチ     | クルシイ
+シハイ      | シル        | ステ       | マワス
+コイ        | ヘイカ      | ミカタ     | カイ
+ヌレル      | ツコム      | イチケキ   | モノ
+ナカ        | ヤネ        | アオイ     | カンシ
+アツサリ    | タク        | ツキ       | イヨイヨ
+ヤワラカイ  | ナニモノ    | コメル      | アシオト
+イタス      | タノシム    | カメ       | シチウカイ
+ミマワス    | ニン        | イタイ     | モム
+ハウ       | フレル       | ココ       | アウ
+チュウシン  | オコナウ     | タテル     | ハツ
+オトナシイ  | カナメ       | スクナイ   | ユクエ
+カンサツ    | フトン       | サク      | カメラ
+ツクエ      | ヒル        | フル       | ツクエ
+ヨム       | ウチ         | タイ       | テイコウ
+ケイ       | スクウ       | セカイ     | オリル
+イウ       | フリカエル   | マツリ     | シカル
+ムスメ     | オサナイ     | ホカ       | イヨイヨ
+ニモツ     | チンモク     | ナシ       | カイケツ
+アル       | カケル      | ケン        | カク
+ホントニ   | チチ        | イチ        | ムカシ
+ウケル     | カタチ      | ダカラ      | モツ
+
 
 [« Capítulo anterior](lição01.md)
 

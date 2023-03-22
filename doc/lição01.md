@@ -35,8 +35,8 @@ Logo, mesmo ao tratar sobre fonética de forma superficial, a primeira parte des
 		- [**Os caracteres na coluna do y**](#os-caracteres-na-coluna-do-y-1)
 		- [**Os caracteres na coluna do r**](#os-caracteres-na-coluna-do-r-1)
 		- [**Os caracteres da coluna do w e ん**](#os-caracteres-da-coluna-do-w-e-ん)
-	- [**Notas finais**](#notas-finais)
-	- [**Para exercitar a leitura**](#para-exercitar-a-leitura)
+- [**Notas finais**](#notas-finais)
+- [**Para exercitar a leitura**](#para-exercitar-a-leitura)
 
 ## **Contextualização histórica**
 
@@ -398,13 +398,13 @@ Lá também tem versões alternativas de traçados.
 ![](images/01/ん.png)
 
 
-## **Notas finais**
+# **Notas finais**
 Chegamos ao final do primeiro capítulo do guia e espero que o conteúdo tenha sido repassado da forma mais clara possível, mesmo que tenha sido só o início da nossa jornada. 
 Caso tenha interesse em se aprofundar mais sobre o conteúdo, utilize a seguinte lista com as principais referências utilizadas para construção deste capítulo:
 1. Blog [***Ganbarou Ze* – Gramática Japonesa**](https://ganbarouze.blogspot.com/);
 2. Site [***Japanese Lesson***](http://japanese-lesson.com/characters/hiragana/hiragana_writing.html).
 
-## **Para exercitar a leitura**
+# **Para exercitar a leitura**
 |||||
 |:-:|:-:|:-:|:-:|
 いたす     | たく     | にもつ    | うち

@@ -16,6 +16,7 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Contextualização histórica](doc/lição02.md#contextualização-histórica)
    - [Os caracteres e seus fonemas](doc/lição02.md#os-caracteres-e-seus-fonemas)
    - [Alguns casos de uso no katakana](doc/lição02.md#alguns-casos-de-uso-no-katakana)
+	- [A ordem do traçado](doc/lição02.md#a-ordem-do-traçado)
 
 # Lição 01: Hiragana
 
