@@ -1,6 +1,7 @@
 [Voltar ao README 🡑](../README.md)
 
-[« Capítulo anterior](../README.md)
+[« Capítulo anterior](lição01.md) | 
+[Próximo capítulo »](lição03.md)
 
 # **Katakana**
 A primeira lição foi sobre um dos principais sistemas de escrita do japonês, o ***hiragana***.
@@ -340,6 +341,7 @@ Caso tenha interesse em se aprofundar mais sobre o conteúdo, utilize a seguinte
 ウケル     | カタチ      | ダカラ      | モツ
 
 
-[« Capítulo anterior](lição01.md)
+[« Capítulo anterior](lição01.md) | 
+[Próximo capítulo »](lição03.md)
 
 [Voltar ao README 🡑](../README.md)

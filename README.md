@@ -18,6 +18,10 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Alguns casos de uso no katakana](doc/lição02.md#alguns-casos-de-uso-no-katakana)
 	- [A ordem do traçado](doc/lição02.md#a-ordem-do-traçado)
 
+
+- [**LIÇÃO 03 – MAIS SOBRE OS KANA**](#lição-02-–-katakana)
+   - [Sons vozeados e sons surdos](doc/lição03.md#sons-vozeados-e-sons-surdos)
+
 # Lição 01: Hiragana
 
 A parte fonética e fonológica tem bastante peso pra se aprender um idioma de forma  plena, entretanto, para quem mal começou ou não tem muita proficiência na língua japonesa se torna apenas mais um peso ou carga não relevante em um primeiro contato.
@@ -30,3 +34,9 @@ A primeira lição foi sobre um dos principais sistemas de escrita do japonês, 
 Devido ao ***katakana*** ter vários pontos exatamente iguais a ele, muitos detalhes nas explicações serão mais breves por já terem sido apresentadas em mais detalhes no capítulo anterior, então, caso fique algo com um tom mais vago, basta reler o primeiro capítulo para relembrar com mais detalhes.
 Não terá apenas o conteúdo fosse uma releitura do anterior, pois existem vários casos de usos do ***katakana*** que normalmente não se usa o ***hiragana***, mas vamos para a contextualização pra não enrolar demais.
 [Ler mais...](doc/lição02.md)
+
+# Lição 03 - Mais sobre os kana
+
+O ***hiragana*** e o ***katakana*** formam um conjunto chamado ***kana***.
+O que aprendemos nos dois primeiros capítulos foi apenas o básico, pois apenas com aquelas duas tabelas, como a gente faz pra escrever uma coluna para o **d**, para o **g**, para o **z** ou para mais algumas outras consoantes que temos no português? Isso significa que no japonês não tem eles? Não, e em cada um dos tópicos a seguir será um ponto que nos falta para completar os requisitos para lermos tudo de ***hiragana*** e ***katakana***.
+[Ler mais...](doc/lição03.md)
