@@ -21,6 +21,8 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
 
 - [**LIÇÃO 03 – MAIS SOBRE OS KANA**](#lição-02-–-katakana)
    - [Sons vozeados e sons surdos](doc/lição03.md#sons-vozeados-e-sons-surdos)
+   - [Seion (清音)](doc/lição03.md#seion-清音)
+   - [Dakuon (濁音)](doc/lição03.md#dakuon-濁音)
 
 # Lição 01: Hiragana
 
