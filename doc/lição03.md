@@ -14,6 +14,7 @@ O que aprendemos nos dois primeiros capítulos foi apenas o básico, pois apenas
 		- [**Os caracteres da coluna do s**](#os-caracteres-da-coluna-do-s)
 		- [**Os caracteres da coluna do t**](#os-caracteres-da-coluna-do-t)
 		- [**Os caracteres da coluna do h**](#os-caracteres-da-coluna-do-h)
+	- [**Handakuon (半濁音)**](#handakuon-半濁音)
 
 ## **Sons vozeados e sons surdos**
 As duas tabelas de caracteres apresentadas nos dois capítulos anteriores representam apenas os sons naturais/puros no idioma japonês, e diferente do português que existem também esses sons, não nos é ensinado que isso existe, apenas aprendemos as letras e os sons associados a cada uma sem explicação de como realmente funciona.
@@ -120,6 +121,20 @@ O som para へ e ヘ é [he], o som para べ e ベ é [be];
 O som para ほ e ホ é [ho], o som para ぼ e ボ é [bo].
 A romanização é **ba**, **bi**, **bu**, **be** e **bo**, respectivamente.
 
+## **Handakuon (半濁音)**
+Como o nome sugere, o ***handakuon*** é bem parecido com o ***dakuon*** e ocorre apenas na coluna do **h**. A mudança ocorre para [p] e não [b]. O símbolo, em vez de colocar o ***dakuten***, é um círculo pequeno na mesma posição. Então:
+
+O som para ぱ e パ é [pa];
+
+O som para ぴ e ピ é [pi];
+
+O som para ぷ e プ é [pɯ];
+
+O som para ぺ e ペ é [pe];
+
+O som para ぽ e ポ é [po].
+
+A romanização é **pa**, **pi**, **pu**, **pe** e **po**, respectivamente.
 
 [« Capítulo anterior](lição02.md)
 
