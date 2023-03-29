@@ -23,6 +23,9 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Sons vozeados e sons surdos](doc/lição03.md#sons-vozeados-e-sons-surdos)
    - [Seion (清音)](doc/lição03.md#seion-清音)
    - [Dakuon (濁音)](doc/lição03.md#dakuon-濁音)
+   - [Handakuon (半濁音)](doc/lição03.md#handakuon-半濁音)
+   - [Youon (拗音)](doc/lição03.md#youon-拗音)
+   - [Chouon (長音)](doc/lição03.md#chouon-長音)
 
 # Lição 01: Hiragana
 

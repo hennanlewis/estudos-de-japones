@@ -16,6 +16,7 @@ O que aprendemos nos dois primeiros capítulos foi apenas o básico, pois apenas
 		- [**Os caracteres da coluna do h**](#os-caracteres-da-coluna-do-h)
 	- [**Handakuon (半濁音)**](#handakuon-半濁音)
 	- [**Youon (拗音)**](#youon-拗音)
+	- [**Chouon (長音)**](#chouon-長音)
 
 ## **Sons vozeados e sons surdos**
 As duas tabelas de caracteres apresentadas nos dois capítulos anteriores representam apenas os sons naturais/puros no idioma japonês, e diferente do português que existem também esses sons, não nos é ensinado que isso existe, apenas aprendemos as letras e os sons associados a cada uma sem explicação de como realmente funciona.
@@ -159,6 +160,27 @@ Essa lógica funciona até para ***dakuon*** e ***handakuon***, exceto com し, 
 - じゃ, じゅ e じょ, respectivamente **ja**, **ju** e **jo**;
 - ちゃ, ちゅ e ちょ, respectivamente **cha**, **chu** e **cho**;
 - ぢゃ, ぢゅ e ぢょ, respectivamente **ja**, **ju** e **jo**.
+
+## **Chouon (長音)**
+Este tópico é bem simples.
+O ***chouon*** apenas indica o prolongamento da vogal da sílaba anterior, como na palavra fictícia とおにか que o お prolonga o som do **o** em と.
+Outra palavra que isso ocorre é おかあさん, que a pronúncia é “okaasan”, não algo como “oka asan” como se houvesse uma pausa entre as duas letras **a**s seguidas, é contínuo e sem pausa.
+O símbolo do prolongamento na transcrição fonética é o sinal de dois pontos, [:].
+Palavras em que isso ocorre:
+- Com あ: おかあさん, ラーメン;
+- Com い: おじいさん, おにいさん;
+- Com う: すうじ, ユーチューブ;
+- Com え: おねえさん, ケーキ;
+- Com お: おおき, こおり, おおかみ.
+
+Em ***katakana***, a indicação de prolongamento de mesma vogal é feita com um traço na direção da escrita, diferente do hiragana que ocorre a escrita da vogal que continua o som.
+As palavras são: ラーメン, que é lámen; ユーチューブ, que é  YouTube; e ケーキ, que é biscoito (vindo do inglês, cake, “keeki”).
+Existem mais dois casos de prolongamento:
+- O い escrito após um caractere da えだん prolonga o som do **e**, assim como na palavra えいが, [e:ga], que significa filme;
+- O う escrito após um caractere da おだん prolonga o som do **o**, assim como na palavra とうきょう, [to:kjo:], que significa Tóquio.
+
+Esses casos são uma verdadeira pegadinha, pois apesar de na grande maioria sempre acontecerem, existem palavras que seguem esses padrões mas não há o prolongamento da vogal, como na palavra めい, [mei], que significa sobrinha e おもう, [omoɯ] e não [omo:], que significa pensar.
+No segundo caso, a maioria das vezes que isso ocorre é pela palavra ser um verbo, e em alguns outros casos ocorre quando a palavra é uma junção de outras duas, uma que a primeira termina com [o] e outra que a segunda começa com [ɯ].
 
 [« Capítulo anterior](lição02.md)
 
