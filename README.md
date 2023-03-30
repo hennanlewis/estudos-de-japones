@@ -16,7 +16,7 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Contextualização histórica](doc/lição02.md#contextualização-histórica)
    - [Os caracteres e seus fonemas](doc/lição02.md#os-caracteres-e-seus-fonemas)
    - [Alguns casos de uso no katakana](doc/lição02.md#alguns-casos-de-uso-no-katakana)
-	- [A ordem do traçado](doc/lição02.md#a-ordem-do-traçado)
+   - [A ordem do traçado](doc/lição02.md#a-ordem-do-traçado)
 
 
 - [**LIÇÃO 03 – MAIS SOBRE OS KANA**](#lição-02-–-katakana)
@@ -26,6 +26,7 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Handakuon (半濁音)](doc/lição03.md#handakuon-半濁音)
    - [Youon (拗音)](doc/lição03.md#youon-拗音)
    - [Chouon (長音)](doc/lição03.md#chouon-長音)
+   - [Sokuon (促音)](#sokuon-促音)
 
 # Lição 01: Hiragana
 

@@ -17,6 +17,7 @@ O que aprendemos nos dois primeiros capítulos foi apenas o básico, pois apenas
 	- [**Handakuon (半濁音)**](#handakuon-半濁音)
 	- [**Youon (拗音)**](#youon-拗音)
 	- [**Chouon (長音)**](#chouon-長音)
+	- [**Sokuon (促音)**](#sokuon-促音)
 
 ## **Sons vozeados e sons surdos**
 As duas tabelas de caracteres apresentadas nos dois capítulos anteriores representam apenas os sons naturais/puros no idioma japonês, e diferente do português que existem também esses sons, não nos é ensinado que isso existe, apenas aprendemos as letras e os sons associados a cada uma sem explicação de como realmente funciona.
@@ -181,6 +182,73 @@ Existem mais dois casos de prolongamento:
 
 Esses casos são uma verdadeira pegadinha, pois apesar de na grande maioria sempre acontecerem, existem palavras que seguem esses padrões mas não há o prolongamento da vogal, como na palavra めい, [mei], que significa sobrinha e おもう, [omoɯ] e não [omo:], que significa pensar.
 No segundo caso, a maioria das vezes que isso ocorre é pela palavra ser um verbo, e em alguns outros casos ocorre quando a palavra é uma junção de outras duas, uma que a primeira termina com [o] e outra que a segunda começa com [ɯ].
+
+## **Sokuon (促音)**
+O último ponto sobre as peculiaridades para leitura e escrita do idioma japonês é o ***sokuon***.
+Algumas definições sugerem que ele é um prolongamento com a duração de uma mora do som das consoantes, já outras indicam que ele é uma pausa com a duração de uma mora.
+
+Tecnicamente falando, a definição correta é a do prolongamento, mas é entendível algumas pessoas definirem como pausa.
+Em sons de consoantes como [t], não existe uma forma de prolongar a produção de tal som, mas em sons de consoantes como [s] existe essa possibilidade, enquanto há fôlego, é possível fazer tal som.
+Então, em casos que é possível prolongar o som, o correto é aumentar a duração em uma mora, e em casos que não é possível, o correto é posicionar a boca e a língua como se fosse falar a letra, mas fazer uma pausa sonora com a duração de uma mora.
+
+O símbolo para transcrição fonética, assim como no ***chouon***, é [:] logo após a consoante e sua representação através da romanização é repetir a consoante que inicia o caractere imediatamente seguinte, por exemplo がっこう fica gakkou, ざっし fica zasshi.
+Alguns exemplos de como fica a transcrição fonética:
+- サッカー, [sak:a:], significa futebol;
+- いっしょ, [iɕ:o], significa juntos;
+- がっこう, [gak:o:], significa escola;
+- ざっし, [zaɕ:i], significa revista.
+
+Para exemplificar a forma correta, imagine que cada um dos quadrados das tabelas a seguir têm a mesma duração e que as células vazias representam silêncios:
+
+1. Correto:
+
+	Mora|1|2|3|4
+	:-:|:-:|:-:|:-:|:-:
+	**Transcrição** |[sa]|[ka]|[a]
+
+	Incorreto:
+
+	Mora|1|2|3
+	:-:|:-:|:-:|:-:
+	**Transcrição** |[sa]|[ka]|[a]
+
+2. Correto:
+
+	Mora|1|2|3
+	:-:|:-:|:-:|:-:
+	**Transcrição** |[i]|[ɕ]|[ɕo]
+
+	Incorreto:
+
+	Mora|1|2
+	:-:|:-:|:-:
+	**Transcrição** |[i]|[ɕo]
+
+3. Correto:
+
+	Mora|1|2|3|4
+	:-:|:-:|:-:|:-:|:-:
+	**Transcrição** |[ga]||[ko]|[o]
+
+	Incorreto:
+
+	Mora|1|2|3
+	:-:|:-:|:-:|:-:
+	**Transcrição** |[ga]|[ko]|[o]
+
+4. Correto:
+
+	Mora|1|2|3
+	:-:|:-:|:-:|:-:
+	**Transcrição** |[za]|[ɕ]|[ɕi]
+
+	Incorreto:
+
+	Mora|1|2
+	:-:|:-:|:-:
+	**Transcrição** |[za]|[ɕi]
+
+
 
 [« Capítulo anterior](lição02.md)
 
