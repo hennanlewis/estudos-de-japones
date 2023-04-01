@@ -18,6 +18,8 @@ O que aprendemos nos dois primeiros capítulos foi apenas o básico, pois apenas
 	- [**Youon (拗音)**](#youon-拗音)
 	- [**Chouon (長音)**](#chouon-長音)
 	- [**Sokuon (促音)**](#sokuon-促音)
+	- [**Os kana pequenos ア, イ, ウ, エ e オ**](#os-kana-pequenos-ア-イ-ウ-エ-e-オ)
+	- [**O kana ヴ**](#o-kana-ヴ)
 
 ## **Sons vozeados e sons surdos**
 As duas tabelas de caracteres apresentadas nos dois capítulos anteriores representam apenas os sons naturais/puros no idioma japonês, e diferente do português que existem também esses sons, não nos é ensinado que isso existe, apenas aprendemos as letras e os sons associados a cada uma sem explicação de como realmente funciona.
@@ -248,6 +250,28 @@ Para exemplificar a forma correta, imagine que cada um dos quadrados das tabelas
 	:-:|:-:|:-:
 	**Transcrição** |[za]|[ɕi]
 
+## **Os kana pequenos ア, イ, ウ, エ e オ**
+Mesmo depois de apresentarmos vários sons, ainda faltam alguns para preencher as irregularidades, como o som de [si] em vez do [ɕi], [ti] em vez de [tɕi], **fa** – apesar de o som de **f** para eles não é o mesmo nosso, a romanização dos caracteres trata o ふ como **fu** – e mais alguns.
+
+> Observação:
+>
+> Mesmo que na teoria seja possível escrever todos os caracteres com o hiragana, não existem palavras japonesas que necessitam dessas combinações especiais.
+
+- Para fazer fa, fi, fe e fo, escrevemos respectivamente ファ, フィ, フェ e フォ;
+- Para fazer tu, escrevemos トゥ;
+- Para fazer o [ti] , escrevemos ティ.
+
+Então existem alguns padrões, mas para não explicar de um a um, veja a seguinte tabela que completa o silabário japonês de acordo com pares consoante vogal bastantes comuns no ocidente:
+
+![](images/03/kana-combo.png)
+
+## **O kana ヴ**
+Resta apenas uma representação para caracteres, o nosso v.
+Tecnicamente falando, os japoneses têm mutia dificuldade de entender o som de [v] pois não existe esse som naturalmente no idioma japonês, então o mais próximo pra eles é o som de [b]. Como exemplo, o nome do Vejita de Dragon Ball é escrito ベジータ, que tem como romanização Bejita.
+
+Então só é possível escrever com b? Não, e é justamente com ヴ, ele representa explicitamente a letra v na romanização – esse caractere tem apenas a versão em katakana, pois representa justamente algo não é de origem japonesa.
+
+Para indicar va, vi, vu, ve e vo, usamos respectivamente ヴァ, ヴィ, ヴ, ヴェ e ヴォ.
 
 
 [« Capítulo anterior](lição02.md)
