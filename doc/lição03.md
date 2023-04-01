@@ -20,6 +20,7 @@ O que aprendemos nos dois primeiros capítulos foi apenas o básico, pois apenas
 	- [**Sokuon (促音)**](#sokuon-促音)
 	- [**Os kana pequenos ア, イ, ウ, エ e オ**](#os-kana-pequenos-ア-イ-ウ-エ-e-オ)
 	- [**O kana ヴ**](#o-kana-ヴ)
+	- [**Encontros consonantais**](#encontros-consonantais)
 
 ## **Sons vozeados e sons surdos**
 As duas tabelas de caracteres apresentadas nos dois capítulos anteriores representam apenas os sons naturais/puros no idioma japonês, e diferente do português que existem também esses sons, não nos é ensinado que isso existe, apenas aprendemos as letras e os sons associados a cada uma sem explicação de como realmente funciona.
@@ -255,7 +256,7 @@ Mesmo depois de apresentarmos vários sons, ainda faltam alguns para preencher a
 
 > Observação:
 >
-> Mesmo que na teoria seja possível escrever todos os caracteres com o hiragana, não existem palavras japonesas que necessitam dessas combinações especiais.
+> Mesmo que na teoria seja possível escrever todos os caracteres com o ***hiragana***, não existem palavras japonesas que necessitam dessas combinações especiais.
 
 - Para fazer fa, fi, fe e fo, escrevemos respectivamente ファ, フィ, フェ e フォ;
 - Para fazer tu, escrevemos トゥ;
@@ -266,13 +267,24 @@ Então existem alguns padrões, mas para não explicar de um a um, veja a seguin
 ![](images/03/kana-combo.png)
 
 ## **O kana ヴ**
-Resta apenas uma representação para caracteres, o nosso v.
-Tecnicamente falando, os japoneses têm mutia dificuldade de entender o som de [v] pois não existe esse som naturalmente no idioma japonês, então o mais próximo pra eles é o som de [b]. Como exemplo, o nome do Vejita de Dragon Ball é escrito ベジータ, que tem como romanização Bejita.
+Resta apenas uma representação para caracteres, o nosso **v**.
+Tecnicamente falando, os japoneses têm mutia dificuldade de entender o som de [v] pois não existe esse som naturalmente no idioma japonês, então o mais próximo pra eles é o som de [b]. Como exemplo, o nome do *Vejita* de *Dragon Ball* é escrito ベジータ, que tem como romanização *Bejita*.
 
-Então só é possível escrever com b? Não, e é justamente com ヴ, ele representa explicitamente a letra v na romanização – esse caractere tem apenas a versão em katakana, pois representa justamente algo não é de origem japonesa.
+Então só é possível escrever com **b**? Não, e é justamente com ヴ, ele representa explicitamente a letra **v** na romanização – esse caractere tem apenas a versão em ***katakana***, pois representa justamente algo não é de origem japonesa.
 
-Para indicar va, vi, vu, ve e vo, usamos respectivamente ヴァ, ヴィ, ヴ, ヴェ e ヴォ.
+Para indicar **va**, **vi**, **vu**, **ve** e **vo**, usamos respectivamente ヴァ, ヴィ, ヴ, ヴェ e ヴォ.
 
+## **Encontros consonantais**
+Se comparada ao japonês, conseguimos produzir sonoramente uma representação par a par de uma consoante e uma vogal e de apenas uma consoante isoladamente, apesar de não ser tão comum de produzirmos isso, devido a naturalmente produzirmos o som de uma vogal epentética quando ocorre o som de duas consoantes seguidas.
+Uma vogal epentética é a colocação do som de uma vogal onde ela não existe na escrita, por exemplo, no português brasileiro, ao pronunciar a palavra **algoritmo**, que pronunciamos algo como **“algorítimo”**.
+A vogal **i** após o **t** fez o papel de vogal epentética.
+
+No japonês, as consoantes que deveriam ser pronunciadas de forma isoladas passam por um processo parecido como a produção de uma vogal epentética no português, mas diferente da nossa língua que na maioria das vezes ocorre com a letra **i**, lá ocorre com o som do う.
+Ou seja, palavras como Gabriel seriam algo como ガブリエル.
+
+E por que isso ocorre? Justamente pela unidade sonora mínima ser a mora.
+O ritmo do japonês falado requer que todas as “sílabas” devam ser pronunciadas com aproximadamente o mesmo tempo de duração, mas quando uma consoante isolada é pronunciada, para o tempo dela não quebrar o ritmo, o som mais próximo que eles ouvem quando isso ocorre é o som do う.
+Ao fazer o teste de falar a palavra **Gabriel** bem devagar, conseguiremos notar que um som bastante parecido com o som de **u**.
 
 [« Capítulo anterior](lição02.md)
 
