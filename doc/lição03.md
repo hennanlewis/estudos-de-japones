@@ -21,6 +21,9 @@ O que aprendemos nos dois primeiros capítulos foi apenas o básico, pois apenas
 	- [**Os kana pequenos ア, イ, ウ, エ e オ**](#os-kana-pequenos-ア-イ-ウ-エ-e-オ)
 	- [**O kana ヴ**](#o-kana-ヴ)
 	- [**Encontros consonantais**](#encontros-consonantais)
+	- [**Uso histórico do kana**](#uso-histórico-do-kana)
+- [**Notas finais**](#notas-finais)
+- [**Para exercitar a leitura**](#para-exercitar-a-leitura)
 
 ## **Sons vozeados e sons surdos**
 As duas tabelas de caracteres apresentadas nos dois capítulos anteriores representam apenas os sons naturais/puros no idioma japonês, e diferente do português que existem também esses sons, não nos é ensinado que isso existe, apenas aprendemos as letras e os sons associados a cada uma sem explicação de como realmente funciona.
@@ -285,6 +288,119 @@ Ou seja, palavras como Gabriel seriam algo como ガブリエル.
 E por que isso ocorre? Justamente pela unidade sonora mínima ser a mora.
 O ritmo do japonês falado requer que todas as “sílabas” devam ser pronunciadas com aproximadamente o mesmo tempo de duração, mas quando uma consoante isolada é pronunciada, para o tempo dela não quebrar o ritmo, o som mais próximo que eles ouvem quando isso ocorre é o som do う.
 Ao fazer o teste de falar a palavra **Gabriel** bem devagar, conseguiremos notar que um som bastante parecido com o som de **u**.
+
+## **Uso histórico do kana**
+Muitos materiais pulam as contextualizações históricas, mas alguns dos pontos neste tópico serão citados nos próximos capítulos e um deles é a questão de escrita vs pronúncia.
+
+Como podemos perceber no nosso próprio idioma, algumas vezes a escrita e a pronúncia são descompassadas, a velocidade de mudança da língua falada é muito mais rápida que da língua escrita por consequência de sotaques, de regiões, de grupos de pessoas que utilizam certas palavras ou gírias.
+Apenas após uma palavra estar disseminada amplamente que é aceita na escrita de forma natural e orgânica. Isso também ocorreu com o japonês mas de forma bem mais evidente.
+
+Por conta dessas inconsistências, a escrita e a pronúncia de algumas palavras era explicitamente diferente.
+Os próximos pontos os que mais se destacam:
+
+- ***Kana* obsoletos e を**: Aqui entram os ***kana*** ゐ, ゑ, を, ぢ e づ. Os dois primeiros, como já sabemos são obsoletos e deixaram de ser usados. Eles podiam ser encontrados em palavras normais, sendo alguns exemplos delas ゐる (居る) – **existir** – e こゑ (声) – **voz** –, sendo a pronúncia real いる e こえ, respectivamente. A mesma coisa acontecia com を, como da palavra をばさん – **tia** – e をとこ (男)  – **homem**.
+- **Uso de ぢ e づ**: Os caracteres ぢ e づ eram usados em palavras com bastante frequência, como おぢいさん – **avô** – e まづ(先づ) – **primeiro** –, porém sua pronúncia real é おばさん, おじいさん e まず, respectivamente.
+- **Os caracteres da coluna do h**: Caso os caracteres は, ひ, ふ, へ e ほ estivessem localizados no fim das palavras, eram pronunciados como わ, い, う, え e お, respectivamente. Alguns exemplos são かは (川) – **rio** – e まへ (前) – **antes**, **frente** –, com pronúncia real かわ e まえ, respectivamente.
+- **Mudança de あう para おう**: Dois exemplos são ありがたう – **obrigado** –, たふとい (尊い) – **precioso** –, com pronúncia real ありがとう e とうとい. Perceba que em たふとい ainda faz um combo com o subtópico anterior, たふとい “passa por” たうとい para depois chegar a とうとい, e todos essas mudanças de ***kana*** são passíveis de fazer combo com o tópico anterior.
+- **Mudança de えう e やう para ょう**: Aqui ocorre uma espécie de youon, como em けう (今日) – **hoje** – e てふ – **borboleta** –, com pronúncia real きょう e ちょう. Como em きやうだい (兄弟) – **irmãos** – e ちやうちやう (町長) – **prefeito** –, com pronúncia real きょうだい e ちょうちょう.
+- **Mudança de む para ん**: Como no sufixo de negação em verbos na forma polida ~ませむ, com pronúncia real ~ません.
+Existem várias outras mudanças, porém, não é de extrema necessidade aprendê-las já que elas caíram em desuso após a reforma que ocorreu nos anos de 1900 para facilitar a educação – no próximo capítulo esta reforma será tratada com mais detalhes –, consequentemente, não é tão necessário um estudante iniciante se aprofundar no tema.
+
+# **Notas finais**
+Primeiramente, como nesse capítulo apresentamos o conceito de ***youon*** e ***chouon***, a partir deste capítulo, ao nos referirmos a uma coluna específica, usaremos a denominação em japonês, que utiliza o primeiro caractere de cima pra baixo da coluna com ぎょう, ou seja, a coluna do **a** fica あぎょう, a coluna do **k** fica かぎょう e assim por diante.
+
+Após o término deste capítulo, estamos aptos a ler todos os textos que contenham apenas ***katakana*** e ***hiragana***, mas em relação a pronúncia, é essencial entendermos que o japonês gira totalmente em torno da mora, uma unidade de tempo mínimo para cada sílaba.
+Caso isso não fique bem internalizado, podemos acumular pequenos erros durante a fala que se acumulam e podem até gerar um entendimento completamente diferente do que queremos repassar, já que devido as limitações fonéticas japonesas, várias palavras possuem pronúncia parecida ou até mesmo igual.
+
+Para entender melhor como é a pronúncia, já que tentar descrever sons é relativamente difícil, recomendo assistir os vídeos do canal ***Campanas the Japanese***, pois lá, o *Mei* passa por todos os caracteres e suas respectivas pronúncias.
+
+Caso tenham interesse em se aprofundar mais sobre o conteúdo, utilize a seguinte lista com as principais referências utilizadas para construção deste capítulo: 
+1. Blog [***Ganbarou Ze* – Gramática Japonesa**](https://ganbarouze.blogspot.com/);
+2. Canal [***Campanas the Japanese***](https://www.youtube.com/@campanasdejapanese).
+
+
+# **Para exercitar a leitura**
+|||||
+:-:|:-:|:-:|:-:
+つて             | イクツ     | つま       | しがみつく
+つたえる         | どうよう   | ニョウボウ  | けっか
+ののやま         | ショウ     | トクシュ    | ないよう
+ぜったい         | ジャア     | ツクル      | ヤサシイ
+あやしい         | ダイジョ | ジツニ        | シッパイ
+ぶつかる         | チョクセツ | シャベル    | ショウタイ
+ばしょ           | エッ      | つらい      | ヒョウ
+マッカ           | コウジョウ | イッタイ    | ちゃく
+ツエ             | シヨ      | やぶる      | モット
+キョウミ         | トウチャク | じてんしゃ  | タイチョウ
+サギョウ         | つづける   | バクハツ    | よこ
+シャシン         | しゅちょう | けいやく    | キョウリョク
+やくそく         | ユックリ   | チチオヤ    | ヤラ
+よわい           | モツ      | ニュウ      | ジョシ
+やすい           | ズット    | はや        | つかれる
+まっすぐ         | ヨル      | よぶ        | イヨイヨ
+きょうしつ       | ひょうめん | よびかける  | いっしゅ
+コキョウ         | ねつ      | おきゃく    | しんじつ
+シツレイ         | ケッシン   | のうりょく | シャツ
+ジョチュウ       | じさつ     | ようこ     | けっきょく
+フェ             | ぶちょう   | ツウジル   | うつす
+やう             | チョウ     | びょう     | べんきょう
+やり             | ジュギョウ | イッパイ   | ヤネ
+ようす           | つめ      | ビショウ    | きょうじゅ
+しつない         | ジッサイ   | ゆら       | にいちゃん
+やる            | ジョウタイ  | いっしょ   | いや
+しんにゅう       | まじゅつ   | じゅもん   | ようへい
+とちゅうちょうど | ジョウ     | ヒッパル   | シュルイ
+せっしょく       | にもつ     | オヤ      | ゆの
+ヘヤ            | ダッテ     | ジョウダン | じつは
+リョウ          | シュウカン | じゃま     | ツカム
+ちょうし        | きょう     | よゆう     | タモツ
+ウツムク        | やっと     | ヒトツ     | ジンブツ
+ッケ           | しゅっぱつ  | ヨケイ     | しょうり
+あらゆる        | あつまる   | トウキョウ | しょ
+いっしょう      | ひっし     | あつめる   | パンティ
+かくじつ        | コリャ     | ガッコウ   | ヒャク
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [« Capítulo anterior](lição02.md)
 
