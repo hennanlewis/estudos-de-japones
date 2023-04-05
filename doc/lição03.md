@@ -1,6 +1,7 @@
 [Voltar ao README 🡑](../README.md)
 
-[« Capítulo anterior](lição02.md)
+[« Capítulo anterior](lição02.md) | 
+[Próximo capítulo »](lição04.md)
 
 # **Mais sobre os kana**
 O ***hiragana*** e o ***katakana*** formam um conjunto chamado ***kana***.
@@ -361,47 +362,7 @@ Caso tenham interesse em se aprofundar mais sobre o conteúdo, utilize a seguint
 かくじつ        | コリャ     | ガッコウ   | ヒャク
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[« Capítulo anterior](lição02.md)
+[« Capítulo anterior](lição02.md) | 
+[Próximo capítulo »](lição04.md)
 
 [Voltar ao README 🡑](../README.md)
