@@ -10,15 +10,11 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Contextualização histórica](doc/lição01.md#contextualização-histórica)
    - [Os caracteres e seus fonemas](doc/lição01.md#os-caracteres-e-seus-fonemas)
    - [A ordem do traçado](doc/lição01.md#a-ordem-do-traçado)
-
-
 - [**LIÇÃO 02 – KATAKANA**](#lição-02-katakana)
    - [Contextualização histórica](doc/lição02.md#contextualização-histórica)
    - [Os caracteres e seus fonemas](doc/lição02.md#os-caracteres-e-seus-fonemas)
    - [Alguns casos de uso no katakana](doc/lição02.md#alguns-casos-de-uso-no-katakana)
    - [A ordem do traçado](doc/lição02.md#a-ordem-do-traçado)
-
-
 - [**LIÇÃO 03 – MAIS SOBRE OS KANA**](#lição-03-mais-sobre-os-kana)
    - [Sons vozeados e sons surdos](doc/lição03.md#sons-vozeados-e-sons-surdos)
    - [Seion (清音)](doc/lição03.md#seion-清音)
@@ -31,11 +27,10 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [O kana ヴ](#o-kana-ヴ)
    - [Encontros consonantais](doc/lição03.md#encontros-consonantais)
    - [Uso histórico do kana](doc/lição03.md#uso-histórico-do-kana)
-
-
 - [**LIÇÃO 04 – KANJI**](#lição-04-kanji)
    - [Contextualização histórica](doc/lição04.md#contextualização-histórica)
    - [Leituras e classificações de caracteres dos kanji](doc/lição04.md#leituras-e-classificações-de-caracteres-dos-kanji)
+   - [Como saber qual leitura usar?](doc/lição04.md#como-saber-qual-leitura-usar)
 
 # Lição 01: Hiragana
 

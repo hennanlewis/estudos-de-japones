@@ -15,6 +15,7 @@ Então, sem mais delongas, vamos a diante.
 		- [**Kun’yomi (訓読み)**](#kunyomi-訓読み)
 		- [**Furigana (振り仮名)**](#furigana-振り仮名)
 		- [**Okurigana (送り仮名)**](#okurigana-送り仮名)
+	- [**Como saber qual leitura usar?**](#como-saber-qual-leitura-usar)
 
 ## **Contextualização histórica**
 O idioma japonês demorou bastante para possuir um sistema de escrita.
@@ -148,6 +149,25 @@ Esses são mais alguns exemplos:
 
 > **Observação**:
 > Na parte superior da imagem da direita, o と não é o ***okurigana*** de 平仮名 pois ela já tem o sentido completo somente com seus ***kanji***.
+
+## **Como saber qual leitura usar?**
+Alguns ***kanji*** possuem mais de uma ***on’yomi*** e ***kun’yomi***, o que resulta em várias combinações possíveis.
+Para responder como saber qual das leituras existentes devemos usar a lógica: não existe lógica, mas tem algumas dicas e macetes básicos.
+
+Entretanto, devemos entender que mesmo com dicas, não tem como acertar todos os casos.
+Os ***kanji*** vieram de época, lugar e alguns nem correspondem mais as pronuncias naturais, e sendo assim, o mais correto é realmente conhecer a palavra para saber sua real pronúncia.
+
+Temos que levar em consideração também que é mais fácil entender o significado de um conjunto de ***kanji*** pelo significado individualmente de cada um deles que saber sua pronúncia sem conhecer a palavra antes.
+Por exemplo, 牛 significa boi, 乳 significa leite e 肉 significa carne, então podemos supor que o significado de 牛肉 seja **leite bovino** e de 牛肉 seja **carne bovina**.
+
+Vamos para duas dicas gerais:
+1. Em palavras somente com um ***kanji*** ou que possuam ***okurigana***, a chance da pronúncia ser ***kun'yomi*** é extremamente alta;
+2. Em palavras que possuam dois ou mais ***kanji***, a chance da pronúncia ser ***on'yomi*** é extremamente alta.
+
+Se formos um pouco mais críticos, isso não ajuda muito devido a vários ***kanji*** terem mais de uma leitura ***on*** ou ***kun***, apenas limita o escopo de procura.
+Em comparação com o português, japonês tem pouquíssimas exceções, mas essas duas dicas possuem tantas exceções que em comparação com outras, não dá nem para chamar de regra direito.
+
+Nem tudo está perdido, os seguintes tópicos relacionam mais alguns tipos de leituras que podem servir como dicas, então, basta continuarmos para adicionar um pouco de luz a nossa dúvida.
 
 [« Capítulo anterior](lição03.md)
 
