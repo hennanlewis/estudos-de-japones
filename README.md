@@ -35,6 +35,7 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
 
 - [**LIÇÃO 04 – KANJI**](#lição-04-kanji)
    - [Contextualização histórica](doc/lição04.md#contextualização-histórica)
+   - [Leituras e classificações de caracteres dos kanji](doc/lição04.md#leituras-e-classificações-de-caracteres-dos-kanji)
 
 # Lição 01: Hiragana
 
