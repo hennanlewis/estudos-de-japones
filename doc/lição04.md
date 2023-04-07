@@ -16,6 +16,11 @@ Então, sem mais delongas, vamos a diante.
 		- [**Furigana (振り仮名)**](#furigana-振り仮名)
 		- [**Okurigana (送り仮名)**](#okurigana-送り仮名)
 	- [**Como saber qual leitura usar?**](#como-saber-qual-leitura-usar)
+	- [**Leituras especiais**](#leituras-especiais)
+		- [**Leituras mescladas**](#leituras-mescladas)
+		- [**Leituras extras**](#leituras-extras)
+		- [**Leituras atribuídas**](#leituras-atribuídas)
+		- [**Simplificação de leitura**](#simplificação-de-leitura)
 
 ## **Contextualização histórica**
 O idioma japonês demorou bastante para possuir um sistema de escrita.
@@ -168,6 +173,78 @@ Se formos um pouco mais críticos, isso não ajuda muito devido a vários ***kan
 Em comparação com o português, japonês tem pouquíssimas exceções, mas essas duas dicas possuem tantas exceções que em comparação com outras, não dá nem para chamar de regra direito.
 
 Nem tudo está perdido, os seguintes tópicos relacionam mais alguns tipos de leituras que podem servir como dicas, então, basta continuarmos para adicionar um pouco de luz a nossa dúvida.
+
+## **Leituras especiais**
+Vimos os dois tipos principais de leitura, contudo, ainda existem alguns outros. Além das duas leituras principais, ***on’yomi*** e ***kun’yomi***, existem algumas outras que são um tipo de variação. Os seguintes subtópicos abordarão o assunto.
+
+> **Observação**: Quando os caracteres com ***katakana*** indicam uma leitura, significa que é ***on’yomi***.
+
+### **Leituras mescladas**
+Tem leituras mescladas entre ***kun'yomi*** e ***on'yomi*** na mesma palavra:
+- ***juubakoyomi*** (重箱読み) essa ocorre quando a ***on'yomi*** vem no primeiro ***kanji*** da palavra, como em 王様 tem leitura オウ.さま.
+- Significa rei.
+- ***yutouyomi*** (湯桶読み) essa ocorre quando a ***kun'yomi*** vem no primeiro ***kanji*** da palavra, como em 手本, que tem leitura て.ホン.
+Significa caderno.
+
+### **Leituras extras**
+A ***nanori*** (名乗り) está intimamente ligada a ***kun'yomi*** e é usada principalmente para nome de pessoas e as vezes para nome de lugares.
+- 山: 音読み: サン, セン
+- 山: 訓読み: やま
+- 山: 名乗り: さ, やの, やん
+
+### **Leituras atribuídas**
+São leituras que não possuem relação com as pronúncias dos ***kanji*** utilizados.
+***Jukujikun*** (熟字訓) são palavras ou combinações com leitura que não pode ser separada para cada ***kanji***.
+Por exemplo, nas palavras 明日 e 今日, que suas pronúncias são あした e きょう, respectivamente, os sons não podem ser separados por ideograma.
+あした é uma combinação especial para os dois ***kanji*** como se eles fossem um só, e ocorre igualmente com きょう, que não pode separar, é a combinação dos dois que formam essa pronúncia.
+
+Normalmente, essas combinações também podem ser lidas com ***on’yomi*** e ***kun’yomi***.
+Por exemplo, 今日 também pode ser lido こんにち, que é ***on’yomi***.
+
+***Gikun*** (義訓) são leituras improvisadas.
+No vídeo sobre ***katakana***, um ***gikun*** foi citado ao falar dos ***kanji*** da palavra *quincy* em *Bleach*.
+Eles deveriam ser lidos 滅却師(めいきゃくし) mas o autor colocou quincy (クインシー).
+
+小宇宙(しょうう ou ちゅう), essa é de Cavaleiros do Zodíaco.
+Essa palavra significa microcosmo, mas o autor, *Masami Kurumada*, atribuiu a leitura para コスモ, que a gente conhece como cosmo.
+Outro exemplo é o nome do *Light* de *Death Note*, o nome dele normalmente deveria ser lido 夜神月(やがみ・つき), mas o autor simplesmente colocou a leitura de 月 como ライト.
+
+### **Simplificação de leitura**
+1. ***Rendaku*** (連濁) é quando a leitura da sílaba inicial do último elemento dá lugar a sua versão vozeada. Não há regras bem definidas para quando isso ocorre, mas tem algumas que indicam quando não deve ocorrer.
+
+Algumas das regras são:
+- Quando a segunda parte já tem um vozeamento. Por exemplo, 山火事(やまかじ) já tem um vozeamento em じ, então não o ***rendaku*** não ocorre. Agora na palavra 旅人, que deveria ser lida たびひと, não tem vozeamento na segunda parte, por consequência disso, a leitura correta é たびびと.
+
+**Exceção**: 縄梯子 (なわばしご) que significa escada de corda e deveria ser かわはしご.
+- Quando os ***kanji*** têm sentido aditivo e não de composição, como em 山川 (やまかわ), que significa **rios e montanhas**.
+
+**Exceção**: 山川 (やまがわ) sendo um nome próprio, pois não significa a junção de dois termos. Uma boa parte dessas exceções são nomes próprios.
+
+- Quando o significado principal está na primeira parte do conjunto, não leva o ***dakuten***
+  - 物差し(ものさし) – **régua** –, que literalmente é **coisa de medida**, e o sentido está em 物,  que é o primeiro ***kanji***, **coisa**.
+  - 草原(くさはら) – é tipo savana –, que literalmente é mato do campo,  e o sentido está em 草, que é o primeiro ***kanji***, **mato** ou **grama**.
+
+Reforçando, se o sentido estiver na segunda parte, não ocorre. Como por exemplo na palavra para relógio despertador, 目覚まし時計 (めざしどけい).
+  - Essa não é bem uma regra de não ocorrência, mas merece a citação.
+É sobre nomes próprios, que na verdade não tem como dizer se ocorre ou não. Apesar de seguir certos padrões, com nomes japoneses você tem a liberdade de dizer que a leitura dos ***kanji*** é qualquer coisa que quisermos, igual ao nome do *Light*.
+
+Então por exemplo, 中田, pode ser tanto *Nakada* como *Nakata*. Não costuma se ver o nome *Nakata*, mas alguém dizer que não existe só porque nunca viu, não significa realmente que não exista.
+
+2. ***Onbin*** (音便), ou eufonia, busca sonoridade harmoniosa ou agradável de uma palavra ou frase. Em outras palavras, busca o "embelezamento". É uma outra leitura simplificada, assim como o ***rendaku***.
+Seus tipos são:
+   - ***U-onbin***: os fonemas são substituídos por う, e ocorre principalmente com fonemas da うだん e いだん, mas em raros casos ocorrem com あだん, えだん e おだん;
+	- ***I-onbin***: os fonemas são substituídos por い. Ocorre principalmente com fonemas de いだん;
+	- ***Hatsu-onbin***: os fonemas são substituídos pelo fonema nasal ん. Assim como o ***u-onbin***, corre principalmente com fonemas de いだん e うだん. Ocorre mas é raro com fonemas de あだん, えだん e おだん;
+	- ***Soku-onbin***: os fonemas são substituídos pelo sokuon. Assim como o ***i-onbin***, ocorre principalmente com fonemas de いだん.
+
+Vejamos a palavra 玄人(くとうと), que apesar de parecer uma ***jukujikun*** ou uma ***gikun***, é uma ***nanori*** pois うと é uma ***u-onbin*** em 人(ひと).
+Agora, o último tipo de leitura simplificado, é o ***boinkoutai*** (母音交替).
+
+3. ***Boinkoutai***, ou apofonia, é a mudança de vogal da pronúncia de um ***kanji*** dentro de uma composição. Por exemplo, na palavra 目蓋.
+A leitura para 目 é め, e a leitura para 蓋 é ふた, mas a real leitura para 目蓋 é まぶた – significa **pálpebra**.
+
+Acontece uma apofonia no 目 e um ***rendaku*** no 蓋.
+Não existe regra para apofonia, mas normalmente ocorre a alternância de えだん para あだん e いだん para うだん ou おだん.
 
 [« Capítulo anterior](lição03.md)
 
