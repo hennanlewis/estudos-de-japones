@@ -22,6 +22,7 @@ Então, sem mais delongas, vamos a diante.
 		- [**Leituras atribuídas**](#leituras-atribuídas)
 		- [**Simplificação de leitura**](#simplificação-de-leitura)
 	- [**A importância da escrita dos kanji**](#a-importância-da-escrita-dos-kanji)
+	- [**Organização da ordem dos traços**](#organização-da-ordem-dos-traços)
 
 ## **Contextualização histórica**
 O idioma japonês demorou bastante para possuir um sistema de escrita.
@@ -257,6 +258,47 @@ Uma das classificações possíveis faz relação com os tipos de traços:
 6. **Ângulo oblíquo**, são relativamente parecidos com os de ângulo de 90°. São apenas um traço mas com a angulação mais fechada. Um exemplo é o ***kanji*** de água, 水, que seu traço mais à esquerda é um risco apenas faz um ângulo oblíquo;
 7. **Curva**: como no lado direito inferior em 兄; e por último
 8. **Ângulo e curva**, como em 乙, que por mais estranho que possa parecer, todo o ***kanji*** anterior é feito apenas com um traçado.
+
+## **Organização da ordem dos traços**
+Assim como o ***hiragana*** e o ***katakana*** possuem uma ordem específica para seus traços, os ***kanji*** também têm essa característica.
+Devido a existir uma quantidade enorme, a melhor opção é mostrar regras que indicam ordem de prioridade de quais traços fazer. A 
+	ordem de prioridade é:
+
+1. Traços da esquerda para a direita, por exemplo, em 川:
+
+	![Kanji Exemplo 1](/doc/images/04/KSO1.png)
+
+2. Traços de cima para baixo, por exemplo, em 一, 二 e 三:
+
+	![Kanji Exemplo 2](/doc/images/04/KSO2.png)
+
+3. Em caracteres com traços horizontais, normalmente os escrevemos primeiro:
+
+	![Kanji Exemplo 3](/doc/images/04/KSO3.png)
+
+4. Em caracteres com traços de aparência simétrica, normalmente escrevemos primeiro o traço vertical, depois os traços da esquerda e depois os da direita:
+
+	![Kanji Exemplo 4](/doc/images/04/KSO4.png)
+
+5. Em caracteres com traços que envolvem outros, normalmente escrevemos primeiro os de fora, depois os de dentro e por último a base:
+
+	![Kanji Exemplo 5](/doc/images/04/KSO5.png)
+
+6. Em caracteres com traços diagonais, normalmente um traço diagonal para a esquerda é escrito antes que um traço diagonal para a direita:
+
+	![Kanji Exemplo 6](/doc/images/04/KSO6.png)
+
+7. Em caracteres que uma linha vertical atravessa todo o caractere, normalmente ela é escrita por último:
+
+	![Kanji Exemplo 7](/doc/images/04/KSO7.png)
+
+8. Em caracteres que uma linha horizontal atravessa todo o caractere, ela é escrita por último:
+
+	![Kanji Exemplo 8](/doc/images/04/KSO8.png)
+
+9. Um traço diagonal vem antes do horizontal se for pequeno e depois do horizontal se for grande:
+
+	![Kanji Exemplo 9](/doc/images/04/KSO9.png)
 
 [« Capítulo anterior](lição03.md)
 

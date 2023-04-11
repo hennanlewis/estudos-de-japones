@@ -33,6 +33,7 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Como saber qual leitura usar?](doc/lição04.md#como-saber-qual-leitura-usar)
    - [Leituras especiais](doc/lição04.md#leituras-especiais)
    - [A importância da escrita dos kanji](doc/lição04.md#a-importância-da-escrita-dos-kanji)
+   - [Organização da ordem dos traços](doc/lição04.md#organização-da-ordem-dos-traços)
 
 # Lição 01: Hiragana
 
