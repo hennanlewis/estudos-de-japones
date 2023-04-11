@@ -21,6 +21,7 @@ Então, sem mais delongas, vamos a diante.
 		- [**Leituras extras**](#leituras-extras)
 		- [**Leituras atribuídas**](#leituras-atribuídas)
 		- [**Simplificação de leitura**](#simplificação-de-leitura)
+	- [**A importância da escrita dos kanji**](#a-importância-da-escrita-dos-kanji)
 
 ## **Contextualização histórica**
 O idioma japonês demorou bastante para possuir um sistema de escrita.
@@ -245,6 +246,17 @@ A leitura para 目 é め, e a leitura para 蓋 é ふた, mas a real leitura pa
 
 Acontece uma apofonia no 目 e um ***rendaku*** no 蓋.
 Não existe regra para apofonia, mas normalmente ocorre a alternância de えだん para あだん e いだん para うだん ou おだん.
+
+## **A importância da escrita dos kanji**
+Uma das classificações possíveis faz relação com os tipos de traços:
+1. **Traço abreviado**, como o traço superior esquerdo e direito em 半 o traço superior esquerdo e direito em 父. É apenas um traço um pouco menor;
+2. **Traço horizontal**, como em 一, em 二 ou em 三;
+3. Traço vertical, como os três em 川 ou o que corta verticalmente o quadrado em 中;
+4. **Linha diagonal**, que podemos ver um exemplo também em 人;
+5. **Ângulos de 90°**, como em 口 ou em 国. São traços contínuos;
+6. **Ângulo oblíquo**, são relativamente parecidos com os de ângulo de 90°. São apenas um traço mas com a angulação mais fechada. Um exemplo é o ***kanji*** de água, 水, que seu traço mais à esquerda é um risco apenas faz um ângulo oblíquo;
+7. **Curva**: como no lado direito inferior em 兄; e por último
+8. **Ângulo e curva**, como em 乙, que por mais estranho que possa parecer, todo o ***kanji*** anterior é feito apenas com um traçado.
 
 [« Capítulo anterior](lição03.md)
 
