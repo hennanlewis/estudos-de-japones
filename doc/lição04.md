@@ -23,6 +23,7 @@ Então, sem mais delongas, vamos a diante.
 		- [**Simplificação de leitura**](#simplificação-de-leitura)
 	- [**A importância da escrita dos kanji**](#a-importância-da-escrita-dos-kanji)
 	- [**Organização da ordem dos traços**](#organização-da-ordem-dos-traços)
+	- [**Categorias dos kanji**](#categorias-dos-kanji)
 
 ## **Contextualização histórica**
 O idioma japonês demorou bastante para possuir um sistema de escrita.
@@ -299,6 +300,44 @@ Devido a existir uma quantidade enorme, a melhor opção é mostrar regras que i
 9. Um traço diagonal vem antes do horizontal se for pequeno e depois do horizontal se for grande:
 
 	![Kanji Exemplo 9](/doc/images/04/KSO9.png)
+
+## **Categorias dos kanji**
+Além de considerar todos esses detalhes, podemos agrupar os ***kanji*** por categorias, sendo elas:
+1. ***Shoukei moji*** (象形文字) são os ***kanji*** pictográficos que sua origem veio de desenhos que o representam, por exemplo:
+	- 手, que significa **mão**, inicialmente parecia o desenho de uma mão;
+	- 耳, que significa **orelha**, inicialmente parecia o desenho de uma orelha.
+2. ***Shiji moji*** (指事文字) lembram o conceito dos ***shoukei moji***, de parecerem o que representam, mas com a diferença de representarem conceitos mais abstratos, por exemplo?
+	- 上, que significa **acima**, com traço maior na base e traço menor acima da base;
+	- 下, que significa **abaixo**, com traço maior acima e traço menor voltado a parte debaixo.
+3. ***Kaii moji*** (会意文字) são ***kanji*** ideográficos compostos pela junção de outros:
+	- 人+大=休
+	- 田+力=男
+4. ***Keisei moji*** (形声文字) são parecidos com os anteriores, mas um dos ***kanji*** base indica a pronúncia e o outro é o significado. Eles representam cerca de 90% dos ***kanji*** utilizados. A seguir estão a pronúncia, o ***kanji*** e seu respectivo significado:
+
+|||||
+|:-:|:-:|:-:|:-:|
+**Pronúncia**   | コウ | ヨウ    | カ
+**Kanji**       | 江   | 洋     | 河
+**Significado** | Baía | Oceano | Rio
+
+Devemos perceber que cada um dos ***kanji*** anteriores pode ser dividido em duas partes, uma à esquerda e outra à direita, sendo cada uma dessas partes chamadas de radical.
+O esquerdo é o radical para água, assim, o significado dos três gira em torno de “água”, mas a pronúncia é diferente.
+
+|||||
+|:-:|:-:|:-:|:-:|
+**Pronúncia**   | セイ     | セイ              | セイ
+**Kanji**       | 精       | 晴                | 清
+**Significado** | Espírito | Tempo sem nuvens | Puro
+
+No caso destes três últimos, o radical esquerdo é diferente em cada um deles, assim como o significado mas a pronúncia é a mesma.
+Mesmo que não se aplique para 100% dos casos, esse padrão de o lado esquerdo indicar o significado e o direito indicar a pronúncia se torna um *hack* para aprender a pronúncia de vários ideogramas de uma vez.
+Entretanto, tenha em mente que como na escrita da pronúncia está o ***katakana***, a semelhança na pronúncia serve apenas para a ***on’yomi***.
+
+1. ***Tenchuu moji*** (転注文字) mudam os ***kanji*** para originar outro com significado semelhante ou de mesma natureza. Por exemplo, 楽 originalmente significa “música”, mas passou a significar também seu efeito, “gozo”, “deleite”, “diversão”. Como o sentido não era o mesmo, algumas dessas palavras tiveram a sua escrita diferenciada. São uma parcela bem rara de ideogramas.
+
+2. ***Kashaku moji*** (仮借文字) são também conhecidos como “caracteres tomados emprestados”. São semelhantes aos ***tenchuu moji***, pois passaram a significar outra palavra, mas além de mudar o significado, a escrita mudou um pouco também.
+3. Por exemplo, os ***kanji*** 自, 北, 要, 少 e 永 que significam, respectivamente, **si próprio**, **norte**, **querer**, **pouco** e **eternidade**, foram usados para representar também os significados **nariz**, **costas**, **cintura**, **areia** e **nadar**, mas em compensação, ganharam uma forma 鼻, 背, 腰, 砂 e 泳 para não confundir as duas coisas.
+Atualmente, as duas formas existem, mas cada uma só representa seu significado associado.
 
 [« Capítulo anterior](lição03.md)
 
