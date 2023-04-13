@@ -35,6 +35,7 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [A importância da escrita dos kanji](doc/lição04.md#a-importância-da-escrita-dos-kanji)
    - [Organização da ordem dos traços](doc/lição04.md#organização-da-ordem-dos-traços)
    - [Categorias dos kanji](doc/lição04.md#categorias-dos-kanji)
+   - [Os radicais](doc/lição04.md#os-radicais)
 
 # Lição 01: Hiragana
 

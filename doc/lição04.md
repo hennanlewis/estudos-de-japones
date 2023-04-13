@@ -24,6 +24,7 @@ Então, sem mais delongas, vamos a diante.
 	- [**A importância da escrita dos kanji**](#a-importância-da-escrita-dos-kanji)
 	- [**Organização da ordem dos traços**](#organização-da-ordem-dos-traços)
 	- [**Categorias dos kanji**](#categorias-dos-kanji)
+	- [**Os radicais**](#os-radicais)
 
 ## **Contextualização histórica**
 O idioma japonês demorou bastante para possuir um sistema de escrita.
@@ -338,6 +339,25 @@ Entretanto, tenha em mente que como na escrita da pronúncia está o ***katakana
 2. ***Kashaku moji*** (仮借文字) são também conhecidos como “caracteres tomados emprestados”. São semelhantes aos ***tenchuu moji***, pois passaram a significar outra palavra, mas além de mudar o significado, a escrita mudou um pouco também.
 3. Por exemplo, os ***kanji*** 自, 北, 要, 少 e 永 que significam, respectivamente, **si próprio**, **norte**, **querer**, **pouco** e **eternidade**, foram usados para representar também os significados **nariz**, **costas**, **cintura**, **areia** e **nadar**, mas em compensação, ganharam uma forma 鼻, 背, 腰, 砂 e 泳 para não confundir as duas coisas.
 Atualmente, as duas formas existem, mas cada uma só representa seu significado associado.
+
+## **Os radicais**
+Outra forma de classificação dos kanji são pelo tipo de radicias que o constroem. Existem sete tipos de radicais:
+
+1. ***Hen*** (偏) é o radical que se localiza ao lado esquerdo do conjunto: 汁 池 汗 決
+2. ***Tsukuri*** (旁) é o radical que se localiza ao lado direito do conjunto: 明 朋 朔 朝
+3. ***Kanmuri*** (冠) é o radical que se localiza acima do conjunto: 芋 花 芳 芙
+4. ***Ashi*** (脚) é o radical que se localiza abaixo do conjunto: 点 無 黒 然
+5. ***Tare*** (垂) é o radical que cobre os lados esquerdo e superior do conjunto: 応 広 床 店
+6. ***Nyou*** (繞) é o radical que cobre os lados esquerdo e baixo do conjunto: 建 廻 廸 延
+7. ***Kamae*** (構) é o radical que se localiza ao redor do conjunto: 回 団 国 図
+
+Apesar de parecer que é apenas em formas quadradas, pode ser 
+qualquer formato que envolva outros kanji, assim como nos seguintes exemplos:
+
+- 問 開 閉 間
+- 絎 桁 術 衒
+- 匹 医 区 匠
+- 気 氣 氤 氳
 
 [« Capítulo anterior](lição03.md)
 
