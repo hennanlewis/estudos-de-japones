@@ -25,6 +25,7 @@ Então, sem mais delongas, vamos a diante.
 	- [**Organização da ordem dos traços**](#organização-da-ordem-dos-traços)
 	- [**Categorias dos kanji**](#categorias-dos-kanji)
 	- [**Os radicais**](#os-radicais)
+	- [**Notas finais**](#notas-finais)
 
 ## **Contextualização histórica**
 O idioma japonês demorou bastante para possuir um sistema de escrita.
@@ -358,6 +359,19 @@ qualquer formato que envolva outros kanji, assim como nos seguintes exemplos:
 - 絎 桁 術 衒
 - 匹 医 区 匠
 - 気 氣 氤 氳
+
+## **Notas finais**
+Este capítulo foi um pouco mais longo em relação aos anteriores devido a ser uma grande quantidade de conteúdo para ser assimilado.
+
+Foi fortemente baseado no blog *Ganbarou Ze*, entretanto, foi bem mais resumido, pois lá, o conteúdo foi dividido em dois capítulos/postes, um mais voltada a parte da leitura e outro mais voltado para a parte da prática de escrita.
+Fiz um teste só por curiosidade e todo o material daria um total equivalente a 56 páginas, sendo que a parte da escrita também tinha um conteúdo bem extenso sobre a escrita coreana, então muita coisa ficou de lado, deixando somente as partes mais relevantes.
+
+Outro material usado para consulta foi o do *Tae Kim*, mas neste eram equivalentes a apenas 3 páginas totais que falavam sobre o conteúdo.
+Serviu apenas para leitura, pois nenhum pensamento dele foi compilado aqui por ser muito algo muito breve.
+
+Caso tenham interesse em se aprofundar mais sobre o conteúdo, utilize a seguinte lista com as principais referências utilizadas para construção deste capítulo: 
+1. Blog [***Ganbarou Ze* – Gramática Japonesa**](https://ganbarouze.blogspot.com/);
+2. Link para livro na Amazon: [***A Guide to Japanese Grammar***](https://amzn.to/3RQNkey).
 
 [« Capítulo anterior](lição03.md)
 
