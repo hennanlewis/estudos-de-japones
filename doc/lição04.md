@@ -1,6 +1,7 @@
 [Voltar ao README 🡑](../README.md)
 
-[« Capítulo anterior](lição03.md)
+[« Capítulo anterior](lição03.md) |
+[Próximo capítulo »](lição05.md)
 
 # **Kanji**
 
@@ -373,6 +374,7 @@ Caso tenham interesse em se aprofundar mais sobre o conteúdo, utilize a seguint
 1. Blog [***Ganbarou Ze* – Gramática Japonesa**](https://ganbarouze.blogspot.com/);
 2. Link para livro na Amazon: [***A Guide to Japanese Grammar***](https://amzn.to/3RQNkey).
 
-[« Capítulo anterior](lição03.md)
+[« Capítulo anterior](lição03.md) |
+[Próximo capítulo »](lição05.md)
 
 [Voltar ao README 🡑](../README.md)

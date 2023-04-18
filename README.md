@@ -6,16 +6,16 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
 
 # Sumário
 
-- [**LIÇÃO 01 – HIRAGANA**](#lição-01-hiragana)
+- [**LIÇÃO 01: HIRAGANA**](#lição-01-hiragana)
    - [Contextualização histórica](doc/lição01.md#contextualização-histórica)
    - [Os caracteres e seus fonemas](doc/lição01.md#os-caracteres-e-seus-fonemas)
    - [A ordem do traçado](doc/lição01.md#a-ordem-do-traçado)
-- [**LIÇÃO 02 – KATAKANA**](#lição-02-katakana)
+- [**LIÇÃO 02: KATAKANA**](#lição-02-katakana)
    - [Contextualização histórica](doc/lição02.md#contextualização-histórica)
    - [Os caracteres e seus fonemas](doc/lição02.md#os-caracteres-e-seus-fonemas)
    - [Alguns casos de uso no katakana](doc/lição02.md#alguns-casos-de-uso-no-katakana)
    - [A ordem do traçado](doc/lição02.md#a-ordem-do-traçado)
-- [**LIÇÃO 03 – MAIS SOBRE OS KANA**](#lição-03-mais-sobre-os-kana)
+- [**LIÇÃO 03: MAIS SOBRE OS KANA**](#lição-03-mais-sobre-os-kana)
    - [Sons vozeados e sons surdos](doc/lição03.md#sons-vozeados-e-sons-surdos)
    - [Seion (清音)](doc/lição03.md#seion-清音)
    - [Dakuon (濁音)](doc/lição03.md#dakuon-濁音)
@@ -27,7 +27,7 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [O kana ヴ](#o-kana-ヴ)
    - [Encontros consonantais](doc/lição03.md#encontros-consonantais)
    - [Uso histórico do kana](doc/lição03.md#uso-histórico-do-kana)
-- [**LIÇÃO 04 – KANJI**](#lição-04-kanji)
+- [**LIÇÃO 04: KANJI**](#lição-04-kanji)
    - [Contextualização histórica](doc/lição04.md#contextualização-histórica)
    - [Leituras e classificações de caracteres dos kanji](doc/lição04.md#leituras-e-classificações-de-caracteres-dos-kanji)
    - [Como saber qual leitura usar?](doc/lição04.md#como-saber-qual-leitura-usar)
@@ -36,6 +36,8 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Organização da ordem dos traços](doc/lição04.md#organização-da-ordem-dos-traços)
    - [Categorias dos kanji](doc/lição04.md#categorias-dos-kanji)
    - [Os radicais](doc/lição04.md#os-radicais)
+ - [**LIÇÃO 05: ESTUDANDO KANJI**](doc/lição05.md#estudando-kanji)
+   - [Por onde começar?](doc/lição05.md#por-onde-começar)
 
 # Lição 01: Hiragana
 
@@ -63,3 +65,9 @@ Passamos pelos dois silabários japoneses e seus macetes para leitura e escrita.
 Assim como nos capítulos de ***hiragana*** e ***katakana***, passaremos primeiro pela sua contextualização histórica e logo em seguida algumas definições necessárias.
 Então, sem mais delongas, vamos a diante.
 [Ler mais...](doc/lição04.md)
+
+# Lição 05: Estudando kanji
+O que devemos ter em mente agora é que para entendermos realmente o japonês, contra ou a favor da nossa vontade, devemos saber vários ***kanji***, mas uma das formas mais comuns de estudantes começarem é estudá-los pela ordem que os japoneses viram na escola, ou seja, a ***kyouiku kanji***, a lista ensinada do 1º ao 6º ano do primário.
+Isso não é uma boa forma de gastar seu esforço.
+Neste capítulo aprenderemos melhores formas de estudarmos os tão temidos ***kanji***.
+[Ler mais...](doc/lição05.md)
