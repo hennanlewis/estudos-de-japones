@@ -38,6 +38,7 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Os radicais](doc/lição04.md#os-radicais)
  - [**LIÇÃO 05: ESTUDANDO KANJI**](doc/lição05.md#estudando-kanji)
    - [Por onde começar?](doc/lição05.md#por-onde-começar)
+   - [Escrever a mão](doc/lição05.md#escrever-a-mão)
 
 # Lição 01: Hiragana
 

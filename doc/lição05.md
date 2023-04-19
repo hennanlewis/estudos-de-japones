@@ -9,6 +9,7 @@ Neste capítulo aprenderemos melhores formas de estudarmos os tão temidos ***ka
 
 - [**Estudando kanji**](#estudando-kanji)
 	- [**Por onde começar?**](#por-onde-começar)
+	- [**Escrever em papel**](#escrever-em-papel)
 
 ## **Por onde começar?**
 Ao entrar na escola, as crianças japonesas já sabem ler e escrever tanto ***hiragana*** quanto ***katakana***.
@@ -40,6 +41,31 @@ Em animes/mangás, o modo de falar dos personagens podem aparecer desde o modo f
 
 Este tipo de mídia é legal para aprender, entretanto, não é recomendável mimetizar os modos de fala dos personagens ou imaginar que é o japonês padrão.
 Podemos ser grosseiros com outrem mesmo sem termos consciência sobre isso.
+
+## **Escrever em papel**
+Escrever ***kanji*** manualmente é uma das maneiras mais eficazes de aprendê-los e internalizá-los rapidamente.
+De fato, pesquisas e estudos em várias faixas etárias e localizações ao redor do mundo têm provado sua eficácia.
+Algumas pessoas percebem que retêm mais informações ao escrever e isso complementa a memorização motora e visual com a escrita em canetas coloridas.
+
+No entanto, falando pessoalmente, escrever nunca foi uma técnica eficaz para minha própria memorização.
+Às vezes, eu até sentia que me atrapalhava e limitava, porque sou mais forte no lado visual.
+O resultado após já estar escrito era bom, mas era entediante minha mão não acompanhava a velocidade do meu pensamento, levando a frustração e perda de interesse em vários assuntos na escola.
+
+Quando os professores usavam materiais com mapas mentais já desenhados, eu conseguia absorver o conteúdo de forma rápida e efetiva.
+Portanto, se escrever também o desencoraja, tenho uma maneira de ajudá-lo, porque entendo exatamente como é.
+Mas não precisa se preocupar se você é o tipo de pessoa que seu ponto forte na memorização é escrever à mão pois a maneira a seguir vai ser bem proveitosa para você também
+
+Existe uma fonte chamada ***Kanji Stroke Order*** e como o nome sugere, ela indica o traçado de cada ideograma levando em consideração a ordem do traçado.
+Ela já foi utilizada neste mesmo guia, porém, no capítulo passado no tópico sobre a organização da ordem dos traços.
+Veja novamente os ***kanji*** utilizados com a fonte ***Kanji Stroke Order***:
+
+![Kanji Stroke Order: 川三父中囲左](images/05/KSO.png)
+
+No começo, é realmente muito efetivo o estudo pela escrita manuscrita, mas assim que conseguir entendimento suficiente ou aprender as regras das ordens de traçado de forma mais concreta, está fonte é uma mão na roda para quem estuda.
+Pode ser encontrada em [***Free Japanese Fonts***](https://www.freejapanesefont.com/kanji-stroke-order-font-download/).
+
+Quanto mais o tempo passar no estudo de ***kanji*** utilizando essa fonte, mais vai ficar fácil perceber padrões e conseguir visualizar os radicais imediatamente após bater o olho em cada ideograma, até chegar o momento em que é possível saber a ordem do traçado na grande maioria dos casos mesmo sem utilizá-la.
+Apenas mantenha o foco e continue, você vai conseguir.
 
 [« Capítulo anterior](lição04.md)
 
