@@ -39,6 +39,7 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
  - [**LIÇÃO 05: ESTUDANDO KANJI**](doc/lição05.md#estudando-kanji)
    - [Por onde começar?](doc/lição05.md#por-onde-começar)
    - [Escrever a mão](doc/lição05.md#escrever-a-mão)
+   - [O Anki](doc/lição05.md#o-anki)
 
 # Lição 01: Hiragana
 
