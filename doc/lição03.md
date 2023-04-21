@@ -3,11 +3,11 @@
 [« Capítulo anterior](lição02.md) | 
 [Próximo capítulo »](lição04.md)
 
-# **Mais sobre os kana**
+# **Lição 03: Mais sobre os kana**
 O ***hiragana*** e o ***katakana*** formam um conjunto chamado ***kana***.
 O que aprendemos nos dois primeiros capítulos foi apenas o básico, pois apenas com aquelas duas tabelas, como a gente faz pra escrever uma coluna para o **d**, para o **g**, para o **z** ou para mais algumas outras consoantes que temos no português? Isso significa que no japonês não tem eles? Não, e em cada um dos tópicos a seguir será um ponto que nos falta para completar os requisitos para lermos tudo de ***hiragana*** e ***katakana***.
 
-- [**Mais sobre os kana**](#mais-sobre-os-kana)
+- [**Lição 03: Mais sobre os kana**](#lição-03-mais-sobre-os-kana)
 	- [**Sons vozeados e sons surdos**](#sons-vozeados-e-sons-surdos)
 	- [**Seion (清音)**](#seion-清音)
 	- [**Dakuon (濁音)**](#dakuon-濁音)

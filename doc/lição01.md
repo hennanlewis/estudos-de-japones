@@ -2,13 +2,13 @@
 
 [Próximo capítulo »](lição02.md)
 
-# **Hiragana**
+# **Lição 01: Hiragana**
 
 A parte fonética e fonológica tem bastante peso pra se aprender um idioma de forma  plena, entretanto, para quem mal começou ou não tem muita proficiência na língua japonesa se torna apenas mais um peso ou carga não relevante em um primeiro contato.
 Logo, mesmo ao tratar sobre fonética de forma superficial, a primeira parte deste guia terá foco no sistema de escrita japonesa, e como tema do primeiro capítulo, falaremos primeiro de um dos três principais: o ***hiragana*** (平仮名).
 
 
-- [**Hiragana**](#hiragana)
+- [**Lição 01: Hiragana**](#lição-01-hiragana)
 	- [**Contextualização histórica**](#contextualização-histórica)
 	- [**Os caracteres e seus fonemas**](#os-caracteres-e-seus-fonemas)
 		- [**O Alfabeto Fonético Internacional**](#o-alfabeto-fonético-internacional)

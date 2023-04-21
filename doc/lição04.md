@@ -3,13 +3,13 @@
 [« Capítulo anterior](lição03.md) |
 [Próximo capítulo »](lição05.md)
 
-# **Kanji**
+# **Lição 04: Kanji**
 
 Passamos pelos dois silabários japoneses e seus macetes para leitura e escrita. Agora introduziremos um dos maiores desafios da língua japonesa, os ***kanji***.
 Assim como nos capítulos de ***hiragana*** e ***katakana***, passaremos primeiro pela sua contextualização histórica e logo em seguida algumas definições necessárias.
 Então, sem mais delongas, vamos a diante.
 
-- [**Kanji**](#kanji)
+- [**Lição 04: Kanji**](#lição-04-kanji)
 	- [**Contextualização histórica**](#contextualização-histórica)
 	- [**Leituras e classificações de caracteres dos kanji**](#leituras-e-classificações-de-caracteres-dos-kanji)
 		- [**On’yomi (音読み)**](#onyomi-音読み)

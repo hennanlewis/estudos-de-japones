@@ -3,12 +3,12 @@
 [« Capítulo anterior](lição01.md) | 
 [Próximo capítulo »](lição03.md)
 
-# **Katakana**
+# **Lição 02: Katakana**
 A primeira lição foi sobre um dos principais sistemas de escrita do japonês, o ***hiragana***.
 Devido ao ***katakana*** ter vários pontos exatamente iguais a ele, muitos detalhes nas explicações serão mais breves por já terem sido apresentadas em mais detalhes no capítulo anterior, então, caso fique algo com um tom mais vago, basta reler o primeiro capítulo para relembrar com mais detalhes.
 Não terá apenas o conteúdo fosse uma releitura do anterior, pois existem vários casos de usos do ***katakana*** que normalmente não se usa o ***hiragana***, mas vamos para a contextualização pra não enrolar demais.
 
-- [**Katakana**](#katakana)
+- [**Lição 02: Katakana**](#lição-02-katakana)
 	- [**Contextualização histórica**](#contextualização-histórica)
 	- [**Os caracteres e seus fonemas**](#os-caracteres-e-seus-fonemas)
 	- [**Alguns casos de uso no katakana**](#alguns-casos-de-uso-no-katakana)

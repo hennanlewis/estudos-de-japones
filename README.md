@@ -36,10 +36,11 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Organização da ordem dos traços](doc/lição04.md#organização-da-ordem-dos-traços)
    - [Categorias dos kanji](doc/lição04.md#categorias-dos-kanji)
    - [Os radicais](doc/lição04.md#os-radicais)
- - [**LIÇÃO 05: ESTUDANDO KANJI**](doc/lição05.md#estudando-kanji)
+ - [**LIÇÃO 05: ESTUDANDO KANJI**](#lição-05-estudando-kanji)
    - [Por onde começar?](doc/lição05.md#por-onde-começar)
    - [Escrever a mão](doc/lição05.md#escrever-a-mão)
    - [O Anki](doc/lição05.md#o-anki)
+   - [Teclado em japonês no Windows](doc/lição05.md#teclado-em-japonês-no-windows)
 
 # Lição 01: Hiragana
 
@@ -59,7 +60,6 @@ Não terá apenas o conteúdo fosse uma releitura do anterior, pois existem vár
 O ***hiragana*** e o ***katakana*** formam um conjunto chamado ***kana***.
 O que aprendemos nos dois primeiros capítulos foi apenas o básico, pois apenas com aquelas duas tabelas, como a gente faz pra escrever uma coluna para o **d**, para o **g**, para o **z** ou para mais algumas outras consoantes que temos no português? Isso significa que no japonês não tem eles? Não, e em cada um dos tópicos a seguir será um ponto que nos falta para completar os requisitos para lermos tudo de ***hiragana*** e ***katakana***.
 [Ler mais...](doc/lição03.md)
-
 
 # Lição 04: Kanji
 
