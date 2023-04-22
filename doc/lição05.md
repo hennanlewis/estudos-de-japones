@@ -11,10 +11,12 @@ Neste capítulo aprenderemos melhores formas de estudarmos os tão temidos ***ka
 	- [**Por onde começar?**](#por-onde-começar)
 	- [**Escrever a mão**](#escrever-a-mão)
 	- [**O Anki**](#o-anki)
-	- [**Teclado em japonês no Windows**](#teclado-em-japonês-no-windows)
+	- [**Teclado em japonês no Windows 10**](#teclado-em-japonês-no-windows-10)
 		- [**Instalando o teclado**](#instalando-o-teclado)
 		- [**Utilizando o teclado**](#utilizando-o-teclado)
 		- [**Algumas dicas para digitar**](#algumas-dicas-para-digitar)
+	- [**Teclado em japonês no dispositivo Android**](#teclado-em-japonês-no-dispositivo-android)
+		- [**Configurando o teclado japonês**](#configurando-o-teclado-japonês)
 
 ## **Por onde começar?**
 Ao entrar na escola, as crianças japonesas já sabem ler e escrever tanto ***hiragana*** quanto ***katakana***.
@@ -132,7 +134,7 @@ Por incrível que pareça, apenas conhecer todas as palavras não nos faz capaz 
 Primeiro, o mais benéfico é buscar entender como é o funcionamento de forma geral do idioma e estudar frases dentro de um contexto, depois de compreendermos a base que devemos focar em vocabulário.
 Isso não gerará desgaste, muito pelo contrário, o processo será bem mais divertido e natural.
 
-## **Teclado em japonês no Windows**
+## **Teclado em japonês no Windows 10**
 Um motivo para justificar que aprender kanji apenas pela forma manuscrita seja um gasto de energia sem um retorno equivalente, é que cada vez menos escrevemos a mão com o avanço da tecnologia.
 As formas de escrita praticamente se resumem a digitar no teclado.
 Este tópico é para aprendermos a como escrever em japonês no *Windows* da forma mais simples possível.
@@ -231,7 +233,45 @@ Tá, mas como digitar os ***kanji***?
 Precisamos apenas pressionar a **barra de espaço** antes de pressionar **ENTER** pra selecionar o caractere, mas para escolher os ***kanji*** corretos após digitar a romanização, precisamos primeiro conhecer os corretos.
 Por exemplo, ao digitar ***kanji*** com o teclado de ***hiragana*** ativado, pressionar a barra de espaços uma vez muda o texto para 漢字, e pressionar uma segunda vez, aparece a caixa da imagem abaixo.
 
+![Sugestões de kanji do menu de contexto](images/05/sugestões-do-menu-contexto.png)
+
 Para mudar entre as opções, utilize a própria barra de espaço ou as teclas direcionais para cima ou para baixo, e para selecionar a opção, pressione ENTER.
+
+## **Teclado em japonês no dispositivo Android**
+
+Para instalar, basicamente seguimos os mesmos passos: procurar opções de teclado, adicionar um idioma para o teclado e trocar entre os teclados ao digitar.
+Os passos do próximo subtópico são em um aparelho Samsung.
+### **Configurando o teclado japonês**
+Vamos aos seguintes passos:
+1. Abra as configurações do dispositivo e clique no ícone da lupa e pesquise por teclado;
+
+![Figura 1](images/05/configurações-mobile-1.jpeg)
+
+2. Clique em Teclado Samsung;
+
+![Figura 2](images/05/configurações-mobile-2.jpeg)
+
+3. Clique em Idiomas e Teclados, mostrado na Figura 3;
+
+![Figura 3](images/05/configurações-mobile-3.jpeg)
+
+4. Clique em Gerenc. Idioma de entrada, mostrado na Figura 4;
+
+![Figura 4](images/05/configurações-mobile-4.jpeg)
+
+5. Clique no ícone da lupa e digite japonês, mostrado na Figura 5;
+
+![Figura 5](images/05/configurações-mobile-5.jpeg)
+
+6. Clique na seta de download do lado do texto 日本語, mostrado na Figura 6.
+
+![Figura 6](images/05/configurações-mobile-6.jpeg)
+
+
+
+Pronto, o teclado japonês está instalado! Para digitar o texto em japonês ao digitar alguma coisa, pressione o ícone de globo (na imagem está do lado direito do botão com www.) e quando aparecer JA na barra de espaço, ao digitar nihongo o texto de saída será にほんご.
+
+Como podemos observar pela Figura 8, algumas sugestões de opções aparecem logo acima do teclado e ao clicarmos em quaisquer delas, a selecionamos como texto inserido.
 
 [« Capítulo anterior](lição04.md)
 
