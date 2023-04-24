@@ -17,6 +17,7 @@ Neste capítulo aprenderemos melhores formas de estudarmos os tão temidos ***ka
 		- [**Algumas dicas para digitar**](#algumas-dicas-para-digitar)
 	- [**Teclado em japonês no dispositivo Android**](#teclado-em-japonês-no-dispositivo-android)
 		- [**Configurando o teclado japonês**](#configurando-o-teclado-japonês)
+	- [**Notas finais**](#notas-finais)
 
 ## **Por onde começar?**
 Ao entrar na escola, as crianças japonesas já sabem ler e escrever tanto ***hiragana*** quanto ***katakana***.
@@ -235,43 +236,53 @@ Por exemplo, ao digitar ***kanji*** com o teclado de ***hiragana*** ativado, pre
 
 ![Sugestões de kanji do menu de contexto](images/05/sugestões-do-menu-contexto.png)
 
-Para mudar entre as opções, utilize a própria barra de espaço ou as teclas direcionais para cima ou para baixo, e para selecionar a opção, pressione ENTER.
+Para mudar entre as opções, utilize a própria barra de espaço ou as teclas direcionais para cima ou para baixo, e para selecionar a opção, pressione **ENTER**.
 
 ## **Teclado em japonês no dispositivo Android**
 
 Para instalar, basicamente seguimos os mesmos passos: procurar opções de teclado, adicionar um idioma para o teclado e trocar entre os teclados ao digitar.
 Os passos do próximo subtópico são em um aparelho Samsung.
+
 ### **Configurando o teclado japonês**
 Vamos aos seguintes passos:
-1. Abra as configurações do dispositivo e clique no ícone da lupa e pesquise por teclado;
+1. Pesquise por **teclado** nas configurações do aparelho;
 
 ![Figura 1](images/05/configurações-mobile-1.jpeg)
 
-2. Clique em Teclado Samsung;
+2. Clique em **Teclado Samsung**;
 
 ![Figura 2](images/05/configurações-mobile-2.jpeg)
 
-3. Clique em Idiomas e Teclados, mostrado na Figura 3;
+3. Clique em Idiomas e Teclados;
 
 ![Figura 3](images/05/configurações-mobile-3.jpeg)
 
-4. Clique em Gerenc. Idioma de entrada, mostrado na Figura 4;
+4. Clique em **Gerenc. Idioma de entrada**;
 
 ![Figura 4](images/05/configurações-mobile-4.jpeg)
 
-5. Clique no ícone da lupa e digite japonês, mostrado na Figura 5;
+5. Clique no ícone da lupa e digite **japonês**;
 
 ![Figura 5](images/05/configurações-mobile-5.jpeg)
 
-6. Clique na seta de download do lado do texto 日本語, mostrado na Figura 6.
+6. Clique na seta de download do lado do texto 日本語.
 
 ![Figura 6](images/05/configurações-mobile-6.jpeg)
 
 
 
-Pronto, o teclado japonês está instalado! Para digitar o texto em japonês ao digitar alguma coisa, pressione o ícone de globo (na imagem está do lado direito do botão com www.) e quando aparecer JA na barra de espaço, ao digitar nihongo o texto de saída será にほんご.
+Pronto, o teclado japonês está instalado! Para digitar o texto em japonês ao digitar alguma coisa, pressione o ícone de globo (na imagem está do lado direito do botão com **www.**) e quando aparecer **JA** na barra de espaço, ao digitar **nihongo** o texto de saída será **にほんご**.
 
 Como podemos observar pela Figura 8, algumas sugestões de opções aparecem logo acima do teclado e ao clicarmos em quaisquer delas, a selecionamos como texto inserido.
+
+## **Notas finais**
+Este capítulo foi bem diferente dos outros por não se tratar de dicas explicações acerca do idioma japonês, mas sim algumas dicas e tutorial de como utilizar a escrita japonesa em computadores com Windows 10 e dispositivos móveis Android.
+
+Os tópicos abrangeram apenas esses dois tipos de dispositivos, mas para caso alguém que tenha outro tipo de sistema operacional, como outra versão do Windows ou quaisquer dos dispositivos Apple, o site ToFuGu criou um tutorial completo. Está em inglês mas basta seguir as imagens para conseguir adicionar o teclado em japonês.
+
+Caso tenham interesse em se aprofundar mais sobre o conteúdo, utilize a seguinte lista com as principais referências utilizadas para construção deste capítulo:
+1. Fonte com as ordens do traço está em [***Free Japanese Fonts***](https://www.freejapanesefont.com/kanji-stroke-order-font-download/);
+2. Link para site com tutorial completo para configurar o teclado em japonês em outros sistemas operacionais: [***ToFuGu***](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/).
 
 [« Capítulo anterior](lição04.md)
 
