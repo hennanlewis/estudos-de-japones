@@ -18,6 +18,7 @@ Neste capítulo aprenderemos melhores formas de estudarmos os tão temidos ***ka
 		- [**Algumas dicas para digitar**](#algumas-dicas-para-digitar)
 	- [**Teclado em japonês no dispositivo Android**](#teclado-em-japonês-no-dispositivo-android)
 		- [**Configurando o teclado japonês**](#configurando-o-teclado-japonês)
+	- [**Segredos de digitação**](#segredos-de-digitação)
 	- [**Notas finais**](#notas-finais)
 
 ## **Por onde começar?**
@@ -137,14 +138,14 @@ Primeiro, o mais benéfico é buscar entender como é o funcionamento de forma g
 Isso não gerará desgaste, muito pelo contrário, o processo será bem mais divertido e natural.
 
 ## **Não aprenda por kanji isolados**
-No tópico [**Escrever a mão**](#escrever-a-mão), vimos que escrever manualmente é uma forma bastante eficaz de se aprender os ***kanji***.
-Entretanto, escrever apenas à mão requer bastante tempo devido a cada um ter uma ordem de traçado que deve ser respeitada ao ser manuscrito.
+No tópico [**Escrever a mão**](#escrever-a-mão), destacamos que escrever manualmente é uma forma altamente eficaz de aprender ***kanji***.
+No entanto, é importante lembrar que escrever à mão pode ser um processo demorado, já que cada ***kanji*** possui uma ordem específica de traçado que deve ser seguida.
 
-A dica do principal do tópico é utilizar a fonte *Kanji Stroke Order*, com tradução livre **Ordem dos Traços do Kanji** e como o nome sugere, ela mostra a ordem correta dos traços.
-Mesmo essa sendo a dica para saber como escrever com a ordem do traçado correta, ainda leva um certo tempo para memorizá-los.
+Para contornar essa dificuldade, recomendamos o uso da fonte *Kanji Stroke Order*, que mostra a ordem correta dos traços.
+Embora essa seja uma ótima dica para aprender a escrever kanji com a ordem correta, ainda pode levar algum tempo para memorizar todos os traços de cada ***kanji***.
 
-Existe uma frase popular em inglês que diz “*if you don’t use you lose*”, com tradução livre “**se você não usa, você perde**” e podemos aplicá-la ao fato de escrevermos ***kanji*** a mão, pois por consequência de uma boa parte da comunicação atual ser feita de forma digital, precisamos cada vez menos escrevê-los, apenas digitá-los.
-E como a frase sugere, perderemos a habilidade de saber como escrevê-los por não a utilizarmos tanto quanto necessário.
+Há uma frase em inglês popular que diz “*if you don’t use it, you lose it*”.
+Isso também se aplica à escrita à mão dos ***kanji***, já que a comunicação digital tem reduzido a necessidade de escrevê-los. Se não praticarmos, podemos perder essa habilidade.
 
 Devemos entender que isso não é um impeditivo para caso tenhamos vontade, apenas é uma coisa a ser considerada.
 A melhor forma de manter a habilidade é praticando, então a prática contínua é ótima para não perdermos tal habilidade.
@@ -157,12 +158,12 @@ Ao memorizar palavras dentro do contexto, entendemos como usar a palavra e sua p
 
 Com o aumento do contato com a língua, percebemos que os ***kanji*** também podem ter sentidos diferentes em contextos diferentes.
 Entretanto, isso é extremamente normal em cada idioma, não só no japonês.
-Dito isto, ainda não conseguimos por esta dica em prática apenas com esta primeira unidade por ela tratar apenas dos aspectos escritos do japonês, mas a partir do próximo capítulo iniciamos a unidade 2, que trata dos aspectos gramaticais básicos.
+Dito isto, ainda não conseguimos por esta dica em prática apenas com esta primeira unidade por ela tratar apenas dos aspectos escritos do japonês, mas a partir do próximo capítulo iniciamos a Unidade 2, que trata dos aspectos gramaticais básicos.
 
 Nela terá a classe gramatical das palavras, como usá-las de forma geral e as especificidades da língua japonesa que não existem no português, como no caso das partículas.
 Mas a explicação para cada uma dessas coisas será tópicos dos próximos capítulos, então continuem estudando! Não precisamos iniciar os estudos de ***kanji*** antes de conhecer o funcionamento básico da língua, portanto, é uma recomendação fazer isso apenas a partir do próximo capítulo.
 
-Apesar disso, você não precisa absorver isso como obrigação. Se você acha melhor estudar primeiro, fique à vontade, o que você não pode fazer é parar de estudar se quiser ficar cada vez melhor.
+Mas lembre-se de que não é uma obrigação seguir essa recomendação. Se você preferir, pode começar a estudar os kanji antes. O importante é continuar estudando para aprimorar seus conhecimentos.
 
 ## **Teclado em japonês no Windows 10**
 Um motivo para justificar que aprender kanji apenas pela forma manuscrita seja um gasto de energia sem um retorno equivalente, é que cada vez menos escrevemos a mão com o avanço da tecnologia.
@@ -302,7 +303,31 @@ Vamos aos seguintes passos:
 
 Pronto, o teclado japonês está instalado! Para digitar o texto em japonês ao digitar alguma coisa, pressione o ícone de globo (na imagem está do lado direito do botão com **www.**) e quando aparecer **JA** na barra de espaço, ao digitar **nihongo** o texto de saída será **にほんご**.
 
+![Teclado em português](images/05/teclado1.jpeg)
+![Teclado em japonês](images/05/teclado2.jpeg)
+
 Como podemos observar pela Figura 8, algumas sugestões de opções aparecem logo acima do teclado e ao clicarmos em quaisquer delas, a selecionamos como texto inserido.
+
+## **Segredos de digitação**
+Digitar em japonês no computador é fácil de perceber que existem caracteres e figuras tipográficas que não existem no português, mas mesmo que no celular elas não apareçam, não significa que não podemos utilizá-las.
+
+Sem muita enrolação, a lista a seguir mostra como inserir alguns caracteres especiais do japonês – no computador, aparecerá como na figura de sugestão de seleção de ***kanji*** e no celular aparecerá como na figura das sugestões de texto:
+- ***bikkuri*** (びっくり)  – literalmente ser **surpreendido**. O nome não é tão intuitivo assim, mas são exclamações diferentes das que estamos habituados. Ex.: ❕, ⁉, ‼, ❢;
+- ***dasshu*** (だっしゅ) – literalmente **traço**/**hífen**. Como o nome sugere, aparecerá opções de traços e hifens, inclusive o traço ondulado. Ex.: ―, 〜;
+- ***hatena*** (はてな) – literalmente **interrogação**. Como o nome sugere, aparecerá opções de interrogações diferentes do que estamos habituados no português. Ex.: ❔, ⁇, ‽, ❓;
+- ***kakko*** (かっこ) – literalmente **colchetes**. Como o nome sugere, aparecerá opções de colchetes diferentes dos que estamos habituados no português. Ex.: 【】,『』, 「」1;
+- ***maru*** (まる) – literalmente **círculo**. Como o nome sugere, aparecerá opções de círculos que não existem no português. Ex.: ◎, ①, ㊤2;
+- ***yajirushi*** (やじるし) – literalmente **flechas**/**setas**. Aparece como sugestão, vários tipos de setas. Ex.: ⇒, ⤵, →.
+
+> **Observações**:
+>
+> 1. O espaço antes e após cada um desses caracteres é realmente maior que o comum. Tecnicamente, quase todas as pontuações e figuras tipográficas no japonês são assim. O segundo e o terceiro grupo de caracteres são equivalente às nossas aspas.
+> 2. É possível até mesmo colocar alguns números dentro do círculo, basta digitar **maru** e logo em seguida o número, ex.: **maru1** insere ①.
+
+Há outros sinais que podem ser inseridos, por exemplo, ***hoshi*** – literalmente **estrela** – que aparece opções de estrelas e ***ha-to*** – literalmente **coração** – que aparece opções de corações. Pode ser basicamente qualquer coisa, basta procurar a palavra desejada, e se tiver opções diferentes pra inserção, basta selecionar.
+
+No japão também é muito comum inserir emotes feitos apenas com símbolos, os chamados ***kaomoji***. Para inseri-los, basta digitar ***kaomoji***, que aparecerá sugestões como:
+('ω')ノ　(#^.^#)　(*^▽^*)
 
 ## **Notas finais**
 Este capítulo foi bem diferente dos outros por não se tratar de dicas explicações acerca do idioma japonês, mas sim algumas dicas e tutorial de como utilizar a escrita japonesa em computadores com Windows 10 e dispositivos móveis Android.
