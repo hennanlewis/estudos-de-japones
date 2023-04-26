@@ -11,6 +11,7 @@ Neste capítulo aprenderemos melhores formas de estudarmos os tão temidos ***ka
 	- [**Por onde começar?**](#por-onde-começar)
 	- [**Escrever a mão**](#escrever-a-mão)
 	- [**O Anki**](#o-anki)
+	- [**Não aprenda por kanji isolados**](#não-aprenda-por-kanji-isolados)
 	- [**Teclado em japonês no Windows 10**](#teclado-em-japonês-no-windows-10)
 		- [**Instalando o teclado**](#instalando-o-teclado)
 		- [**Utilizando o teclado**](#utilizando-o-teclado)
@@ -134,6 +135,34 @@ O idioma japonês tem estrutura e organização completamente diferente do portu
 Por incrível que pareça, apenas conhecer todas as palavras não nos faz capaz de entender o sentido/significado de cada frase.
 Primeiro, o mais benéfico é buscar entender como é o funcionamento de forma geral do idioma e estudar frases dentro de um contexto, depois de compreendermos a base que devemos focar em vocabulário.
 Isso não gerará desgaste, muito pelo contrário, o processo será bem mais divertido e natural.
+
+## **Não aprenda por kanji isolados**
+No tópico [**Escrever a mão**](#escrever-a-mão), vimos que escrever manualmente é uma forma bastante eficaz de se aprender os ***kanji***.
+Entretanto, escrever apenas à mão requer bastante tempo devido a cada um ter uma ordem de traçado que deve ser respeitada ao ser manuscrito.
+
+A dica do principal do tópico é utilizar a fonte *Kanji Stroke Order*, com tradução livre **Ordem dos Traços do Kanji** e como o nome sugere, ela mostra a ordem correta dos traços.
+Mesmo essa sendo a dica para saber como escrever com a ordem do traçado correta, ainda leva um certo tempo para memorizá-los.
+
+Existe uma frase popular em inglês que diz “*if you don’t use you lose*”, com tradução livre “**se você não usa, você perde**” e podemos aplicá-la ao fato de escrevermos ***kanji*** a mão, pois por consequência de uma boa parte da comunicação atual ser feita de forma digital, precisamos cada vez menos escrevê-los, apenas digitá-los.
+E como a frase sugere, perderemos a habilidade de saber como escrevê-los por não a utilizarmos tanto quanto necessário.
+
+Devemos entender que isso não é um impeditivo para caso tenhamos vontade, apenas é uma coisa a ser considerada.
+A melhor forma de manter a habilidade é praticando, então a prática contínua é ótima para não perdermos tal habilidade.
+
+Um outro ponto que pode ser um gasto de energia sem um retorno equivalente é estudar apenas os ***kanji*** isoladamente e suas leituras – ***on’yomi*** e ***kun’yomi***.
+Aprender cada uma delas é um trabalho demorado, são raros os ideogramas que possuem apenas uma leitura e algumas dos que possuem mais de uma são usadas só em casos bastantes específicos.
+
+Uma forma interessante de aprendê-los é estudar por frases.
+Ao memorizar palavras dentro do contexto, entendemos como usar a palavra e sua pronúncia, diferente de aprender cada uma das leituras para, no final, tentar adivinhar qual delas gera a real pronúncia da palavra.
+
+Com o aumento do contato com a língua, percebemos que os ***kanji*** também podem ter sentidos diferentes em contextos diferentes.
+Entretanto, isso é extremamente normal em cada idioma, não só no japonês.
+Dito isto, ainda não conseguimos por esta dica em prática apenas com esta primeira unidade por ela tratar apenas dos aspectos escritos do japonês, mas a partir do próximo capítulo iniciamos a unidade 2, que trata dos aspectos gramaticais básicos.
+
+Nela terá a classe gramatical das palavras, como usá-las de forma geral e as especificidades da língua japonesa que não existem no português, como no caso das partículas.
+Mas a explicação para cada uma dessas coisas será tópicos dos próximos capítulos, então continuem estudando! Não precisamos iniciar os estudos de ***kanji*** antes de conhecer o funcionamento básico da língua, portanto, é uma recomendação fazer isso apenas a partir do próximo capítulo.
+
+Apesar disso, você não precisa absorver isso como obrigação. Se você acha melhor estudar primeiro, fique à vontade, o que você não pode fazer é parar de estudar se quiser ficar cada vez melhor.
 
 ## **Teclado em japonês no Windows 10**
 Um motivo para justificar que aprender kanji apenas pela forma manuscrita seja um gasto de energia sem um retorno equivalente, é que cada vez menos escrevemos a mão com o avanço da tecnologia.

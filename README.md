@@ -40,7 +40,9 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Por onde começar?](doc/lição05.md#por-onde-começar)
    - [Escrever a mão](doc/lição05.md#escrever-a-mão)
    - [O Anki](doc/lição05.md#o-anki)
+   - [Não aprenda por kanji isolados](doc/lição05.md#não-aprenda-por-kanji-isolados)
    - [Teclado em japonês no Windows](doc/lição05.md#teclado-em-japonês-no-windows)
+   - [Teclado em japonês no dispositivo Android](doc/lição05.md#teclado-em-japonês-no-dispositivo-android)
 
 # Lição 01: Hiragana
 
