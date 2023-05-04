@@ -44,6 +44,8 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Teclado em japonês no Windows](doc/lição05.md#teclado-em-japonês-no-windows)
    - [Teclado em japonês no dispositivo Android](doc/lição05.md#teclado-em-japonês-no-dispositivo-android)
    - [Segredos de digitação](doc/lição05.md#segredos-de-digitação)
+ - [**LIÇÃO 06: SUBSTANTIVOS E PRONOMES**](#lição-06-substantivos-e-pronomes)
+   - [**Os substantivos**](#os-substantivos)
 
 # Lição 01: Hiragana
 
@@ -76,3 +78,7 @@ O que devemos ter em mente agora é que para entendermos realmente o japonês, c
 Isso não é uma boa forma de gastar seu esforço.
 Neste capítulo aprenderemos melhores formas de estudarmos os tão temidos ***kanji***.
 [Ler mais...](doc/lição05.md)
+
+# Lição 06: Substantivos e pronomes
+Substantivo são palavras que denominam seres, objetos ou ideias e são uma das primeiras classes gramaticais a serem abordadas na parte de morfologia de gramática. Pronomes são palavras que algumas de suas funções são substituir ou acompanhar os substantivos, para evitar assim repetição desnecessária de termos. Nesta lição discutiremos pontos importantes a respeito dessas duas classes gramaticais.
+[Ler mais...](doc/lição06.md)

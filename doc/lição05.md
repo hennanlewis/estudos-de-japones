@@ -1,6 +1,7 @@
 [Voltar ao README 🡑](../README.md)
 
-[« Capítulo anterior](lição04.md)
+[« Capítulo anterior](lição04.md) |
+[Próximo capítulo »](lição06.md)
 
 # **Lição 05: Estudando kanji**
 O que devemos ter em mente agora é que para entendermos realmente o japonês, contra ou a favor da nossa vontade, devemos saber vários ***kanji***, mas uma das formas mais comuns de estudantes começarem é estudá-los pela ordem que os japoneses viram na escola, ou seja, a ***kyouiku kanji***, a lista ensinada do 1º ao 6º ano do primário.
@@ -338,6 +339,7 @@ Caso tenham interesse em se aprofundar mais sobre o conteúdo, utilize a seguint
 1. Fonte com as ordens do traço está em [***Free Japanese Fonts***](https://www.freejapanesefont.com/kanji-stroke-order-font-download/);
 2. Link para site com tutorial completo para configurar o teclado em japonês em outros sistemas operacionais: [***ToFuGu***](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/).
 
-[« Capítulo anterior](lição04.md)
+[« Capítulo anterior](lição04.md) |
+[Próximo capítulo »](lição06.md)
 
 [Voltar ao README 🡑](../README.md)
