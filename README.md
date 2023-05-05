@@ -45,7 +45,8 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Teclado em japonês no dispositivo Android](doc/lição05.md#teclado-em-japonês-no-dispositivo-android)
    - [Segredos de digitação](doc/lição05.md#segredos-de-digitação)
  - [**LIÇÃO 06: SUBSTANTIVOS E PRONOMES**](#lição-06-substantivos-e-pronomes)
-   - [**Os substantivos**](#os-substantivos)
+   - [Os substantivos](doc/lição06.md#os-substantivos)
+   - [Flexão dos substantivos](doc/lição06.md#flexão-dos-substantivos)
 
 # Lição 01: Hiragana
 
