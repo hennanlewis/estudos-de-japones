@@ -4,9 +4,9 @@
 [Próximo capítulo »](lição03.md)
 
 # **Lição 02: Katakana**
-A primeira lição foi sobre um dos principais sistemas de escrita do japonês, o ***hiragana***.
-Devido ao ***katakana*** ter vários pontos exatamente iguais a ele, muitos detalhes nas explicações serão mais breves por já terem sido apresentadas em mais detalhes no capítulo anterior, então, caso fique algo com um tom mais vago, basta reler o primeiro capítulo para relembrar com mais detalhes.
-Não terá apenas o conteúdo fosse uma releitura do anterior, pois existem vários casos de usos do ***katakana*** que normalmente não se usa o ***hiragana***, mas vamos para a contextualização pra não enrolar demais.
+A primeira lição foi sobre um dos principais sistemas de escrita do japonês, o ***`hiragana`***.
+Devido ao ***`katakana`*** ter vários pontos exatamente iguais a ele, muitos detalhes nas explicações serão mais breves por já terem sido apresentadas em mais detalhes no capítulo anterior, então, caso fique algo com um tom mais vago, basta reler o primeiro capítulo para relembrar com mais detalhes.
+Não terá apenas o conteúdo fosse uma releitura do anterior, pois existem vários casos de usos do ***`katakana`*** que normalmente não se usa o ***`hiragana`***, mas vamos para a contextualização pra não enrolar demais.
 
 - [**Lição 02: Katakana**](#lição-02-katakana)
 	- [**Contextualização histórica**](#contextualização-histórica)
@@ -28,16 +28,16 @@ Não terá apenas o conteúdo fosse uma releitura do anterior, pois existem vár
 - [**Para exercitar a leitura**](#para-exercitar-a-leitura)
 
 ## **Contextualização histórica**
-Uma das formas de se referir ao ***katakana***, de forma parecida com o ***hiragana***, era 男手(おとこで).
-Esse nome era justamente por ter se popularizado primeiro entre os homens, que tinham preferência por traços menos cursivos, e assim como o hiragana, ele também é resultado da simplificação de alguns ***kanji***, que estão na tabela abaixo.
+Uma das formas de se referir ao ***`katakana`***, de forma parecida com o ***`hiragana`***, era 男手(おとこで).
+Esse nome era justamente por ter se popularizado primeiro entre os homens, que tinham preferência por traços menos cursivos, e assim como o hiragana, ele também é resultado da simplificação de alguns ***`kanji`***, que estão na tabela abaixo.
 
 ![](images/02/katakana_origin.png)
 
-Diferente do ***hiragana***, que exige um pouco mais de imaginação para conseguirmos ver a semelhança entre os caracteres originais e os originados, conseguimos ver com bem mais facilidade a derivação no caso do ***katakana***, o que justifica até seu nome, que significa mais ou menos “pedaço de ***kana***”.
+Diferente do ***`hiragana`***, que exige um pouco mais de imaginação para conseguirmos ver a semelhança entre os caracteres originais e os originados, conseguimos ver com bem mais facilidade a derivação no caso do ***`katakana`***, o que justifica até seu nome, que significa mais ou menos “pedaço de ***`kana`***”.
 
 ## **Os caracteres e seus fonemas**
-Os sons e as características são exatamente as mesmas do ***hiragana***.
-Como podemos ver na imagem a seguir, todas as posições são as mesmas, tanto as linhas relacionadas aos sons vocálicos, quanto a coluna relacionadas às consoantes, ou seja, a letra **a** com a coluna do **n** formam ナ que possui a mesma pronúncia de な.
+Os sons e as características são exatamente as mesmas do ***`hiragana`***.
+Como podemos ver na imagem a seguir, todas as posições são as mesmas, tanto as linhas relacionadas aos sons vocálicos, quanto a coluna relacionadas às consoantes, ou seja, a letra **`a`** com a coluna do **`n`** formam ナ que possui a mesma pronúncia de な.
 Vamos seguir para deixar especificado.
 
 A seguinte tabela está disposta na forma da escrita tradicional japonesa, de cima pra baixo e da direita para a esquerda, ou seja, a ordem correta para ser lida é ア, イ, ウ, エ, オ, カ, キ, ク, ケ, コ, e assim por diante.
@@ -68,26 +68,26 @@ A seguinte tabela está disposta na forma da escrita tradicional japonesa, de ci
 
 Tome cuidado pois alguns caracteres são bem semelhantes, alguns são apenas um pouco1, já outros são extremamente semelhantes.
 
-> Observações:
+> **Observações**:
 > 1. Os pares ノ com メ, メ com ヌ, フ com ワ e ワ com ウ são semelhantes, então esses pares merecem uma atenção maior.
 > 2. シ e ツ são extremamente parecidos, precisam de uma atenção redobrada.
 Para facilitar a memorização, ao colocá-los um ao lado do outro vemos que, respectivamente, um parece um rostinho sorrindo pra cima e o outro parece um rostinho sorrindo pra esquerda.
 > 3. ン são ソ são muito parecidos também então para facilitar a memorização, basta ter um pensamento análogo a raciocínio para os caracteres シ e ツ, porém com pensamento de em vez de ser uma carinha sorrindo com dois olhos, uma que possui apenas um olho.
 
 ## **Alguns casos de uso no katakana**
-Os caracteres possuem os mesmos sons, mas utilização deles é um pouco diferente, pois existem alguns casos em que vemos o ***katakana*** na escrita japonesa.
+Os caracteres possuem os mesmos sons, mas utilização deles é um pouco diferente, pois existem alguns casos em que vemos o ***`katakana`*** na escrita japonesa.
 A lista a seguir pontua alguns de seus casos de uso:
 
 - **Onomatopeias**: palavras que representam sons, por exemplo ワンワン, que representa o som que o cachorro faz;
 - Termos técnicos e científicos: por exemplo, Canis lupus familiaris (ケニス・ルプス・ファミリアリス) , nome científico do cachorro;
 - **Nomes de corporações japonesas**: como a プレイステーション (PlayStation) e マクドナルド (Mc Donald);
-- **Documentos oficiais anteriores a segunda guerra**: em documentos oficiais anteriores a 2ª Grande Guerra, ele era utilizado conjuntamente com o ***hiragana*** de forma comum;
-- **Telegramas e computação**: na década de 1980, a maioria dos computadores os utilizava em vez de ***kanji*** e ***hiragana***;
+- **Documentos oficiais anteriores a segunda guerra**: em documentos oficiais anteriores a 2ª Grande Guerra, ele era utilizado conjuntamente com o ***`hiragana`*** de forma comum;
+- **Telegramas e computação**: na década de 1980, a maioria dos computadores os utilizava em vez de ***`kanji`*** e ***`hiragana`***;
 - **Palavras sino-japonesas**: palavras como ラーメン (lamen) e カレー (curry), que são de origem chinesa;
-- **Indicação de leitura *on***: para não adiantar muitos detalhes, ***kanji*** possuem algumas leituras, e uma delas é denominada leitura ***on***, e algumas vezes é possível encontrar ***hiragana*** ou ***katakana*** indicando a leitura, assim como já foi feito algumas vezes aqui neste material;
-- **Indicação de pronúncia**: pode ser encontrada próximo aos ***kanji***, acima, ou do lado em um tamanho um pouco menor;
+- **Indicação de leitura *on***: para não adiantar muitos detalhes, ***`kanji`*** possuem algumas leituras, e uma delas é denominada leitura ***on***, e algumas vezes é possível encontrar ***`hiragana`*** ou ***`katakana`*** indicando a leitura, assim como já foi feito algumas vezes aqui neste material;
+- **Indicação de pronúncia**: pode ser encontrada próximo aos ***`kanji`***, acima, ou do lado em um tamanho um pouco menor;
 - **Modos de fala**: normalmente aparece quando um personagem não japonês fala algo, ou em alguns casos, até personagens não humanos, como robôs ou alienígenas;
-- **Nomes pessoais**: normalmente se escreve o nome de pessoas estrangeiras em ***katakana***.
+- **Nomes pessoais**: normalmente se escreve o nome de pessoas estrangeiras em ***`katakana`***.
 
 ## **A ordem do traçado**
 A ordem do traçado do katakana é bem mais importante em comparação a do hiragana, tudo devido a alguns caracteres serem bastante semelhantes. Visualmente eles são semelhantes, mas a ordem dos traços e posição são levemente diferentes para que isso também ajude a diferenciá-los.
@@ -292,9 +292,9 @@ A ordem do traçado do katakana é bem mais importante em comparação a do hira
 # **Notas finais**
 Chegamos ao fim do segundo capítulo.
 Como podemos ver o segundo capítulo foi levemente mais curto que o primeiro devido a uma boa parte do conteúdo ser reaproveitado, como a contextualização histórica e a introdução e a explicação em torno da representação fonética.
-Por ser uma quantidade menor de conteúdo, não o ignore, pois ele é mais difícil de fixar devido à frequência do uso do ***katakana*** ser bem menor em comparação ao ***hiragana***.
+Por ser uma quantidade menor de conteúdo, não o ignore, pois ele é mais difícil de fixar devido à frequência do uso do ***`katakana`*** ser bem menor em comparação ao ***`hiragana`***.
 
-Apesar de ter terminado a base dos dois ***kana***, ainda faltam alguns assuntos relacionados que trataremos no próximo capítulo, entre eles é como representar o som o **g**, **z**, **d** e vários outros.
+Apesar de ter terminado a base dos dois ***`kana`***, ainda faltam alguns assuntos relacionados que trataremos no próximo capítulo, entre eles é como representar o som o **g**, **z**, **d** e vários outros.
 Caso tenha interesse em se aprofundar mais sobre o conteúdo, utilize a seguinte lista com as principais referências utilizadas para construção deste capítulo:
 
 1. Blog [***Ganbarou Ze* – Gramática Japonesa**](https://ganbarouze.blogspot.com/);
