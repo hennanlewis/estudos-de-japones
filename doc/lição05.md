@@ -4,9 +4,9 @@
 [Próximo capítulo »](lição06.md)
 
 # **Lição 05: Estudando kanji**
-O que devemos ter em mente agora é que para entendermos realmente o japonês, contra ou a favor da nossa vontade, devemos saber vários ***kanji***, mas uma das formas mais comuns de estudantes começarem é estudá-los pela ordem que os japoneses viram na escola, ou seja, a ***kyouiku kanji***, a lista ensinada do 1º ao 6º ano do primário.
+O que devemos ter em mente agora é que para entendermos realmente o japonês, contra ou a favor da nossa vontade, devemos saber vários ***`kanji`***, mas uma das formas mais comuns de estudantes começarem é estudá-los pela ordem que os japoneses viram na escola, ou seja, a ***`kyouiku kanji`***, a lista ensinada do 1º ao 6º ano do primário.
 Isso não é uma boa forma de gastar seu esforço.
-Neste capítulo aprenderemos melhores formas de estudarmos os tão temidos ***kanji***.
+Neste capítulo aprenderemos melhores formas de estudarmos os tão temidos ***`kanji`***.
 
 - [**Lição 05: Estudando kanji**](#lição-05-estudando-kanji)
 	- [**Por onde começar?**](#por-onde-começar)
@@ -23,16 +23,16 @@ Neste capítulo aprenderemos melhores formas de estudarmos os tão temidos ***ka
 	- [**Notas finais**](#notas-finais)
 
 ## **Por onde começar?**
-Ao entrar na escola, as crianças japonesas já sabem ler e escrever tanto ***hiragana*** quanto ***katakana***.
-O raciocínio dos estudantes de japonês é então seguir os mesmos passos dos japoneses após entrar na escola: aprender os ***kyouiku kanji*** na ordem estudada na escola.
+Ao entrar na escola, as crianças japonesas já sabem ler e escrever tanto ***`hiragana`*** quanto ***`katakana`***.
+O raciocínio dos estudantes de japonês é então seguir os mesmos passos dos japoneses após entrar na escola: aprender os ***`kyouiku kanji`*** na ordem estudada na escola.
 Isso é um dos erros mais complicados de se perceber logo de cara.
 
 Devemos levar em consideração que o contexto ao qual uma criança japonesa e o contexto ao qual nós estamos inseridos são completamente diferentes.
-Elas já sabem  escrever os ***kana*** e falar japonês antes mesmo de entrar para a escola – mesmo que usem algumas construções de forma errada, mas eles já conseguem se comunicar –, logo, o processo delas é reconhecer de forma escrita o que elas já sabem falar.
+Elas já sabem  escrever os ***`kana`*** e falar japonês antes mesmo de entrar para a escola – mesmo que usem algumas construções de forma errada, mas eles já conseguem se comunicar –, logo, o processo delas é reconhecer de forma escrita o que elas já sabem falar.
 Nós precisamos primeiro aprender a escrever, falar ainda não está em cogitação, pelo menos por um certo tempo.
 
 Para compensar essa “deficiência”, o mais simples e efetivo é procurar formas de aprender coisas que faz nos sentir interessados e que nos introduza mesmo que de maneira superficial ao funcionamento da língua.
-Um bom começo é utilizar algo que temos interesse para estudar os ***kanji*** em questão e altere os materiais sempre que você conseguirmos os entender com mais facilidade – não precisa ser completamente – e conseguir lembrar como eles são escritos.
+Um bom começo é utilizar algo que temos interesse para estudar os ***`kanji`*** em questão e altere os materiais sempre que você conseguirmos os entender com mais facilidade – não precisa ser completamente – e conseguir lembrar como eles são escritos.
 
 Uma outra forma é ao trocar o texto foco de estudo, o seguinte texto esteja dentro do mesmo contexto do anterior para aproveitar a maior parte do vocabulário adquirido com o passar do tempo.
 Com isso, aprendemos palavras novas ao passo que aproveitamos o vocabulário do texto anterior.
@@ -54,7 +54,7 @@ Este tipo de mídia é legal para aprender, entretanto, não é recomendável mi
 Podemos ser grosseiros com outrem mesmo sem termos consciência sobre isso.
 
 ## **Escrever a mão**
-Escrever ***kanji*** manualmente é uma das maneiras mais eficazes de aprendê-los e internalizá-los rapidamente.
+Escrever ***`kanji`*** manualmente é uma das maneiras mais eficazes de aprendê-los e internalizá-los rapidamente.
 De fato, pesquisas e estudos em várias faixas etárias e localizações ao redor do mundo têm provado sua eficácia.
 Algumas pessoas percebem que retêm mais informações ao escrever e isso complementa a memorização motora e visual com a escrita em canetas coloridas.
 
@@ -66,16 +66,16 @@ Quando os professores usavam materiais com mapas mentais já desenhados, eu cons
 Portanto, se escrever também o desencoraja, tenho uma maneira de ajudá-lo, porque entendo exatamente como é.
 Mas não precisa se preocupar se você é o tipo de pessoa que seu ponto forte na memorização é escrever à mão pois a maneira a seguir vai ser bem proveitosa para você também
 
-Existe uma fonte chamada ***Kanji Stroke Order*** e como o nome sugere, ela indica o traçado de cada ideograma levando em consideração a ordem do traçado.
+Existe uma fonte chamada ***`Kanji Stroke Order`*** e como o nome sugere, ela indica o traçado de cada ideograma levando em consideração a ordem do traçado.
 Ela já foi utilizada neste mesmo guia, porém, no capítulo passado no tópico sobre a organização da ordem dos traços.
-Veja novamente os ***kanji*** utilizados com a fonte ***Kanji Stroke Order***:
+Veja novamente os ***`kanji`*** utilizados com a fonte ***`Kanji Stroke Order`***:
 
 ![Kanji Stroke Order: 川三父中囲左](images/05/KSO.png)
 
 No começo, é realmente muito efetivo o estudo pela escrita manuscrita, mas assim que conseguir entendimento suficiente ou aprender as regras das ordens de traçado de forma mais concreta, está fonte é uma mão na roda para quem estuda.
 Pode ser encontrada em [***Free Japanese Fonts***](https://www.freejapanesefont.com/kanji-stroke-order-font-download/).
 
-Quanto mais o tempo passar no estudo de ***kanji*** utilizando essa fonte, mais vai ficar fácil perceber padrões e conseguir visualizar os radicais imediatamente após bater o olho em cada ideograma, até chegar o momento em que é possível saber a ordem do traçado na grande maioria dos casos mesmo sem utilizá-la.
+Quanto mais o tempo passar no estudo de ***`kanji`*** utilizando essa fonte, mais vai ficar fácil perceber padrões e conseguir visualizar os radicais imediatamente após bater o olho em cada ideograma, até chegar o momento em que é possível saber a ordem do traçado na grande maioria dos casos mesmo sem utilizá-la.
 Apenas mantenha o foco e continue, você vai conseguir.
 
 ## **O Anki**
@@ -100,7 +100,7 @@ Ao fazer uma revisão após um dia, recuperamos praticamente toda a informação
 Agora falando sobre *flashcards*, eles são uma técnica popular de estudo devido à sua eficácia e simplicidade que são frequentemente usados por estudantes que precisam memorizar grandes quantidades de informações, como vocabulário em línguas estrangeiras, termos médicos ou leis, por exemplo.
 
 Podem ser criados manualmente com cartões que na frente possui o conceito a ser estudado e no verso possui o significado.
-Por exemplo, um cartão com frente escrito o ***kanji*** 犬 e no seu verso possui sua pronúncia e seu significado “いぬ – **cachorro**”.
+Por exemplo, um cartão com frente escrito o ***`kanji`*** 犬 e no seu verso possui sua pronúncia e seu significado “いぬ – **`cachorro`**”.
 
 A forma de utilizá-los é criar vários com os conceitos que queremos aprender e tentar acertar o verso.
 Ao errarmos o verso, colocamos o cartão no final da pilha e continuamos com o próximo.
@@ -139,30 +139,30 @@ Primeiro, o mais benéfico é buscar entender como é o funcionamento de forma g
 Isso não gerará desgaste, muito pelo contrário, o processo será bem mais divertido e natural.
 
 ## **Não aprenda por kanji isolados**
-No tópico [**Escrever a mão**](#escrever-a-mão), destacamos que escrever manualmente é uma forma altamente eficaz de aprender ***kanji***.
-No entanto, é importante lembrar que escrever à mão pode ser um processo demorado, já que cada ***kanji*** possui uma ordem específica de traçado que deve ser seguida.
+No tópico [**Escrever a mão**](#escrever-a-mão), destacamos que escrever manualmente é uma forma altamente eficaz de aprender ***`kanji`***.
+No entanto, é importante lembrar que escrever à mão pode ser um processo demorado, já que cada ***`kanji`*** possui uma ordem específica de traçado que deve ser seguida.
 
 Para contornar essa dificuldade, recomendamos o uso da fonte *Kanji Stroke Order*, que mostra a ordem correta dos traços.
-Embora essa seja uma ótima dica para aprender a escrever kanji com a ordem correta, ainda pode levar algum tempo para memorizar todos os traços de cada ***kanji***.
+Embora essa seja uma ótima dica para aprender a escrever kanji com a ordem correta, ainda pode levar algum tempo para memorizar todos os traços de cada ***`kanji`***.
 
 Há uma frase em inglês popular que diz “*if you don’t use it, you lose it*”.
-Isso também se aplica à escrita à mão dos ***kanji***, já que a comunicação digital tem reduzido a necessidade de escrevê-los. Se não praticarmos, podemos perder essa habilidade.
+Isso também se aplica à escrita à mão dos ***`kanji`***, já que a comunicação digital tem reduzido a necessidade de escrevê-los. Se não praticarmos, podemos perder essa habilidade.
 
 Devemos entender que isso não é um impeditivo para caso tenhamos vontade, apenas é uma coisa a ser considerada.
 A melhor forma de manter a habilidade é praticando, então a prática contínua é ótima para não perdermos tal habilidade.
 
-Um outro ponto que pode ser um gasto de energia sem um retorno equivalente é estudar apenas os ***kanji*** isoladamente e suas leituras – ***on’yomi*** e ***kun’yomi***.
+Um outro ponto que pode ser um gasto de energia sem um retorno equivalente é estudar apenas os ***`kanji`*** isoladamente e suas leituras – ***on’yomi*** e ***kun’yomi***.
 Aprender cada uma delas é um trabalho demorado, são raros os ideogramas que possuem apenas uma leitura e algumas dos que possuem mais de uma são usadas só em casos bastantes específicos.
 
 Uma forma interessante de aprendê-los é estudar por frases.
 Ao memorizar palavras dentro do contexto, entendemos como usar a palavra e sua pronúncia, diferente de aprender cada uma das leituras para, no final, tentar adivinhar qual delas gera a real pronúncia da palavra.
 
-Com o aumento do contato com a língua, percebemos que os ***kanji*** também podem ter sentidos diferentes em contextos diferentes.
+Com o aumento do contato com a língua, percebemos que os ***`kanji`*** também podem ter sentidos diferentes em contextos diferentes.
 Entretanto, isso é extremamente normal em cada idioma, não só no japonês.
 Dito isto, ainda não conseguimos por esta dica em prática apenas com esta primeira unidade por ela tratar apenas dos aspectos escritos do japonês, mas a partir do próximo capítulo iniciamos a Unidade 2, que trata dos aspectos gramaticais básicos.
 
 Nela terá a classe gramatical das palavras, como usá-las de forma geral e as especificidades da língua japonesa que não existem no português, como no caso das partículas.
-Mas a explicação para cada uma dessas coisas será tópicos dos próximos capítulos, então continuem estudando! Não precisamos iniciar os estudos de ***kanji*** antes de conhecer o funcionamento básico da língua, portanto, é uma recomendação fazer isso apenas a partir do próximo capítulo.
+Mas a explicação para cada uma dessas coisas será tópicos dos próximos capítulos, então continuem estudando! Não precisamos iniciar os estudos de ***`kanji`*** antes de conhecer o funcionamento básico da língua, portanto, é uma recomendação fazer isso apenas a partir do próximo capítulo.
 
 Mas lembre-se de que não é uma obrigação seguir essa recomendação. Se você preferir, pode começar a estudar os kanji antes. O importante é continuar estudando para aprimorar seus conhecimentos.
 
@@ -219,18 +219,18 @@ Na segunda, o idioma do teclado é o japonês.
 ![Barra de idioma 2](images/05/aba-idioma2.png)
 
 Agora, ao digitar, algumas teclas digitam coisas levemente diferentes.
-Por exemplo, ao digitar um **ç** aparece um **ponto e vírgula**.
-O que aconteceu é que o teclado japonês padrão insere apenas em ***roomaji***.
-A imagem abaixo mostra a barra de tarefas e perceba que agora apareceu um ícone com a letra **A** e um ícone com a letra **J**.
+Por exemplo, ao digitar um **`ç`** aparece um **`ponto e vírgula`**.
+O que aconteceu é que o teclado japonês padrão insere apenas em ***`roomaji`***.
+A imagem abaixo mostra a barra de tarefas e perceba que agora apareceu um ícone com a letra **`A`** e um ícone com a letra **`J`**.
 
 ![Barra de idiomas 1](images/05/barra-idioma1.png)
 
-Existem duas formas para inserir textos em ***hiragana***, uma é clicar no ícone **A** até aparecer o ***kana* あ** e a outra é pressionar o atalho **Ctrl + CAPS LOCK**.
+Existem duas formas para inserir textos em ***`hiragana`***, uma é clicar no ícone **A** até aparecer o ***kana* あ** e a outra é pressionar o atalho **Ctrl + CAPS LOCK**.
 A barra de tarefas ficará igual à imagem abaixo.
 
 ![Barra de idiomas 2](images/05/barra-idioma2.png)
 
-Existem duas formas para inserir textos em ***katakana***, uma é clicar no ícone **A** até aparecer o ***kana* カ** e a outra é pressionar o atalho **Alt + CAPS LOCK**.
+Existem duas formas para inserir textos em ***`katakana`***, uma é clicar no ícone **A** até aparecer o ***kana* カ** e a outra é pressionar o atalho **Alt + CAPS LOCK**.
 A barra de tarefas ficará igual à imagem abaixo.
 
 ![Barra de idiomas 3](images/05/barra-idioma3.png)
@@ -239,35 +239,35 @@ A barra de tarefas ficará igual à imagem abaixo.
 Devemos lembrar dos assuntos abordados na [**Lição 03**](lição03.md), o capítulo sobre as peculiaridades de escrita dos kana.
 Para não haver confusão em como digitar, aqui vão algumas dicas:
 
-- Ao escrever **kanji** com o teclado para ***hiragana*** ativado, aparecerá かんじ mas o texto só será realmente inserido após pressionar **ENTER**;
-- Ao digitar um texto com o teclado para ***hiragana***, antes de pressionar **ENTER**, se você pressionar **F7**, o texto mudará para ***katakana***, e pressionar F6 retornará para ***hiragana***;
-- Ao digitar um texto com o teclado para ***katakana***, antes de pressionar **ENTER**, se você pressionar **F6**, o texto mudará para ***hiragana***, e pressionar **F7** retornará para ***katakana***;
+- Ao escrever **`kanji`** com o teclado para ***`hiragana`*** ativado, aparecerá かんじ mas o texto só será realmente inserido após pressionar **`ENTER`**;
+- Ao digitar um texto com o teclado para ***`hiragana`***, antes de pressionar **`ENTER`**, se você pressionar **F7**, o texto mudará para ***`katakana`***, e pressionar F6 retornará para ***`hiragana`***;
+- Ao digitar um texto com o teclado para ***`katakana`***, antes de pressionar **`ENTER`**, se você pressionar **`F6`**, o texto mudará para ***`hiragana`***, e pressionar **`F7`** retornará para ***`katakana`***;
 
 De modo geral, para digitar os textos corretamente, a romanização correta precisa ser digitada corretamente.
 Por exemplo:
-- Para inserir o ***youon*** きゃ corretamente, digite **kya**;
-- Para inserir um ***chouon*** かあ corretamente, digite **kaa**;
-- Para inserir um ***chouon*** カー do ***katakana*** corretamente, digite **ka-**.
-Devemos lembrar que o prolongamento correto do ***katakana*** é um traço, ou seja, devemos digitar um hífen para aparecer corretamente;
-- Para o ***sokuon*** de けっけい, digite **kekkei**.
-Para o ***sokuon*** em だった, digite datta.
-Para o ***sokuon*** em せっしょう, digite **sesshou**;
-- Para digitar あぁ, digite **ala**.
-Ou seja, para digitar um caractere pequeno, devemos digitar a letra **l** – de lagartixa, para não confundir com um **i** maiúsculo – antes da romanização do ***kana***.
+- Para inserir o ***`youon`*** きゃ corretamente, digite **`kya`**;
+- Para inserir um ***`chouon`*** かあ corretamente, digite **`kaa`**;
+- Para inserir um ***`chouon`*** カー do ***`katakana`*** corretamente, digite **`ka-`**.
+Devemos lembrar que o prolongamento correto do ***`katakana`*** é um traço, ou seja, devemos digitar um hífen para aparecer corretamente;
+- Para o ***`sokuon`*** de けっけい, digite **`kekkei`**.
+Para o ***`sokuon`*** em だった, digite datta.
+Para o ***`sokuon`*** em せっしょう, digite **`sesshou`**;
+- Para digitar あぁ, digite **`ala`**.
+Ou seja, para digitar um caractere pequeno, devemos digitar a letra **`l`** – de lagartixa, para não confundir com um **`i`** maiúsculo – antes da romanização do ***`kana`***.
 
 > **Observações**:
 >
-> 1. Devemos lembrar que a romanização do ***sokuon*** muda conforme o caractere que segue o つ pequeno, por isso a forma de digitar muda conforme a palavra.
-> 2. Essa é uma outra forma de digitar o つ pequeno do ***sokuon***. Ou seja, para aparecer けっけい em ***hiragana***, também é possível se digitarmos **keltsukei**.
+> 1. Devemos lembrar que a romanização do ***`sokuon`*** muda conforme o caractere que segue o つ pequeno, por isso a forma de digitar muda conforme a palavra.
+> 2. Essa é uma outra forma de digitar o つ pequeno do ***`sokuon`***. Ou seja, para aparecer けっけい em ***`hiragana`***, também é possível se digitarmos **`keltsukei`**.
 
-Tá, mas como digitar os ***kanji***?
+Tá, mas como digitar os ***`kanji`***?
 É bem fácil.
-Precisamos apenas pressionar a **barra de espaço** antes de pressionar **ENTER** pra selecionar o caractere, mas para escolher os ***kanji*** corretos após digitar a romanização, precisamos primeiro conhecer os corretos.
-Por exemplo, ao digitar ***kanji*** com o teclado de ***hiragana*** ativado, pressionar a barra de espaços uma vez muda o texto para 漢字, e pressionar uma segunda vez, aparece a caixa da imagem abaixo.
+Precisamos apenas pressionar a **`barra de espaço`** antes de pressionar **`ENTER`** pra selecionar o caractere, mas para escolher os ***`kanji`*** corretos após digitar a romanização, precisamos primeiro conhecer os corretos.
+Por exemplo, ao digitar ***`kanji`*** com o teclado de ***`hiragana`*** ativado, pressionar a barra de espaços uma vez muda o texto para 漢字, e pressionar uma segunda vez, aparece a caixa da imagem abaixo.
 
 ![Sugestões de kanji do menu de contexto](images/05/sugestões-do-menu-contexto.png)
 
-Para mudar entre as opções, utilize a própria barra de espaço ou as teclas direcionais para cima ou para baixo, e para selecionar a opção, pressione **ENTER**.
+Para mudar entre as opções, utilize a própria barra de espaço ou as teclas direcionais para cima ou para baixo, e para selecionar a opção, pressione **`ENTER`**.
 
 ## **Teclado em japonês no dispositivo Android**
 
@@ -302,7 +302,7 @@ Vamos aos seguintes passos:
 
 
 
-Pronto, o teclado japonês está instalado! Para digitar o texto em japonês ao digitar alguma coisa, pressione o ícone de globo (na imagem está do lado direito do botão com **www.**) e quando aparecer **JA** na barra de espaço, ao digitar **nihongo** o texto de saída será **にほんご**.
+Pronto, o teclado japonês está instalado! Para digitar o texto em japonês ao digitar alguma coisa, pressione o ícone de globo (na imagem está do lado direito do botão com **`www.`**) e quando aparecer **`JA`** na barra de espaço, ao digitar **`nihongo`** o texto de saída será **`にほんご`**.
 
 ![Teclado em português](images/05/teclado1.jpeg)
 ![Teclado em japonês](images/05/teclado2.jpeg)
@@ -312,22 +312,22 @@ Como podemos observar pela Figura 8, algumas sugestões de opções aparecem log
 ## **Segredos de digitação**
 Digitar em japonês no computador é fácil de perceber que existem caracteres e figuras tipográficas que não existem no português, mas mesmo que no celular elas não apareçam, não significa que não podemos utilizá-las.
 
-Sem muita enrolação, a lista a seguir mostra como inserir alguns caracteres especiais do japonês – no computador, aparecerá como na figura de sugestão de seleção de ***kanji*** e no celular aparecerá como na figura das sugestões de texto:
-- ***bikkuri*** (びっくり)  – literalmente ser **surpreendido**. O nome não é tão intuitivo assim, mas são exclamações diferentes das que estamos habituados. Ex.: ❕, ⁉, ‼, ❢;
-- ***dasshu*** (だっしゅ) – literalmente **traço**/**hífen**. Como o nome sugere, aparecerá opções de traços e hifens, inclusive o traço ondulado. Ex.: ―, 〜;
-- ***hatena*** (はてな) – literalmente **interrogação**. Como o nome sugere, aparecerá opções de interrogações diferentes do que estamos habituados no português. Ex.: ❔, ⁇, ‽, ❓;
-- ***kakko*** (かっこ) – literalmente **colchetes**. Como o nome sugere, aparecerá opções de colchetes diferentes dos que estamos habituados no português. Ex.: 【】,『』, 「」1;
-- ***maru*** (まる) – literalmente **círculo**. Como o nome sugere, aparecerá opções de círculos que não existem no português. Ex.: ◎, ①, ㊤2;
-- ***yajirushi*** (やじるし) – literalmente **flechas**/**setas**. Aparece como sugestão, vários tipos de setas. Ex.: ⇒, ⤵, →.
+Sem muita enrolação, a lista a seguir mostra como inserir alguns caracteres especiais do japonês – no computador, aparecerá como na figura de sugestão de seleção de ***`kanji`*** e no celular aparecerá como na figura das sugestões de texto:
+- ***bikkuri*** (びっくり)  – literalmente ser **`surpreendido`**. O nome não é tão intuitivo assim, mas são exclamações diferentes das que estamos habituados. Ex.: ❕, ⁉, ‼, ❢;
+- ***dasshu*** (だっしゅ) – literalmente **`traço`**/**`hífen`**. Como o nome sugere, aparecerá opções de traços e hifens, inclusive o traço ondulado. Ex.: ―, 〜;
+- ***hatena*** (はてな) – literalmente **`interrogação`**. Como o nome sugere, aparecerá opções de interrogações diferentes do que estamos habituados no português. Ex.: ❔, ⁇, ‽, ❓;
+- ***kakko*** (かっこ) – literalmente **`colchetes`**. Como o nome sugere, aparecerá opções de colchetes diferentes dos que estamos habituados no português. Ex.: 【】,『』, 「」1;
+- ***maru*** (まる) – literalmente **`círculo`**. Como o nome sugere, aparecerá opções de círculos que não existem no português. Ex.: ◎, ①, ㊤2;
+- ***yajirushi*** (やじるし) – literalmente **`flechas`**/**`setas`**. Aparece como sugestão, vários tipos de setas. Ex.: ⇒, ⤵, →.
 
 > **Observações**:
 >
 > 1. O espaço antes e após cada um desses caracteres é realmente maior que o comum. Tecnicamente, quase todas as pontuações e figuras tipográficas no japonês são assim. O segundo e o terceiro grupo de caracteres são equivalente às nossas aspas.
-> 2. É possível até mesmo colocar alguns números dentro do círculo, basta digitar **maru** e logo em seguida o número, ex.: **maru1** insere ①.
+> 2. É possível até mesmo colocar alguns números dentro do círculo, basta digitar **`maru`** e logo em seguida o número, ex.: **`maru1`** insere ①.
 
-Há outros sinais que podem ser inseridos, por exemplo, ***hoshi*** – literalmente **estrela** – que aparece opções de estrelas e ***ha-to*** – literalmente **coração** – que aparece opções de corações. Pode ser basicamente qualquer coisa, basta procurar a palavra desejada, e se tiver opções diferentes pra inserção, basta selecionar.
+Há outros sinais que podem ser inseridos, por exemplo, ***`hoshi`*** – literalmente **`estrela`** – que aparece opções de estrelas e ***`ha-to`*** – literalmente **`coração`** – que aparece opções de corações. Pode ser basicamente qualquer coisa, basta procurar a palavra desejada, e se tiver opções diferentes pra inserção, basta selecionar.
 
-No japão também é muito comum inserir emotes feitos apenas com símbolos, os chamados ***kaomoji***. Para inseri-los, basta digitar ***kaomoji***, que aparecerá sugestões como:
+No japão também é muito comum inserir emotes feitos apenas com símbolos, os chamados ***`kaomoji`***. Para inseri-los, basta digitar ***`kaomoji`***, que aparecerá sugestões como:
 ('ω')ノ　(#^.^#)　(*^▽^*)
 
 ## **Notas finais**
