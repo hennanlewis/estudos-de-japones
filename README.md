@@ -47,6 +47,7 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
  - [**LIÇÃO 06: SUBSTANTIVOS E PRONOMES**](#lição-06-substantivos-e-pronomes)
    - [Os substantivos](doc/lição06.md#os-substantivos)
    - [Flexão dos substantivos](doc/lição06.md#flexão-dos-substantivos)
+   - [Pronomes](doc/lição06.md#pronomes)
 
 # Lição 01: Hiragana
 

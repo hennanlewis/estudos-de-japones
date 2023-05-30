@@ -12,6 +12,8 @@ Substantivo são palavras que denominam seres, objetos ou ideias e são uma das 
 		- [**Vocabulário**](#vocabulário-1)
 		- [**Flexão de número**](#flexão-de-número)
 		- [**Flexão de gênero**](#flexão-de-gênero)
+	- [**Pronomes**](#pronomes)
+		- [**Vocabulário**](#vocabulário-2)
 
 ## **Os substantivos**
 
@@ -21,19 +23,19 @@ Substantivo são palavras que denominam seres, objetos ou ideias e são uma das 
 山田 | やまだ | Yamada (nome)
 太郎 | たろう | Tarou (nome) 
 日本 | にほん | Japão        
-| | ブラジル   | Brasil       
-猫   | ね.こ   | gato          
-犬   | いぬ.   | cachorro      
+| | ブラジル  | Brasil       
+猫   | ね.こ  | gato          
+犬   | いぬ.  | cachorro      
 魚  | さかな  | peixe         
-川 | かわ.   | rio           
-空 | そ.ら | céu
-海 | う.み | mar
-人 | ひと | pessoa
+川 | かわ.    | rio           
+空 | そ.ら    | céu
+海 | う.み    | mar
+人 | ひと    | pessoa
 女 | おんな. | mulher
 男 | おとこ. | homem
-||こと | coisa
+|| こと      | coisa
 勉強 | べんきょう | estudo
-|| する | fazer
+|| する      | fazer
 
 Sobre a definição de substantivo, segundo o dicionário *Michaelis*: diz-se de palavra que, exclusivamente e sem auxílio de outra, designa a substância dos seres; diz-se de palavra que designa os seres em geral, ações, estados e noções.
 
@@ -45,7 +47,7 @@ Por enquanto, podemos nos ater às seguintes divisões dos substantivos em japon
 - **Substantivos comuns**: em japonês é 普通名詞 (ふつうめいし), são palavras que denominam coisas pertencentes ao mesmo tipo. **`Ex`.: 猫, 犬, 魚, 川, 空, 海, 人, 女, 男;
 - **Substantivos formais**: em japonês é 形式名詞 (けいしきめいし), são substantivos que formam o sujeito de um predicado ou cria relação entre o substantivo e uma frase. É difícil exemplificar sem entrar em conteúdo mais específico, mas um exemplo é o que chamamos de **`nominalização`** em português;
 
-`Nominalização`** é o ato de dar características de substantivo a uma frase ou uma palavra de outra classe gramatical, assim como na frase “esqueceu de beber o suco”. Em “de beber o suco” possui função parecida com a de um substantivo e pode ser substituída por “algo”, ou seja, pode ser entendida como "esqueceu algo". Veja como fica em japonês:
+**`Nominalização`** é o ato de dar características de substantivo a uma frase ou uma palavra de outra classe gramatical, assim como na frase “esqueceu de beber o suco”. Em “de beber o suco” possui função parecida com a de um substantivo e pode ser substituída por “algo”, ou seja, pode ser entendida como "esqueceu algo". Veja como fica em japonês:
 
 ```properties
 ~PT: Esqueceu de beber o suco.
@@ -163,6 +165,27 @@ Nesse caso, como os substantivos para animais significa tanto masculino como fem
 ~JP: 犬 ➡ 犬雄
 ~PT: cadela/cachorro ➡ cachorro
 ```
+
+## **Pronomes**
+### **Vocabulário**
+
+| Kanji | Leitura | Significado |
+-:|:-:|:-
+私 |わたし | eu
+君 |きみ | você
+彼 |か.れ | ele
+彼女 |か.のじょ | ela
+|| これ | isto
+|| それ | isso
+|| あれ | aquilo
+自分 |じぶん | si próprio
+       
+Os pronomes no japonês, 代名詞 (だいめいし), são semelhantes a substantivos em alguns pontos e esta semelhança não é à toa. Antigamente, usávamos os substantivos para nos referir à posição de hierarquia e/ou a função de alguém perante a sociedade, porém, com o passar do tempo, tornaram-se formas padrões de nos referirmos a outrem.
+
+As denominações a seguir são os tipos de pronomes em japonês:
+- Pronomes pessoais: em japonês 人称代名詞 (にんしょうだいめいし), são palavras que se referem a pessoas ou coisas por parte falante ou receptor. Ex.: 私, 君, 彼, 彼女;
+- Pronomes demonstrativos: em japonês 指示代名詞 (しじだいめいし), são palavras que se referem a coisas no campo de visão, contexto, ou memória. Ex.: これ, それ, あれ;
+- Pronomes reflexivos: em japonês 再帰代名詞 (さいきだいめいし), normalmente são palavras que se referem ao mesmo pronome utilizado anteriormente. Ex.: 自分 para 私.
 
 [« Capítulo anterior](lição05.md)
 
