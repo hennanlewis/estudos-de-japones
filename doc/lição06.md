@@ -15,6 +15,7 @@ Substantivo são palavras que denominam seres, objetos ou ideias e são uma das 
 	- [**Pronomes**](#pronomes)
 		- [**Vocabulário**](#vocabulário-2)
 	- [Flexão dos pronomes](#flexão-dos-pronomes)
+	- [**Pronomes femininos e masculinos**](#pronomes-femininos-e-masculinos)
 
 ## **Os substantivos**
 
@@ -231,6 +232,27 @@ A flexão dos pronomes é quase inexistente. Conseguimos fazer com que eles se r
 ~PT: ela ➡ ela e os demais, o que pode ser traduzido como eles ou elas
 ```
 
+## **Pronomes femininos e masculinos**
+Ao estudar japonês nos deparamos com materiais que dizem que pronome X é usado por mulheres e pronome Y é usado por homens, o que inclusive, já foi justificativa de pessoas para determinar o gênero de personagens misteriosos ou de gênero de personagens que deixavam dúvida aos fãs em animes/mangás.
+
+O pronome 私 é utilizado tanto por homens quanto mulheres, então ele tem um caráter mais neutro em relação ao gênero, mesmo que normalmente ele seja um pouco mais formal e educado. O pronome 僕 é utilizado por homens. O pronome わたくし, é utilizado por mulheres. Mas será que realmente devemos entender que essas afirmações são 100% verdade?
+
+Alguns dos próximos pontos levantados são baseados em minhas percepções e uma tentativa de homogeneização a partir de como os personagens das mídias que já consumi utilizam os pronomes, então não existe exatamente uma fonte que eu possa indicar para quem tenha interesse em saber mais sobre o assunto. É basicamente uma interpretação pessoal.
+
+É fácil encontrar material que indique a utilização de pronomes pessoais apenas por um gênero específico, mas quanto mais consumimos material japonês, percebemos que isso gera algumas “inconsistências”, porque é possível encontrar personagens masculinos que utilizam o pronome わたくし e mulheres que utilizam o pronome 僕. O gênero desses personagens é diferente do que aparentam? Por que isso acontece?
+
+Particularmente, eu acredito que a divisão dos pronomes não se dá tão unilateralmente através do gênero, e sim por questões como fofura, polidez, formalidade, educação, personalidade e até arrogância. Calma, vou explicar meu ponto. No Japão, a figura feminina é bastante associada a coisas fofas e à educação – educação no sentido de polidez, como oposto a grosseria –, já a figura masculina é associada a ser um pouco incisivo e/ou forte.
+
+Personagens masculinos que utilizam o pronome わたくし normalmente são de animes que retratam as épocas mais ou menos das eras de guerra no Japão da monarquia japonesa, e vemos também que os mesmos personagens são corteses e respeitosos em demasia, assim como o rei *Koming* em *Paripi Koumei*. Personagens femininas que utilizam o pronome 僕 possuem a personalidade forte e decidida, assim como a *02* em *Darling in The Franxx* e a *Yamato* em *One Piece*, então não parece que utilizar um pronome específico realmente é uma confirmação irrefutável de gênero de personagens como iniciantes de japonês tendem a pensar.
+
+Levar em consideração que os pronomes são utilizados apenas em demonstração de gênero leva a inconsistências como personagens masculinos utilizam pronomes femininos e vice-versa. Entretanto, considerar que os pronomes estão em níveis de uma escala que vão de **educação**/**respeito** a **incisão**/**rude** torna as coisas mais consistentes no sentido de um personagem utilizar um pronome que o assenta. Segue alguns exemplos:
+
+- わたくし é um dos pronomes mais educados e respeitosos, então ficaria na ponta **educada**/**respeitosa** da escala;
+- 私 é um pronome neutro para gêneros, então ficaria em uma posição intermediária da escala;
+- 俺 (おれ) é um pronome bastante rude então ficaria na ponta **incisiva**/**rude**, ou seja, na ponta oposta a わたくし;
+- 僕 é um pronome relativamente incisivo, e estaria numa posição entre neutra e **incisiva**/**rude**.
+
+Contudo, um dos poucos pronomes que aparentemente são utilizados apenas por um gênero são あたし, あたくし, あたい, devido a serem basicamente derivação de gírias femininas e おら, por ser a derivação de gíria masculina. Ainda que sejam pontos que fazem sentido até um certo ponto, não levem tudo isso como verdades absolutas, porque independentemente de ser uma tentativa de homogeneização para explicar algumas consistências, não é possível afirmar isso com fontes de pesquisa acadêmica ou científica. Por conseguinte, nos próximos subtópicos veremos algumas listas de pronomes como normalmente são abordados, direcionados a uso masculino, feminino ou para ambos.
 
 [« Capítulo anterior](lição05.md)
 
