@@ -16,6 +16,7 @@ Substantivo são palavras que denominam seres, objetos ou ideias e são uma das 
 		- [**Vocabulário**](#vocabulário-2)
 	- [Flexão dos pronomes](#flexão-dos-pronomes)
 	- [**Pronomes femininos e masculinos**](#pronomes-femininos-e-masculinos)
+	- [**Pronomes pessoais de primeira pessoa**](#pronomes-pessoais-de-primeira-pessoa)
 
 ## **Os substantivos**
 
@@ -253,6 +254,31 @@ Levar em consideração que os pronomes são utilizados apenas em demonstração
 - 僕 é um pronome relativamente incisivo, e estaria numa posição entre neutra e **incisiva**/**rude**.
 
 Contudo, um dos poucos pronomes que aparentemente são utilizados apenas por um gênero são あたし, あたくし, あたい, devido a serem basicamente derivação de gírias femininas e おら, por ser a derivação de gíria masculina. Ainda que sejam pontos que fazem sentido até um certo ponto, não levem tudo isso como verdades absolutas, porque independentemente de ser uma tentativa de homogeneização para explicar algumas consistências, não é possível afirmar isso com fontes de pesquisa acadêmica ou científica. Por conseguinte, nos próximos subtópicos veremos algumas listas de pronomes como normalmente são abordados, direcionados a uso masculino, feminino ou para ambos.
+
+## **Pronomes pessoais de primeira pessoa**
+Existem vários ***daiichininshou*** (第一人称) – pronomes de primeira pessoa, chamados pronomes pessoais de primeira pessoa em português – que são equivalentes a dizer “eu”, entretanto, esses são os mais comumente vistos:
+
+- 私 (わたし): pronome usado tanto por homens quanto mulheres. É formal e educado;
+- 私 (わたくし): pronome também usado por ambos. É muito formal e educado;
+- あたし: utilizado por mulheres mais jovens e uma derivação feminina de 私 (わたし). É considerado gracioso;
+- あたくし: utilizado por mulheres. Tem um tom mais formal e polido por ser uma gíria derivada de 私 (わたくし), mas ainda assim é evitado em situações formais;
+- あたい: é uma gíria feminina derivada de あたし (sim, uma gíria derivada de uma já derivação);
+- 僕 (ぼく): usado por homens, casualmente soa mais humilde, pois 僕 pode significar também “servo”. Não é muito assertivo, é casual e muitas vezes é visto como sendo bonito pelas mulheres;
+- 俺 (おれ): frequentemente utilizado por homens, é bastante direto e, dependendo do contexto, pode parecer rude. . Entre as pessoas que você conhece, mostra familiaridade;
+- 俺様 (おれさま): utilizado por homens e provavelmente seja utilizado apenas em animes e mangás. É uma forma rude e arrogante de referir-se a si mesmo, passa um ar de alto senso de superioridade e ego inflado. Personagens como o presunçoso *Benjamin Hui Guo Rou*, Primeiro Príncipe de *Kakin* em *HuntetxHunter*  e *Vejita* em *Dragon Ball* o utilizam;
+- おら:  gíria para 俺 e mais comumente associado a personagens de mangá, animes ou ficção que têm uma personalidade incisiva/despreucupada. Pode ser considerada um pouco rudo ou inadequada. Alguns personagens conhecidos que usam incluem *Eren Yeager* de *Shingeki no Kyojin*, *Naruto Uzumaki* de *Naruto* e *Son Goku* de *Dragon Ball*;
+- 我が (わが): apesar de ser tratada como pronome dependendo do contexto, é usada para expressar posse ou pertencimento e é excessivamente formal. A encontramos em expressões como 我が国 (わがくに) – nosso país–, ou 我が家 (わがいえ) – minha casa. Por seu tom de muita formalidade, personagens que o utilizam são *chuunibyou* (中二病), como a *Megumin* de *Konosuba* e a *Fishel* do jogo *Genshin Impact*.
+
+>**Observações**:
+>
+>1. *Chuunibyou*, às vezes escrito como chuuninbyou em romanização, é uma palavra japonesa que se refere a um fenômeno comportamental comum entre adolescentes. É comumente traduzido como “síndrome do oitavo ano” ou “síndrome da adolescência”. O termo é usado para descrever jovens que exibem comportamentos extravagantes, imaginativos e muitas vezes fantasiosos.
+>2. *Konosuba* é abreviação para *Kono Subarashii Sekai ni Shukufuku wo!*, (この素晴らしい世界に祝福を! ) 
+
+Ao considerarmos todos esses pronomes, é importante ressaltar que, ao nos referirmos a nós mesmos em japonês, não devemos utilizá-los da mesma forma que fazemos em português. Isso se deve ao fato de que seu uso frequente pode transmitir uma sensação de falta de humildade ou de egocentrismo, algo como “EU que gosto de comer”, “EU que limpei a casa”, “EU que sou legal”, como se **EU** fosse o destaque de tudo que eu falo ou faço.
+
+Na cultura japonesa, a linguagem tende a ser mais indireta, valorizando a modéstia e o respeito pela hierarquia social. Em situações formais, ao falar com pessoas mais velhas, superiores hierárquicos ou desconhecidos, é mais apropriado usar expressões alternativas, como o próprio nome ou mesmo deixar algumas frases sem sujeito. Só o contexto já é suficiente na maioria dos casos para entendermos o discurso.
+
+No entanto, é importante notar que, em contextos informais ou com amigos próximos, o uso de pronomes de primeira pessoa é mais aceitável. Nesses casos, é importante considerar o nível de intimidade e apropriar-se das formas de comunicação adequadas.
 
 [« Capítulo anterior](lição05.md)
 

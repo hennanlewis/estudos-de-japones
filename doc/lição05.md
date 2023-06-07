@@ -316,8 +316,8 @@ Sem muita enrolação, a lista a seguir mostra como inserir alguns caracteres es
 - ***bikkuri*** (びっくり)  – literalmente ser **`surpreendido`**. O nome não é tão intuitivo assim, mas são exclamações diferentes das que estamos habituados. Ex.: ❕, ⁉, ‼, ❢;
 - ***dasshu*** (だっしゅ) – literalmente **`traço`**/**`hífen`**. Como o nome sugere, aparecerá opções de traços e hifens, inclusive o traço ondulado. Ex.: ―, 〜;
 - ***hatena*** (はてな) – literalmente **`interrogação`**. Como o nome sugere, aparecerá opções de interrogações diferentes do que estamos habituados no português. Ex.: ❔, ⁇, ‽, ❓;
-- ***kakko*** (かっこ) – literalmente **`colchetes`**. Como o nome sugere, aparecerá opções de colchetes diferentes dos que estamos habituados no português. Ex.: 【】,『』, 「」1;
-- ***maru*** (まる) – literalmente **`círculo`**. Como o nome sugere, aparecerá opções de círculos que não existem no português. Ex.: ◎, ①, ㊤2;
+- ***kakko*** (かっこ) – literalmente **`colchetes`**. Como o nome sugere, aparecerá opções de colchetes diferentes dos que estamos habituados no português. Ex.: 【】,『』, 「」;
+- ***maru*** (まる) – literalmente **`círculo`**. Como o nome sugere, aparecerá opções de círculos que não existem no português. Ex.: ◎, ①, ㊤;
 - ***yajirushi*** (やじるし) – literalmente **`flechas`**/**`setas`**. Aparece como sugestão, vários tipos de setas. Ex.: ⇒, ⤵, →.
 
 > **Observações**:
