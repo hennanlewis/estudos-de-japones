@@ -17,6 +17,7 @@ Substantivo são palavras que denominam seres, objetos ou ideias e são uma das 
 	- [Flexão dos pronomes](#flexão-dos-pronomes)
 	- [**Pronomes femininos e masculinos**](#pronomes-femininos-e-masculinos)
 	- [**Pronomes pessoais de primeira pessoa**](#pronomes-pessoais-de-primeira-pessoa)
+	- [**Pronomes pessoais de segunda pessoa**](#pronomes-pessoais-de-segunda-pessoa)
 
 ## **Os substantivos**
 
@@ -279,6 +280,29 @@ Ao considerarmos todos esses pronomes, é importante ressaltar que, ao nos refer
 Na cultura japonesa, a linguagem tende a ser mais indireta, valorizando a modéstia e o respeito pela hierarquia social. Em situações formais, ao falar com pessoas mais velhas, superiores hierárquicos ou desconhecidos, é mais apropriado usar expressões alternativas, como o próprio nome ou mesmo deixar algumas frases sem sujeito. Só o contexto já é suficiente na maioria dos casos para entendermos o discurso.
 
 No entanto, é importante notar que, em contextos informais ou com amigos próximos, o uso de pronomes de primeira pessoa é mais aceitável. Nesses casos, é importante considerar o nível de intimidade e apropriar-se das formas de comunicação adequadas.
+
+## **Pronomes pessoais de segunda pessoa**
+Existem vários ***dainininshou*** (第二人称) – pronomes de segunda pessoa, chamados pronomes pessoais de segunda pessoa em português – que são equivalentes a dizer **tu**, entretanto, esses são os mais comumente vistos:
+
+- 貴方 (あなた): pode ser escrito 貴女 para se referir a uma mulher, e 貴男 para se referir a um homem, porém o ***kanji*** é raramente usado;
+- あんた: uma gíria variante de あなた e pode ser visto como rude por ser bastante casual/informal;
+- 君 (きみ): usado para se referir a pessoas mais jovens, a pessoas em um relacionamento próximo ou a subordinados. É informal, então pode ser visto como rude, dependendo do contexto;
+- お前 (おまえ): já foi tratado como forma honorífica de se referir a **tu**, porém, atualmente é usado para se referir a uma pessoa próxima, como amigos ou colegas, por ser uma forma rude ou agressiva, dependendo do contexto e do relacionamento entre as pessoas;
+- 手前 (てまえ) ou てめー: bem mais rude que お前. Utilizados quando o falante está muito nervoso;
+- 貴様 (きさま): é ainda mais hostil que 手前 (てまえ) ou てめー. Demonstra muita hostilidade e é ofensivo;
+- 己 (おのれ): quem é mais velho e tem mais familiaridade com *Super Sentai* e/ou *Tokusatsu*, já deve ter ouvido este. É uma forma mais datada de se referir a **tu**, então é normalmente usada por homens. É muito rude. Também pode significar **eu** em alguns casos.
+O uso dos ***dainininshou*** também pode variar dependendo do contexto e do relacionamento interpessoal. No idioma japonês, não é comum e soa pouco natural se referir às pessoas constantemente pelos pronomes mencionados anteriormente.
+
+Enquanto o uso excessivo dos daiichininshou pode transmitir uma sensação de egocentrismo ou até mesmo o desejo de ser o centro das atenções, o uso excessivo dos ***dainininshou*** pode passar a impressão de que sempre estamos “apontando o dedo” para a pessoa com quem falamos, e, em alguns contextos, podemos passar a ideia de atribuir culpa.
+
+Embora seja cômico e exagerado, frases como “se não puder dizer a verdade, seja vago”, “se não puder ser gentil, seja vago” e “se não puder falar, seja vago” resumem a abordagem comunicativa adotada na língua japonesa quando olhamos do ponto de vista do nosso idioma, o português. Essas expressões enfatizam a importância de evitar confrontos diretos e de buscar maneiras mais suaves e indiretas de se expressar, a fim de preservar a harmonia nas interações sociais.
+
+Mas então, qual forma utilizar? Existem formas que mais naturais, são elas:
+1. Chamar alguém pelo título ou nome ou sobrenome com o **sufixo honorífico** apropriado;
+2. Não usar nada;
+3. Usar あなた, a forma mais neutra entre os ***dainininshou***.
+
+Soa um pouco estranho quando pensamos na seguinte situação no contexto do português. Imagine conversar com um amigo e, em vez de usar o pronome “tu” para nos referirmos a alguém que está na nossa frente, perguntar algo como “João está ocupado?” para João ou “Maria já almoçou?” para Maria. Isso parece como se estivéssemos falando sobre alguém que nem mesmo está presente no ambiente. No entanto, para os falantes japoneses, essa forma de comunicação é considerada a mais natural possível. 
 
 [« Capítulo anterior](lição05.md)
 
