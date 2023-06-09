@@ -18,6 +18,7 @@ Substantivo são palavras que denominam seres, objetos ou ideias e são uma das 
 	- [**Pronomes femininos e masculinos**](#pronomes-femininos-e-masculinos)
 	- [**Pronomes pessoais de primeira pessoa**](#pronomes-pessoais-de-primeira-pessoa)
 	- [**Pronomes pessoais de segunda pessoa**](#pronomes-pessoais-de-segunda-pessoa)
+	- [**Pronomes pessoais de terceira pessoa**](#pronomes-pessoais-de-terceira-pessoa)
 
 ## **Os substantivos**
 
@@ -299,10 +300,24 @@ Embora seja cômico e exagerado, frases como “se não puder dizer a verdade, s
 
 Mas então, qual forma utilizar? Existem formas que mais naturais, são elas:
 1. Chamar alguém pelo título ou nome ou sobrenome com o **sufixo honorífico** apropriado;
-2. Não usar nada;
-3. Usar あなた, a forma mais neutra entre os ***dainininshou***.
+1. Não usar nada;
+1. Usar あなた, a forma mais neutra entre os ***dainininshou***.
 
 Soa um pouco estranho quando pensamos na seguinte situação no contexto do português. Imagine conversar com um amigo e, em vez de usar o pronome “tu” para nos referirmos a alguém que está na nossa frente, perguntar algo como “João está ocupado?” para João ou “Maria já almoçou?” para Maria. Isso parece como se estivéssemos falando sobre alguém que nem mesmo está presente no ambiente. No entanto, para os falantes japoneses, essa forma de comunicação é considerada a mais natural possível. 
+
+## **Pronomes pessoais de terceira pessoa**
+Existem inúmeros ***daiichininshou*** e ***dainininshou***, contudo, os ***daisan’ninshou*** (第三人称) – pronomes de terceira pessoa, chamados pronomes pessoais de terceira pessoa em português –, que são equivalentes a dizer “ele” ou “ela”, são mais limitados. Alguns deles são:
+
+1. 彼 (かれ): utilizado para se referir a um homem. Pode significar “ele” ou “namorado” dependendo do contexto;
+1. 彼女 (かのじょ): utilizado para se referir a uma mulher. Pode significar “ela” ou “namorada” dependendo do contexto.
+1. 此奴 (こいつ): significa **este sujeito**, uma terceira pessoa que está mais perto do locutor, ou seja, perto de quem fala;
+1. 其奴 (そいつ): significa **esse sujeito**, uma terceira pessoa que está mais perto do interlocutor, ou seja, perto de quem ouve;
+1. 彼奴 (あいつ): significa **aquele sujeito**, uma terceira pessoa que não está perto nem do locutor nem do interlocutor, ou seja, uma terceira pessoa que esteja longe dos dois.
+
+Os três últimos são formas rudes de nos referirmos a uma terceira pessoa. Assim como nos pronomes pessoais anteriores, existem formas mais naturais e não rude:
+1. Chamar alguém pelo título ou nome ou sobrenome com o **sufixo honorífico** apropriado, exatamente igual aos ***dainininshou***, mas este não gera o estranhamento, porque se não é quem fala nem quem ouve, obviamente é outra pessoa, igual no português;
+1. あの人 (あのひと): Significa literalmente “aquela pessoa” e pode ser usado para se referir a alguém de forma geral, quando você não sabe o nome da pessoa ou quer ser mais genérico;
+1. em situações mais formais, あの女の人 (あのおんなのひと)  para nos referirmos a mulheres e あの男の人 (あのおとこのひと)  para nos referirmos a homens.
 
 [« Capítulo anterior](lição05.md)
 
