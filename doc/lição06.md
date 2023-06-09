@@ -19,6 +19,7 @@ Substantivo são palavras que denominam seres, objetos ou ideias e são uma das 
 	- [**Pronomes pessoais de primeira pessoa**](#pronomes-pessoais-de-primeira-pessoa)
 	- [**Pronomes pessoais de segunda pessoa**](#pronomes-pessoais-de-segunda-pessoa)
 	- [**Pronomes pessoais de terceira pessoa**](#pronomes-pessoais-de-terceira-pessoa)
+	- [**Sufixo honorífico e sufixo de título**](#sufixo-honorífico-e-sufixo-de-título)
 
 ## **Os substantivos**
 
@@ -205,15 +206,20 @@ Nesse caso, como os substantivos para animais significa tanto masculino como fem
 || あれ | aquilo
 自分 |じぶん | si próprio
        
-Os pronomes no japonês, 代名詞 (だいめいし), são semelhantes a substantivos em alguns pontos e esta semelhança não é à toa. Antigamente, usávamos os substantivos para nos referir à posição de hierarquia e/ou a função de alguém perante a sociedade, porém, com o passar do tempo, tornaram-se formas padrões de nos referirmos a outrem.
+Os pronomes no japonês, 代名詞 (だいめいし), são semelhantes a substantivos em alguns pontos e esta semelhança não é à toa.
+Antigamente, usávamos os substantivos para nos referir à posição de hierarquia e/ou a função de alguém perante a sociedade, porém, com o passar do tempo, tornaram-se formas padrões de nos referirmos a outrem.
 
 As denominações a seguir são os tipos de pronomes em japonês:
-- **Pronomes pessoais**: em japonês 人称代名詞 (にんしょうだいめいし), são palavras que se referem a pessoas ou coisas por parte falante ou receptor. Ex.: 私, 君, 彼, 彼女;
-- **Pronomes demonstrativos**: em japonês 指示代名詞 (しじだいめいし), são palavras que se referem a coisas no campo de visão, contexto, ou memória. Ex.: これ, それ, あれ;
-- **Pronomes reflexivos**: em japonês 再帰代名詞 (さいきだいめいし), normalmente são palavras que se referem ao mesmo pronome utilizado anteriormente. Ex.: 自分 para 私.
+- **Pronomes pessoais**: em japonês 人称代名詞 (にんしょうだいめいし), são palavras que se referem a pessoas ou coisas por parte falante ou receptor.
+Ex.: 私, 君, 彼, 彼女;
+- **Pronomes demonstrativos**: em japonês 指示代名詞 (しじだいめいし), são palavras que se referem a coisas no campo de visão, contexto, ou memória.
+Ex.: これ, それ, あれ;
+- **Pronomes reflexivos**: em japonês 再帰代名詞 (さいきだいめいし), normalmente são palavras que se referem ao mesmo pronome utilizado anteriormente.
+Ex.: 自分 para 私.
 
 ## Flexão dos pronomes
-A flexão dos pronomes é quase inexistente. Conseguimos fazer com que eles se refiram a mais de um indivíduo assim como os substantivos acoplando o sufixo ~達, mas não é exatamente um plural, apenas uma forma de integrar mais alguém a quem se o pronome utilizado se refere:
+A flexão dos pronomes é quase inexistente.
+Conseguimos fazer com que eles se refiram a mais de um indivíduo assim como os substantivos acoplando o sufixo ~達, mas não é exatamente um plural, apenas uma forma de integrar mais alguém a quem se o pronome utilizado se refere:
 
 ```
 ~JP: 私 ➡ 私達
@@ -238,78 +244,121 @@ A flexão dos pronomes é quase inexistente. Conseguimos fazer com que eles se r
 ## **Pronomes femininos e masculinos**
 Ao estudar japonês nos deparamos com materiais que dizem que pronome X é usado por mulheres e pronome Y é usado por homens, o que inclusive, já foi justificativa de pessoas para determinar o gênero de personagens misteriosos ou de gênero de personagens que deixavam dúvida aos fãs em animes/mangás.
 
-O pronome 私 é utilizado tanto por homens quanto mulheres, então ele tem um caráter mais neutro em relação ao gênero, mesmo que normalmente ele seja um pouco mais formal e educado. O pronome 僕 é utilizado por homens. O pronome わたくし, é utilizado por mulheres. Mas será que realmente devemos entender que essas afirmações são 100% verdade?
+O pronome 私 é utilizado tanto por homens quanto mulheres, então ele tem um caráter mais neutro em relação ao gênero, mesmo que normalmente ele seja um pouco mais formal e educado.
+O pronome 僕 é utilizado por homens.
+O pronome わたくし, é utilizado por mulheres.
+Mas será que realmente devemos entender que essas afirmações são 100% verdade?
 
-Alguns dos próximos pontos levantados são baseados em minhas percepções e uma tentativa de homogeneização a partir de como os personagens das mídias que já consumi utilizam os pronomes, então não existe exatamente uma fonte que eu possa indicar para quem tenha interesse em saber mais sobre o assunto. É basicamente uma interpretação pessoal.
+Alguns dos próximos pontos levantados são baseados em minhas percepções e uma tentativa de homogeneização a partir de como os personagens das mídias que já consumi utilizam os pronomes, então não existe exatamente uma fonte que eu possa indicar para quem tenha interesse em saber mais sobre o assunto.
+É basicamente uma interpretação pessoal.
 
-É fácil encontrar material que indique a utilização de pronomes pessoais apenas por um gênero específico, mas quanto mais consumimos material japonês, percebemos que isso gera algumas “inconsistências”, porque é possível encontrar personagens masculinos que utilizam o pronome わたくし e mulheres que utilizam o pronome 僕. O gênero desses personagens é diferente do que aparentam? Por que isso acontece?
+É fácil encontrar material que indique a utilização de pronomes pessoais apenas por um gênero específico, mas quanto mais consumimos material japonês, percebemos que isso gera algumas “inconsistências”, porque é possível encontrar personagens masculinos que utilizam o pronome わたくし e mulheres que utilizam o pronome 僕.
+O gênero desses personagens é diferente do que aparentam? Por que isso acontece?
 
-Particularmente, eu acredito que a divisão dos pronomes não se dá tão unilateralmente através do gênero, e sim por questões como fofura, polidez, formalidade, educação, personalidade e até arrogância. Calma, vou explicar meu ponto. No Japão, a figura feminina é bastante associada a coisas fofas e à educação – educação no sentido de polidez, como oposto a grosseria –, já a figura masculina é associada a ser um pouco incisivo e/ou forte.
+Particularmente, eu acredito que a divisão dos pronomes não se dá tão unilateralmente através do gênero, e sim por questões como fofura, polidez, formalidade, educação, personalidade e até arrogância.
+Calma, vou explicar meu ponto.
+No Japão, a figura feminina é bastante associada a coisas fofas e à educação – educação no sentido de polidez, como oposto a grosseria –, já a figura masculina é associada a ser um pouco incisivo e/ou forte.
 
-Personagens masculinos que utilizam o pronome わたくし normalmente são de animes que retratam as épocas mais ou menos das eras de guerra no Japão da monarquia japonesa, e vemos também que os mesmos personagens são corteses e respeitosos em demasia, assim como o rei *Koming* em *Paripi Koumei*. Personagens femininas que utilizam o pronome 僕 possuem a personalidade forte e decidida, assim como a *02* em *Darling in The Franxx* e a *Yamato* em *One Piece*, então não parece que utilizar um pronome específico realmente é uma confirmação irrefutável de gênero de personagens como iniciantes de japonês tendem a pensar.
+Personagens masculinos que utilizam o pronome わたくし normalmente são de animes que retratam as épocas mais ou menos das eras de guerra no Japão da monarquia japonesa, e vemos também que os mesmos personagens são corteses e respeitosos em demasia, assim como o rei *Koming* em *Paripi Koumei*.
+Personagens femininas que utilizam o pronome 僕 possuem a personalidade forte e decidida, assim como a *02* em *Darling in The Franxx* e a *Yamato* em *One Piece*, então não parece que utilizar um pronome específico realmente é uma confirmação irrefutável de gênero de personagens como iniciantes de japonês tendem a pensar.
 
-Levar em consideração que os pronomes são utilizados apenas em demonstração de gênero leva a inconsistências como personagens masculinos utilizam pronomes femininos e vice-versa. Entretanto, considerar que os pronomes estão em níveis de uma escala que vão de **educação**/**respeito** a **incisão**/**rude** torna as coisas mais consistentes no sentido de um personagem utilizar um pronome que o assenta. Segue alguns exemplos:
+Levar em consideração que os pronomes são utilizados apenas em demonstração de gênero leva a inconsistências como personagens masculinos utilizam pronomes femininos e vice-versa.
+Entretanto, considerar que os pronomes estão em níveis de uma escala que vão de **educação**/**respeito** a **incisão**/**rude** torna as coisas mais consistentes no sentido de um personagem utilizar um pronome que o assenta.
+Segue alguns exemplos:
 
 - わたくし é um dos pronomes mais educados e respeitosos, então ficaria na ponta **educada**/**respeitosa** da escala;
 - 私 é um pronome neutro para gêneros, então ficaria em uma posição intermediária da escala;
 - 俺 (おれ) é um pronome bastante rude então ficaria na ponta **incisiva**/**rude**, ou seja, na ponta oposta a わたくし;
 - 僕 é um pronome relativamente incisivo, e estaria numa posição entre neutra e **incisiva**/**rude**.
 
-Contudo, um dos poucos pronomes que aparentemente são utilizados apenas por um gênero são あたし, あたくし, あたい, devido a serem basicamente derivação de gírias femininas e おら, por ser a derivação de gíria masculina. Ainda que sejam pontos que fazem sentido até um certo ponto, não levem tudo isso como verdades absolutas, porque independentemente de ser uma tentativa de homogeneização para explicar algumas consistências, não é possível afirmar isso com fontes de pesquisa acadêmica ou científica. Por conseguinte, nos próximos subtópicos veremos algumas listas de pronomes como normalmente são abordados, direcionados a uso masculino, feminino ou para ambos.
+Contudo, um dos poucos pronomes que aparentemente são utilizados apenas por um gênero são あたし, あたくし, あたい, devido a serem basicamente derivação de gírias femininas e おら, por ser a derivação de gíria masculina.
+Ainda que sejam pontos que fazem sentido até um certo ponto, não levem tudo isso como verdades absolutas, porque independentemente de ser uma tentativa de homogeneização para explicar algumas consistências, não é possível afirmar isso com fontes de pesquisa acadêmica ou científica.
+Por conseguinte, nos próximos subtópicos veremos algumas listas de pronomes como normalmente são abordados, direcionados a uso masculino, feminino ou para ambos.
 
 ## **Pronomes pessoais de primeira pessoa**
 Existem vários ***daiichininshou*** (第一人称) – pronomes de primeira pessoa, chamados pronomes pessoais de primeira pessoa em português – que são equivalentes a dizer “eu”, entretanto, esses são os mais comumente vistos:
 
-- 私 (わたし): pronome usado tanto por homens quanto mulheres. É formal e educado;
-- 私 (わたくし): pronome também usado por ambos. É muito formal e educado;
-- あたし: utilizado por mulheres mais jovens e uma derivação feminina de 私 (わたし). É considerado gracioso;
-- あたくし: utilizado por mulheres. Tem um tom mais formal e polido por ser uma gíria derivada de 私 (わたくし), mas ainda assim é evitado em situações formais;
+- 私 (わたし): pronome usado tanto por homens quanto mulheres.
+É formal e educado;
+- 私 (わたくし): pronome também usado por ambos.
+É muito formal e educado;
+- あたし: utilizado por mulheres mais jovens e uma derivação feminina de 私 (わたし).
+É considerado gracioso;
+- あたくし: utilizado por mulheres.
+Tem um tom mais formal e polido por ser uma gíria derivada de 私 (わたくし), mas ainda assim é evitado em situações formais;
 - あたい: é uma gíria feminina derivada de あたし (sim, uma gíria derivada de uma já derivação);
-- 僕 (ぼく): usado por homens, casualmente soa mais humilde, pois 僕 pode significar também “servo”. Não é muito assertivo, é casual e muitas vezes é visto como sendo bonito pelas mulheres;
-- 俺 (おれ): frequentemente utilizado por homens, é bastante direto e, dependendo do contexto, pode parecer rude. . Entre as pessoas que você conhece, mostra familiaridade;
-- 俺様 (おれさま): utilizado por homens e provavelmente seja utilizado apenas em animes e mangás. É uma forma rude e arrogante de referir-se a si mesmo, passa um ar de alto senso de superioridade e ego inflado. Personagens como o presunçoso *Benjamin Hui Guo Rou*, Primeiro Príncipe de *Kakin* em *HuntetxHunter*  e *Vejita* em *Dragon Ball* o utilizam;
-- おら:  gíria para 俺 e mais comumente associado a personagens de mangá, animes ou ficção que têm uma personalidade incisiva/despreucupada. Pode ser considerada um pouco rudo ou inadequada. Alguns personagens conhecidos que usam incluem *Eren Yeager* de *Shingeki no Kyojin*, *Naruto Uzumaki* de *Naruto* e *Son Goku* de *Dragon Ball*;
-- 我が (わが): apesar de ser tratada como pronome dependendo do contexto, é usada para expressar posse ou pertencimento e é excessivamente formal. A encontramos em expressões como 我が国 (わがくに) – nosso país–, ou 我が家 (わがいえ) – minha casa. Por seu tom de muita formalidade, personagens que o utilizam são *chuunibyou* (中二病), como a *Megumin* de *Konosuba* e a *Fishel* do jogo *Genshin Impact*.
+- 僕 (ぼく): usado por homens, casualmente soa mais humilde, pois 僕 pode significar também “servo”.
+Não é muito assertivo, é casual e muitas vezes é visto como sendo bonito pelas mulheres;
+- 俺 (おれ): frequentemente utilizado por homens, é bastante direto e, dependendo do contexto, pode parecer rude.
+Entre as pessoas que você conhece, mostra familiaridade;
+- 俺様 (おれさま): utilizado por homens e provavelmente seja utilizado apenas em animes e mangás.
+É uma forma rude e arrogante de referir-se a si mesmo, passa um ar de alto senso de superioridade e ego inflado.
+Personagens como o presunçoso *Benjamin Hui Guo Rou*, Primeiro Príncipe de *Kakin* em *HuntetxHunter*  e *Vejita* em *Dragon Ball* o utilizam;
+- おら:  gíria para 俺 e mais comumente associado a personagens de mangá, animes ou ficção que têm uma personalidade incisiva/despreucupada.
+Pode ser considerada um pouco rudo ou inadequada.
+Alguns personagens conhecidos que usam incluem *Eren Yeager* de *Shingeki no Kyojin*, *Naruto Uzumaki* de *Naruto* e *Son Goku* de *Dragon Ball*;
+- 我が (わが): apesar de ser tratada como pronome dependendo do contexto, é usada para expressar posse ou pertencimento e é excessivamente formal.
+A encontramos em expressões como 我が国 (わがくに) – nosso país–, ou 我が家 (わがいえ) – minha casa.
+Por seu tom de muita formalidade, personagens que o utilizam são *chuunibyou* (中二病), como a *Megumin* de *Konosuba* e a *Fishel* do jogo *Genshin Impact*.
 
 >**Observações**:
 >
->1. *Chuunibyou*, às vezes escrito como chuuninbyou em romanização, é uma palavra japonesa que se refere a um fenômeno comportamental comum entre adolescentes. É comumente traduzido como “síndrome do oitavo ano” ou “síndrome da adolescência”. O termo é usado para descrever jovens que exibem comportamentos extravagantes, imaginativos e muitas vezes fantasiosos.
+>1. *Chuunibyou*, às vezes escrito como chuuninbyou em romanização, é uma palavra japonesa que se refere a um fenômeno comportamental comum entre adolescentes.É comumente traduzido como “síndrome do oitavo ano” ou “síndrome da adolescência”.
+O termo é usado para descrever jovens que exibem comportamentos extravagantes, imaginativos e muitas vezes fantasiosos.
 >2. *Konosuba* é abreviação para *Kono Subarashii Sekai ni Shukufuku wo!*, (この素晴らしい世界に祝福を! ) 
 
-Ao considerarmos todos esses pronomes, é importante ressaltar que, ao nos referirmos a nós mesmos em japonês, não devemos utilizá-los da mesma forma que fazemos em português. Isso se deve ao fato de que seu uso frequente pode transmitir uma sensação de falta de humildade ou de egocentrismo, algo como “EU que gosto de comer”, “EU que limpei a casa”, “EU que sou legal”, como se **EU** fosse o destaque de tudo que eu falo ou faço.
+Ao considerarmos todos esses pronomes, é importante ressaltar que, ao nos referirmos a nós mesmos em japonês, não devemos utilizá-los da mesma forma que fazemos em português.
+Isso se deve ao fato de que seu uso frequente pode transmitir uma sensação de falta de humildade ou de egocentrismo, algo como “EU que gosto de comer”, “EU que limpei a casa”, “EU que sou legal”, como se **EU** fosse o destaque de tudo que eu falo ou faço.
 
-Na cultura japonesa, a linguagem tende a ser mais indireta, valorizando a modéstia e o respeito pela hierarquia social. Em situações formais, ao falar com pessoas mais velhas, superiores hierárquicos ou desconhecidos, é mais apropriado usar expressões alternativas, como o próprio nome ou mesmo deixar algumas frases sem sujeito. Só o contexto já é suficiente na maioria dos casos para entendermos o discurso.
+Na cultura japonesa, a linguagem tende a ser mais indireta, valorizando a modéstia e o respeito pela hierarquia social.
+Em situações formais, ao falar com pessoas mais velhas, superiores hierárquicos ou desconhecidos, é mais apropriado usar expressões alternativas, como o próprio nome ou mesmo deixar algumas frases sem sujeito.
+Só o contexto já é suficiente na maioria dos casos para entendermos o discurso.
 
-No entanto, é importante notar que, em contextos informais ou com amigos próximos, o uso de pronomes de primeira pessoa é mais aceitável. Nesses casos, é importante considerar o nível de intimidade e apropriar-se das formas de comunicação adequadas.
+No entanto, é importante notar que, em contextos informais ou com amigos próximos, o uso de pronomes de primeira pessoa é mais aceitável.
+Nesses casos, é importante considerar o nível de intimidade e apropriar-se das formas de comunicação adequadas.
 
 ## **Pronomes pessoais de segunda pessoa**
 Existem vários ***dainininshou*** (第二人称) – pronomes de segunda pessoa, chamados pronomes pessoais de segunda pessoa em português – que são equivalentes a dizer **tu**, entretanto, esses são os mais comumente vistos:
 
 - 貴方 (あなた): pode ser escrito 貴女 para se referir a uma mulher, e 貴男 para se referir a um homem, porém o ***kanji*** é raramente usado;
 - あんた: uma gíria variante de あなた e pode ser visto como rude por ser bastante casual/informal;
-- 君 (きみ): usado para se referir a pessoas mais jovens, a pessoas em um relacionamento próximo ou a subordinados. É informal, então pode ser visto como rude, dependendo do contexto;
+- 君 (きみ): usado para se referir a pessoas mais jovens, a pessoas em um relacionamento próximo ou a subordinados.
+É informal, então pode ser visto como rude, dependendo do contexto;
 - お前 (おまえ): já foi tratado como forma honorífica de se referir a **tu**, porém, atualmente é usado para se referir a uma pessoa próxima, como amigos ou colegas, por ser uma forma rude ou agressiva, dependendo do contexto e do relacionamento entre as pessoas;
-- 手前 (てまえ) ou てめー: bem mais rude que お前. Utilizados quando o falante está muito nervoso;
-- 貴様 (きさま): é ainda mais hostil que 手前 (てまえ) ou てめー. Demonstra muita hostilidade e é ofensivo;
-- 己 (おのれ): quem é mais velho e tem mais familiaridade com *Super Sentai* e/ou *Tokusatsu*, já deve ter ouvido este. É uma forma mais datada de se referir a **tu**, então é normalmente usada por homens. É muito rude. Também pode significar **eu** em alguns casos.
-O uso dos ***dainininshou*** também pode variar dependendo do contexto e do relacionamento interpessoal. No idioma japonês, não é comum e soa pouco natural se referir às pessoas constantemente pelos pronomes mencionados anteriormente.
+- 手前 (てまえ) ou てめー: bem mais rude que お前.
+Utilizados quando o falante está muito nervoso;
+- 貴様 (きさま): é ainda mais hostil que 手前 (てまえ) ou てめー.
+Demonstra muita hostilidade e é ofensivo;
+- 己 (おのれ): quem é mais velho e tem mais familiaridade com *Super Sentai* e/ou *Tokusatsu*, já deve ter ouvido este.
+É uma forma mais datada de se referir a **tu**, então é normalmente usada por homens.
+É muito rude.
+Também pode significar **eu** em alguns casos.
+O uso dos ***dainininshou*** também pode variar dependendo do contexto e do relacionamento interpessoal.
+No idioma japonês, não é comum e soa pouco natural se referir às pessoas constantemente pelos pronomes mencionados anteriormente.
 
 Enquanto o uso excessivo dos daiichininshou pode transmitir uma sensação de egocentrismo ou até mesmo o desejo de ser o centro das atenções, o uso excessivo dos ***dainininshou*** pode passar a impressão de que sempre estamos “apontando o dedo” para a pessoa com quem falamos, e, em alguns contextos, podemos passar a ideia de atribuir culpa.
 
-Embora seja cômico e exagerado, frases como “se não puder dizer a verdade, seja vago”, “se não puder ser gentil, seja vago” e “se não puder falar, seja vago” resumem a abordagem comunicativa adotada na língua japonesa quando olhamos do ponto de vista do nosso idioma, o português. Essas expressões enfatizam a importância de evitar confrontos diretos e de buscar maneiras mais suaves e indiretas de se expressar, a fim de preservar a harmonia nas interações sociais.
+Embora seja cômico e exagerado, frases como “se não puder dizer a verdade, seja vago”, “se não puder ser gentil, seja vago” e “se não puder falar, seja vago” resumem a abordagem comunicativa adotada na língua japonesa quando olhamos do ponto de vista do nosso idioma, o português.
+Essas expressões enfatizam a importância de evitar confrontos diretos e de buscar maneiras mais suaves e indiretas de se expressar, a fim de preservar a harmonia nas interações sociais.
 
 Mas então, qual forma utilizar? Existem formas que mais naturais, são elas:
 1. Chamar alguém pelo título ou nome ou sobrenome com o **sufixo honorífico** apropriado;
 1. Não usar nada;
 1. Usar あなた, a forma mais neutra entre os ***dainininshou***.
 
-Soa um pouco estranho quando pensamos na seguinte situação no contexto do português. Imagine conversar com um amigo e, em vez de usar o pronome “tu” para nos referirmos a alguém que está na nossa frente, perguntar algo como “João está ocupado?” para João ou “Maria já almoçou?” para Maria. Isso parece como se estivéssemos falando sobre alguém que nem mesmo está presente no ambiente. No entanto, para os falantes japoneses, essa forma de comunicação é considerada a mais natural possível. 
+Soa um pouco estranho quando pensamos na seguinte situação no contexto do português.
+Imagine conversar com um amigo e, em vez de usar o pronome “tu” para nos referirmos a alguém que está na nossa frente, perguntar algo como “João está ocupado?” para João ou “Maria já almoçou?” para Maria.
+Isso parece como se estivéssemos falando sobre alguém que nem mesmo está presente no ambiente.
+No entanto, para os falantes japoneses, essa forma de comunicação é considerada a mais natural possível.
 
 ## **Pronomes pessoais de terceira pessoa**
-Existem inúmeros ***daiichininshou*** e ***dainininshou***, contudo, os ***daisan’ninshou*** (第三人称) – pronomes de terceira pessoa, chamados pronomes pessoais de terceira pessoa em português –, que são equivalentes a dizer “ele” ou “ela”, são mais limitados. Alguns deles são:
+Existem inúmeros ***daiichininshou*** e ***dainininshou***, contudo, os ***daisan’ninshou*** (第三人称) – pronomes de terceira pessoa, chamados pronomes pessoais de terceira pessoa em português –, que são equivalentes a dizer “ele” ou “ela”, são mais limitados.
+Alguns deles são:
 
-1. 彼 (かれ): utilizado para se referir a um homem. Pode significar “ele” ou “namorado” dependendo do contexto;
-1. 彼女 (かのじょ): utilizado para se referir a uma mulher. Pode significar “ela” ou “namorada” dependendo do contexto.
+1. 彼 (かれ): utilizado para se referir a um homem.
+Pode significar “ele” ou “namorado” dependendo do contexto;
+1. 彼女 (かのじょ): utilizado para se referir a uma mulher.
+Pode significar “ela” ou “namorada” dependendo do contexto.
 1. 此奴 (こいつ): significa **este sujeito**, uma terceira pessoa que está mais perto do locutor, ou seja, perto de quem fala;
 1. 其奴 (そいつ): significa **esse sujeito**, uma terceira pessoa que está mais perto do interlocutor, ou seja, perto de quem ouve;
 1. 彼奴 (あいつ): significa **aquele sujeito**, uma terceira pessoa que não está perto nem do locutor nem do interlocutor, ou seja, uma terceira pessoa que esteja longe dos dois.
@@ -318,6 +367,33 @@ Os três últimos são formas rudes de nos referirmos a uma terceira pessoa. Ass
 1. Chamar alguém pelo título ou nome ou sobrenome com o **sufixo honorífico** apropriado, exatamente igual aos ***dainininshou***, mas este não gera o estranhamento, porque se não é quem fala nem quem ouve, obviamente é outra pessoa, igual no português;
 1. あの人 (あのひと): Significa literalmente “aquela pessoa” e pode ser usado para se referir a alguém de forma geral, quando você não sabe o nome da pessoa ou quer ser mais genérico;
 1. em situações mais formais, あの女の人 (あのおんなのひと)  para nos referirmos a mulheres e あの男の人 (あのおとこのひと)  para nos referirmos a homens.
+
+## **Sufixo honorífico e sufixo de título**
+Os sufixos honoríficos em japonês são parte integrante da linguagem e da etiqueta japonesa.
+São adicionados aos nomes ou pronomes para expressar respeito, cortesia, familiaridade ou indicação de status social.
+Esses sufixos refletem a importância que a cultura japonesa atribui às relações interpessoais e à hierarquia social.
+
+Alguns exemplos comuns de sufixos honoríficos em japonês são:
+- ~さん: É o sufixo honorífico mais comum e neutro. É usado para se referir a alguém com respeito em situações formais ou profissionais. Pode ser usado com pessoas de qualquer idade ou gênero.
+- ~様 (さま): É um sufixo honorífico mais formal e demonstra um alto nível de respeito. É usado para tratar pessoas de alta posição social, como autoridades, líderes religiosos ou pessoas mais velhas e respeitadas.
+- ~君 (くん): É usado principalmente para se referir a meninos ou homens jovens. É usado em contextos informais e pode indicar familiaridade ou camaradagem, mas também pode ser usado por superiores para tratar subordinados masculinos.
+- ~ちゃん: É frequentemente usado para se referir a crianças ou pessoas próximas emocionalmente. É um sufixo afetuoso e usado em um contexto mais íntimo, geralmente para meninas ou mulheres jovens.
+
+Além de podermos usar os sufixos honoríficos, também existem os sufixos de título.
+Funcionam exatamente da mesma forma.
+A diferença é que esses estão mais ligados a uma demonstração de respeito, hierarquia ou especialização em alguma área.
+Alguns deles são:
+- ~先輩 (せんぱい): usado para se referir a alguém mais velho ou com mais experiência em um campo específico.
+É comumente usado em ambientes escolares, profissionais ou em atividades em grupo, onde existe uma hierarquia de anos de serviço ou estudo;
+- ~後輩 (こうはい): é o oposto de "senpai" e é usado para se referir a alguém mais jovem ou com menos experiência em relação a si mesmo;
+- ~殿 (どの): altamente respeitoso e formal que era usado historicamente para se referir a nobres e pessoas de alta posição social.
+Hoje em dia, ainda é usado em algumas situações formais para expressar grande respeito e reverência;
+- ~上 (うえ): usado para expressar respeito e polidez.
+Quando adicionado a certos pronomes ou substantivos, ele indica uma forma mais formal e respeitosa de se referir à pessoa ou objeto;
+- ~博士 (はかせ): usado para tratar alguém que possui um doutorado ou título acadêmico equivalente.
+É comumente usado em contextos acadêmicos ou científicos para demonstrar respeito pelo conhecimento e conquistas da pessoa;
+- ~先生 (せんせい): usado para tratar professores, instrutores, médicos ou profissionais especializados em seus respectivos campos.
+É um sufixo que denota respeito e reverência pelos conhecimentos e habilidades.
 
 [« Capítulo anterior](lição05.md)
 
