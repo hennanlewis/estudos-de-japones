@@ -45,9 +45,16 @@ Olá, seja bem-vindo ao Guia de **Gramática Japonesa – Diário Nihongo**, o c
    - [Teclado em japonês no dispositivo Android](doc/lição05.md#teclado-em-japonês-no-dispositivo-android)
    - [Segredos de digitação](doc/lição05.md#segredos-de-digitação)
  - [**LIÇÃO 06: SUBSTANTIVOS E PRONOMES**](#lição-06-substantivos-e-pronomes)
-   - [Os substantivos](doc/lição06.md#os-substantivos)
+   - [Identificando substantivos](doc/lição06.md#identificando-substantivos)
    - [Flexão dos substantivos](doc/lição06.md#flexão-dos-substantivos)
-   - [Pronomes](doc/lição06.md#pronomes)
+   - [Identificando pronomes](doc/lição06.md#identificando-pronomes)
+   - [Flexão dos pronomes](doc/lição06.md#flexão-dos-pronomes)
+   - [Pronomes femininos e masculinos](doc/lição06.md#pronomes-femininos-e-masculinos)
+   - [Pronomes pessoais de primeira pessoa](doc/lição06.md#pronomes-pessoais-de-primeira-pessoa)
+   - [Pronomes pessoais de segunda pessoa](doc/lição06.md#pronomes-pessoais-de-segunda-pessoa)
+   - [Pronomes pessoais de terceira pessoa](doc/lição06.md#pronomes-pessoais-de-terceira-pessoa)
+   - [Sufixo honorífico e sufixo de título](doc/lição06.md#sufixo-honorífico-e-sufixo-de-título)
+   - [Se referindo a família](doc/lição06.md#se-referindo-a-família)
 
 # Lição 01: Hiragana
 

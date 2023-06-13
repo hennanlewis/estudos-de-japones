@@ -6,22 +6,23 @@
 Substantivo são palavras que denominam seres, objetos ou ideias e são uma das primeiras classes gramaticais a serem abordadas na parte de morfologia de gramática. Pronomes são palavras que algumas de suas funções são substituir ou acompanhar os substantivos, para evitar assim repetição desnecessária de termos. Nesta lição discutiremos pontos importantes a respeito dessas duas classes gramaticais.
 
 - [**Lição 06: Substantivos e pronomes**](#lição-06-substantivos-e-pronomes)
-	- [**Os substantivos**](#os-substantivos)
+	- [**Identificando substantivos**](#identificando-substantivos)
 		- [**Vocabulário**](#vocabulário)
 	- [**Flexão dos substantivos**](#flexão-dos-substantivos)
 		- [**Vocabulário**](#vocabulário-1)
 		- [**Flexão de número**](#flexão-de-número)
 		- [**Flexão de gênero**](#flexão-de-gênero)
-	- [**Pronomes**](#pronomes)
+	- [**Identificando pronomes**](#identificando-pronomes)
 		- [**Vocabulário**](#vocabulário-2)
-	- [Flexão dos pronomes](#flexão-dos-pronomes)
+	- [**Flexão dos pronomes**](#flexão-dos-pronomes)
 	- [**Pronomes femininos e masculinos**](#pronomes-femininos-e-masculinos)
 	- [**Pronomes pessoais de primeira pessoa**](#pronomes-pessoais-de-primeira-pessoa)
 	- [**Pronomes pessoais de segunda pessoa**](#pronomes-pessoais-de-segunda-pessoa)
 	- [**Pronomes pessoais de terceira pessoa**](#pronomes-pessoais-de-terceira-pessoa)
 	- [**Sufixo honorífico e sufixo de título**](#sufixo-honorífico-e-sufixo-de-título)
+	- [**Se referindo a família**](#se-referindo-a-família)
 
-## **Os substantivos**
+## **Identificando substantivos**
 
 ### **Vocabulário** 
 | Kanji | Leitura | Significado |
@@ -192,7 +193,7 @@ Nesse caso, como os substantivos para animais significa tanto masculino como fem
 ~PT: cadela/cachorro ➡ cachorro
 ```
 
-## **Pronomes**
+## **Identificando pronomes**
 ### **Vocabulário**
 
 | Kanji | Leitura | Significado |
@@ -217,7 +218,7 @@ Ex.: これ, それ, あれ;
 - **Pronomes reflexivos**: em japonês 再帰代名詞 (さいきだいめいし), normalmente são palavras que se referem ao mesmo pronome utilizado anteriormente.
 Ex.: 自分 para 私.
 
-## Flexão dos pronomes
+## **Flexão dos pronomes**
 A flexão dos pronomes é quase inexistente.
 Conseguimos fazer com que eles se refiram a mais de um indivíduo assim como os substantivos acoplando o sufixo ~達, mas não é exatamente um plural, apenas uma forma de integrar mais alguém a quem se o pronome utilizado se refere:
 
@@ -394,6 +395,47 @@ Quando adicionado a certos pronomes ou substantivos, ele indica uma forma mais f
 É comumente usado em contextos acadêmicos ou científicos para demonstrar respeito pelo conhecimento e conquistas da pessoa;
 - ~先生 (せんせい): usado para tratar professores, instrutores, médicos ou profissionais especializados em seus respectivos campos.
 É um sufixo que denota respeito e reverência pelos conhecimentos e habilidades.
+
+## **Se referindo a família**
+Este tópico abordará uma situação um pouco incomum para nós, que falamos português, em relação ao japonês.
+Ao nos referirmos aos familiares, é como se tivéssemos que usar seus “títulos” em vez dos seus nomes.
+Esses “títulos familiares” são diferentes dos títulos honoríficos, pois não são usados apenas para criar uma certa distância social e respeito, mas também para indicar proximidade e intimidade.
+
+Sabemos que os japoneses valorizam a modéstia e o respeito pela hierarquia social, então ao nos referirmos aos nossos próprios familiares e aos familiares de outras pessoas, é necessário demonstrar diferentes níveis de respeito.
+
+Portanto, ao falar com nosso próprio pai, podemos chamá-lo de お父さん (おとうさん), que é uma maneira informal de falar pai.
+Porém, ao falar de nosso pai para outras pessoas, devemos utilizar 父 (ちち) para demonstrar respeito.
+Para mãe, podemos chamá-la de お母さん (おかあさん), que também é uma forma informal.
+No entanto, ao falar de nossa mãe para outras pessoas, devemos utilizar 母 (はは) para demonstrar respeito.
+
+Essa mesma ideia se estende aos demais familiares, ou seja, devemos nos referir de maneira formal ao falar dos nossos próprios familiares para outras pessoas e de maneira informal ao falar com parentes das outras pessoas.
+A tabela a seguir mostra os modos formais e informais de nos referirmos a cada parente:
+
+| Português || Formal || Informal |
+:-|:-|:-|:-|:-
+Pai | | 父 (ちち)| | お父さん (おとうさん)
+Mãe ||  母 (はは) ||  お母さん (おかあさん)
+Irmã mais velha ||  姉 (あね) ||  お姉さん (おねえさん)
+Irmão mais velho ||  兄 (あに) ||  お兄さん (おにいさん)
+Irmã mais nova | | 妹 (いもうと) | | 妹さん (いもうとさん)
+Irmão mais novo | | 弟 (おとうと) | | 弟さん (おとうとさん)
+Esposa | | 妻 (つま) | | 奥さん (おくさん)
+Marido | | 夫 (おっと) | | 旦那さん (だんなさん)
+Tio | | 叔父さん (おじさん) | | おじさん (おじさん)
+Tia | | 叔母さん (おばさん) | | おばさん (おばさん)
+Avô | | 祖父 (そふ) | | おじいさん (おじいさん)
+Avó | | 祖母 (そぼ) | | おばあさん (おばあさん)
+Pais (pai e mãe) | | 親 (おや) | | 両親 (りょうしん)
+
+Tenha em mente que, mesmo que possamos nos referir de forma informal aos nossos parentes, geralmente escolhemos formas que demonstrem maior proximidade e carinho.
+Por exemplo: あなた é um pronome de segunda pessoa, mas também é uma forma carinhosa de se dirigir ao próprio marido; 君 é um pronome de segunda pessoa, mas também é uma forma carinhosa de se dirigir à própria esposa; おばあちゃん é uma forma carinhosa de se dirigir à própria avó; ねえちゃん é uma forma carinhosa de se dirigir à própria irmã.
+Portanto, não se restrinja apenas a essa tabela.
+
+Um exemplo que ilustra o uso dessa variedade é a personagem Anya de Spy Family.
+No início, ela se referia ao Loid, seu pai adotivo, como ちち, o que soava bastante estranho para alguém de fora da família, já que na história ela é sua filha biológica.
+No entanto, ao longo dos episódios, ela começa a chamá-lo de パパ, uma forma carinhosa que as crianças usam para se referir aos pais.
+
+Esses exemplos mostram como a escolha das palavras pode variar de acordo com o nível de proximidade e afeto existente na relação familiar.
 
 [« Capítulo anterior](lição05.md)
 
