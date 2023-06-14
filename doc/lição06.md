@@ -27,22 +27,22 @@ Substantivo são palavras que denominam seres, objetos ou ideias e são uma das 
 ### **Vocabulário** 
 | Kanji | Leitura | Significado |
 -:|:-:|:-
-山田 | やまだ | Yamada (nome)
-太郎 | たろう | Tarou (nome) 
-日本 | にほん | Japão        
-| | ブラジル  | Brasil       
-猫   | ね.こ  | gato          
-犬   | いぬ.  | cachorro      
-魚  | さかな  | peixe         
-川 | かわ.    | rio           
-空 | そ.ら    | céu
-海 | う.み    | mar
-人 | ひと    | pessoa
-女 | おんな. | mulher
-男 | おとこ. | homem
-|| こと      | coisa
+山田 | やまだ    | Yamada (nome)
+太郎 | たろう    | Tarou (nome) 
+日本 | にほん    | Japão        
+|    | ブラジル  | Brasil       
+猫   | ね.こ     | gato          
+犬   | いぬ.     | cachorro      
+魚   | さかな    | peixe         
+川   | かわ.     | rio           
+空   | そ.ら     | céu
+海   | う.み     | mar
+人   | ひと      | pessoa
+女   | おんな.   | mulher
+男   | おとこ.   | homem
+|    | こと      | coisa
 勉強 | べんきょう | estudo
-|| する      | fazer
+|    | する      | fazer
 
 Sobre a definição de substantivo, segundo o dicionário *Michaelis*: diz-se de palavra que, exclusivamente e sem auxílio de outra, designa a substância dos seres; diz-se de palavra que designa os seres em geral, ações, estados e noções.
 
@@ -50,44 +50,44 @@ Em línguas próximas ao português, como o espanhol e o italiano, é fácil ide
 No entanto, em japonês, nem sempre é possível fazer uma correspondência clara e conforme avançamos o texto, ficará mais visível essa falta de clareza.
 Por enquanto, podemos nos ater às seguintes divisões dos substantivos em japonês:
 
-- **Substantivos próprios**: em japonês é 固有名詞 (こゆうめいし), são palavras que indicam um certo nível de individualidade e especificidade, como nomes de pessoas, de organizações ou de lugares. **Ex**.: 山田, 太郎, NETFLIX, PlayStation, 日本, ブラジル;
-- **Substantivos comuns**: em japonês é 普通名詞 (ふつうめいし), são palavras que denominam coisas pertencentes ao mesmo tipo. **Ex**.: 猫, 犬, 魚, 川, 空, 海, 人, 女, 男;
-- **Substantivos formais**: em japonês é 形式名詞 (けいしきめいし), são substantivos que formam o sujeito de um predicado ou cria relação entre o substantivo e uma frase. É difícil exemplificar sem entrar em conteúdo mais específico, mas um exemplo é o que chamamos de **nominalização** em português;
+- **Substantivos próprios**: em japonês é 固有名詞 (こゆうめいし), são palavras que indicam um certo nível de individualidade e especificidade, como nomes de pessoas, de organizações ou de lugares. **`Ex`**.: 山田, 太郎, NETFLIX, PlayStation, 日本, ブラジル;
+- **Substantivos comuns**: em japonês é 普通名詞 (ふつうめいし), são palavras que denominam coisas pertencentes ao mesmo tipo. **`Ex`**.: 猫, 犬, 魚, 川, 空, 海, 人, 女, 男;
+- **Substantivos formais**: em japonês é 形式名詞 (けいしきめいし), são substantivos que formam o sujeito de um predicado ou cria relação entre o substantivo e uma frase. É difícil exemplificar sem entrar em conteúdo mais específico, mas um exemplo é o que chamamos de **`nominalização`** em português;
 
-**Nominalização** é o ato de dar características de substantivo a uma frase ou uma palavra de outra classe gramatical, assim como na frase “esqueceu de beber o suco”. Em “de beber o suco” possui função parecida com a de um substantivo e pode ser substituída por “algo”, ou seja, pode ser entendida como "esqueceu algo". Veja como fica em japonês:
+**`Nominalização`** é o ato de dar características de substantivo a uma frase ou uma palavra de outra classe gramatical, assim como na frase “esqueceu de beber o suco”. Em “de beber o suco” possui função parecida com a de um substantivo e pode ser substituída por “algo”, ou seja, pode ser entendida como "esqueceu algo". Veja como fica em japonês:
 
 ```properties
 ~PT: Esqueceu de beber o suco.
 ~JP: ジュースを飲むことを忘れた。
 ```
 
-A palavra **`こと`** é um substantivo formal e significa **coisa**, mas a frase anterior em japonês foi apenas para exemplificar, não devemos nos ater a cada palavra e sua respectiva função dentro da frase no momento. Além de こと, existem alguns substantivos formais mais  comuns, entre eles ため, から e とき. Cada um possui sua função.
+A palavra **`こと`** é um substantivo formal e significa **`coisa`**, mas a frase anterior em japonês foi apenas para exemplificar, não devemos nos ater a cada palavra e sua respectiva função dentro da frase no momento. Além de こと, existem alguns substantivos formais mais  comuns, entre eles ため, から e とき. Cada um possui sua função.
 - **Substantivos verbais**: em japonês 動詞性名詞 (どうしせいめいし), são substantivos com ideia de ação em si, que ao adicionar o verbo する, se transformam no verbo da ação.
-	**Ex**.: 勉強 significa estudo. 勉強する significa estudar.
+	**`Ex`**.: 勉強 significa estudo. 勉強する significa estudar.
 
 ## **Flexão dos substantivos**
 ### **Vocabulário**
 
 | Kanji | Leitura | Significado |
 -:|:-:|:-
-学生　| がくせ.い |estudante
-先生　| せんせい |professor
-~達　| たち |indicador de plural
-猫　| ね.こ |gato
-犬　| いぬ. |cachorro
-子供　| こども |criança
-女　| おんな. |mulher
-男　| おとこ. |homem
-人　| ひと |pessoa
-栄一郎　| えいいちろう |Eiichirou (nome)
-正美　| まさみ |Masami (nome)
-尾田　| おだ |Oda (sobrenome)
-車田　| くるまだ |Kurumada (sobrenome)
-家　| いえ. |família
-~等　| ら |indicador de plural (informal)
-花　| はな. |flor
-雄　| おす. |macho (para animais)
-雌　| めす. |fêmea (para animais)
+学生   | がくせ.い    | estudante
+先生   | せんせい     | professor
+~達    | たち         | indicador de plural
+猫     | ね.こ        | gato
+犬     | いぬ.        | cachorro
+子供   | こども       | criança
+女     | おんな.      | mulher
+男     | おとこ.      | homem
+人     | ひと         | pessoa
+栄一郎　| えいいちろう | Eiichirou (nome)
+正美　  | まさみ      | Masami (nome)
+尾田　  | おだ        | Oda (sobrenome)
+車田　  | くるまだ    | Kurumada (sobrenome)
+家　    | いえ.       | família
+~等　   | ら          | indicador de plural (informal)
+花 　   | はな.       | flor
+雄 　   | おす.       | macho (para animais)
+雌 　   | めす.       | fêmea (para animais)
 
 O português é uma língua que podemos modificar palavras para indicar variação de gênero, número ou grau.
 Em relação ao gênero, temos masculino e feminino.
@@ -108,32 +108,22 @@ Veremos isso no capítulo de adjetivos.
 ### **Flexão de número**
 De forma geral, o contexto dita a flexão de número da palavra, porém, existe uma forma para indicar explicitamente que a quantidade de algo é mais de um, tanto para animais quanto para pessoas, e essa forma é adicionar 達 como sufixo:
 
-```
+```properties
 ~JP: 猫 ➡ 猫達
 ~PT: gato ➡ gatos
-```
 
-```
 ~JP: 犬 ➡ 犬達
 ~PT: cachorro ➡ cachorros
-```
 
-```
 ~JP: 子供 ➡ 子供達
 ~PT: criança ➡ crianças
-```
 
-```
 ~JP: 女 ➡ 女達
 ~PT: mulher ➡ mulheres
-```
 
-```
 ~JP: 男 ➡ 男達
 ~PT: homem ➡ homens
-```
 
-```
 ~JP: 人 ➡ 人達
 ~PT: pessoa ➡ pessoas
 ```
@@ -141,24 +131,20 @@ De forma geral, o contexto dita a flexão de número da palavra, porém, existe 
 Esses são alguns exemplos, lembrando que ~達 representa mais de 2 sem limite definido.
 Podemos usar o ~達 em outro caso, juntamente em nome de pessoas e não necessariamente ele significa que existem 2 ou mais pessoas X, e sim aquela pessoa mais alguém que esteja com ela, por exemplo:
 
-```
+```properties
 ~JP: 栄一郎 ➡ 栄一郎達
 ~PT: Eiichirou ➡ Eiichiro e os demais
-```
 
-```
 ~JP: 正美 ➡ 正美達
 ~PT: Masami ➡ Masami e os demais
 ```
 
 Quando queremos indicar mais de um indivíduo de uma mesma família, utilizamos o ***kanji*** de família:
 
-```
+```properties
 ~JP: 尾田 ➡ 尾田家
 ~PT: Oda ➡ Os Oda / Membros da família Oda
-```
 
-```
 ~JP: 車田 ➡ 車田家
 ~PT: Kurumada ➡ Os Kurumada / Membros da família Kurumada
 ```
@@ -173,22 +159,16 @@ Mas alguns casos as palavras simplesmente englobam os dois, como em português q
 Mas existe um caso necessário para utilização de especificação de masculino e feminino, que é gênero de animais.
 Nesse caso, como os substantivos para animais significa tanto masculino como feminino, utilizamos 雄 para macho e 雌 para fêmea:
 
-```
+```properties
 ~JP: 猫 ➡ 猫雌
 ~PT: gata ou gato ➡ gata
-```
 
-```
 ~JP: 猫 ➡ 猫雄
 ~PT: gata ou gato ➡ gato
-```
 
-```
 ~JP: 犬 ➡ 犬雌
 ~PT: cadela/cachorro ➡ cadela
-```
 
-```
 ~JP: 犬 ➡ 犬雄
 ~PT: cadela/cachorro ➡ cachorro
 ```
@@ -198,14 +178,14 @@ Nesse caso, como os substantivos para animais significa tanto masculino como fem
 
 | Kanji | Leitura | Significado |
 -:|:-:|:-
-私 |わたし | eu
-君 |きみ | você
-彼 |か.れ | ele
+私   |わたし    | eu
+君   |きみ      | você
+彼   |か.れ     | ele
 彼女 |か.のじょ | ela
-|| これ | isto
-|| それ | isso
-|| あれ | aquilo
-自分 |じぶん | si próprio
+|    | これ    | isto
+|    | それ    | isso
+|    | あれ    | aquilo
+自分 |じぶん    | si próprio
        
 Os pronomes no japonês, 代名詞 (だいめいし), são semelhantes a substantivos em alguns pontos e esta semelhança não é à toa.
 Antigamente, usávamos os substantivos para nos referir à posição de hierarquia e/ou a função de alguém perante a sociedade, porém, com o passar do tempo, tornaram-se formas padrões de nos referirmos a outrem.
@@ -222,22 +202,16 @@ Ex.: 自分 para 私.
 A flexão dos pronomes é quase inexistente.
 Conseguimos fazer com que eles se refiram a mais de um indivíduo assim como os substantivos acoplando o sufixo ~達, mas não é exatamente um plural, apenas uma forma de integrar mais alguém a quem se o pronome utilizado se refere:
 
-```
+```properties
 ~JP: 私 ➡ 私達
 ~PT: eu ➡ eu e os demais, o que pode ser traduzido como nós
-```
 
-```
 ~JP: 君 ➡ 君達
 ~PT: você ➡ você e os demais, o que pode ser traduzido como vocês
-```
 
-```
 ~JP: 彼 ➡ 彼達
 ~PT: ele ➡ ele e os demais, o que pode ser traduzido como eles
-```
 
-```
 ~JP: 彼女 ➡ 彼女達
 ~PT: ela ➡ ela e os demais, o que pode ser traduzido como eles ou elas
 ```
@@ -264,20 +238,20 @@ Personagens masculinos que utilizam o pronome わたくし normalmente são de a
 Personagens femininas que utilizam o pronome 僕 possuem a personalidade forte e decidida, assim como a *02* em *Darling in The Franxx* e a *Yamato* em *One Piece*, então não parece que utilizar um pronome específico realmente é uma confirmação irrefutável de gênero de personagens como iniciantes de japonês tendem a pensar.
 
 Levar em consideração que os pronomes são utilizados apenas em demonstração de gênero leva a inconsistências como personagens masculinos utilizam pronomes femininos e vice-versa.
-Entretanto, considerar que os pronomes estão em níveis de uma escala que vão de **educação**/**respeito** a **incisão**/**rude** torna as coisas mais consistentes no sentido de um personagem utilizar um pronome que o assenta.
+Entretanto, considerar que os pronomes estão em níveis de uma escala que vão de **`educação`**/**`respeito`** a **`incisão`**/**`rude`** torna as coisas mais consistentes no sentido de um personagem utilizar um pronome que o assenta.
 Segue alguns exemplos:
 
-- わたくし é um dos pronomes mais educados e respeitosos, então ficaria na ponta **educada**/**respeitosa** da escala;
+- わたくし é um dos pronomes mais educados e respeitosos, então ficaria na ponta **`educada`**/**`respeitosa`** da escala;
 - 私 é um pronome neutro para gêneros, então ficaria em uma posição intermediária da escala;
-- 俺 (おれ) é um pronome bastante rude então ficaria na ponta **incisiva**/**rude**, ou seja, na ponta oposta a わたくし;
-- 僕 é um pronome relativamente incisivo, e estaria numa posição entre neutra e **incisiva**/**rude**.
+- 俺 (おれ) é um pronome bastante rude então ficaria na ponta **`incisiva`**/**`rude`**, ou seja, na ponta oposta a わたくし;
+- 僕 é um pronome relativamente incisivo, e estaria numa posição entre neutra e **`incisiva`**/**`rude`**.
 
 Contudo, um dos poucos pronomes que aparentemente são utilizados apenas por um gênero são あたし, あたくし, あたい, devido a serem basicamente derivação de gírias femininas e おら, por ser a derivação de gíria masculina.
 Ainda que sejam pontos que fazem sentido até um certo ponto, não levem tudo isso como verdades absolutas, porque independentemente de ser uma tentativa de homogeneização para explicar algumas consistências, não é possível afirmar isso com fontes de pesquisa acadêmica ou científica.
 Por conseguinte, nos próximos subtópicos veremos algumas listas de pronomes como normalmente são abordados, direcionados a uso masculino, feminino ou para ambos.
 
 ## **Pronomes pessoais de primeira pessoa**
-Existem vários ***daiichininshou*** (第一人称) – pronomes de primeira pessoa, chamados pronomes pessoais de primeira pessoa em português – que são equivalentes a dizer “eu”, entretanto, esses são os mais comumente vistos:
+Existem vários ***`daiichininshou`*** (第一人称) – pronomes de primeira pessoa, chamados pronomes pessoais de primeira pessoa em português – que são equivalentes a dizer “eu”, entretanto, esses são os mais comumente vistos:
 
 - 私 (わたし): pronome usado tanto por homens quanto mulheres.
 É formal e educado;
@@ -309,7 +283,7 @@ O termo é usado para descrever jovens que exibem comportamentos extravagantes, 
 >2. *Konosuba* é abreviação para *Kono Subarashii Sekai ni Shukufuku wo!*, (この素晴らしい世界に祝福を! ) 
 
 Ao considerarmos todos esses pronomes, é importante ressaltar que, ao nos referirmos a nós mesmos em japonês, não devemos utilizá-los da mesma forma que fazemos em português.
-Isso se deve ao fato de que seu uso frequente pode transmitir uma sensação de falta de humildade ou de egocentrismo, algo como “EU que gosto de comer”, “EU que limpei a casa”, “EU que sou legal”, como se **EU** fosse o destaque de tudo que eu falo ou faço.
+Isso se deve ao fato de que seu uso frequente pode transmitir uma sensação de falta de humildade ou de egocentrismo, algo como “EU que gosto de comer”, “EU que limpei a casa”, “EU que sou legal”, como se **`EU`** fosse o destaque de tudo que eu falo ou faço.
 
 Na cultura japonesa, a linguagem tende a ser mais indireta, valorizando a modéstia e o respeito pela hierarquia social.
 Em situações formais, ao falar com pessoas mais velhas, superiores hierárquicos ou desconhecidos, é mais apropriado usar expressões alternativas, como o próprio nome ou mesmo deixar algumas frases sem sujeito.
@@ -319,33 +293,33 @@ No entanto, é importante notar que, em contextos informais ou com amigos próxi
 Nesses casos, é importante considerar o nível de intimidade e apropriar-se das formas de comunicação adequadas.
 
 ## **Pronomes pessoais de segunda pessoa**
-Existem vários ***dainininshou*** (第二人称) – pronomes de segunda pessoa, chamados pronomes pessoais de segunda pessoa em português – que são equivalentes a dizer **tu**, entretanto, esses são os mais comumente vistos:
+Existem vários ***`dainininshou`*** (第二人称) – pronomes de segunda pessoa, chamados pronomes pessoais de segunda pessoa em português – que são equivalentes a dizer **`tu`**, entretanto, esses são os mais comumente vistos:
 
-- 貴方 (あなた): pode ser escrito 貴女 para se referir a uma mulher, e 貴男 para se referir a um homem, porém o ***kanji*** é raramente usado;
+- 貴方 (あなた): pode ser escrito 貴女 para se referir a uma mulher, e 貴男 para se referir a um homem, porém o ***`kanji`*** é raramente usado;
 - あんた: uma gíria variante de あなた e pode ser visto como rude por ser bastante casual/informal;
 - 君 (きみ): usado para se referir a pessoas mais jovens, a pessoas em um relacionamento próximo ou a subordinados.
 É informal, então pode ser visto como rude, dependendo do contexto;
-- お前 (おまえ): já foi tratado como forma honorífica de se referir a **tu**, porém, atualmente é usado para se referir a uma pessoa próxima, como amigos ou colegas, por ser uma forma rude ou agressiva, dependendo do contexto e do relacionamento entre as pessoas;
+- お前 (おまえ): já foi tratado como forma honorífica de se referir a **`tu`**, porém, atualmente é usado para se referir a uma pessoa próxima, como amigos ou colegas, por ser uma forma rude ou agressiva, dependendo do contexto e do relacionamento entre as pessoas;
 - 手前 (てまえ) ou てめー: bem mais rude que お前.
 Utilizados quando o falante está muito nervoso;
 - 貴様 (きさま): é ainda mais hostil que 手前 (てまえ) ou てめー.
 Demonstra muita hostilidade e é ofensivo;
 - 己 (おのれ): quem é mais velho e tem mais familiaridade com *Super Sentai* e/ou *Tokusatsu*, já deve ter ouvido este.
-É uma forma mais datada de se referir a **tu**, então é normalmente usada por homens.
+É uma forma mais datada de se referir a **`tu`**, então é normalmente usada por homens.
 É muito rude.
-Também pode significar **eu** em alguns casos.
-O uso dos ***dainininshou*** também pode variar dependendo do contexto e do relacionamento interpessoal.
+Também pode significar **`eu`** em alguns casos.
+O uso dos ***`dainininshou`*** também pode variar dependendo do contexto e do relacionamento interpessoal.
 No idioma japonês, não é comum e soa pouco natural se referir às pessoas constantemente pelos pronomes mencionados anteriormente.
 
-Enquanto o uso excessivo dos daiichininshou pode transmitir uma sensação de egocentrismo ou até mesmo o desejo de ser o centro das atenções, o uso excessivo dos ***dainininshou*** pode passar a impressão de que sempre estamos “apontando o dedo” para a pessoa com quem falamos, e, em alguns contextos, podemos passar a ideia de atribuir culpa.
+Enquanto o uso excessivo dos daiichininshou pode transmitir uma sensação de egocentrismo ou até mesmo o desejo de ser o centro das atenções, o uso excessivo dos ***`dainininshou`*** pode passar a impressão de que sempre estamos “apontando o dedo” para a pessoa com quem falamos, e, em alguns contextos, podemos passar a ideia de atribuir culpa.
 
 Embora seja cômico e exagerado, frases como “se não puder dizer a verdade, seja vago”, “se não puder ser gentil, seja vago” e “se não puder falar, seja vago” resumem a abordagem comunicativa adotada na língua japonesa quando olhamos do ponto de vista do nosso idioma, o português.
 Essas expressões enfatizam a importância de evitar confrontos diretos e de buscar maneiras mais suaves e indiretas de se expressar, a fim de preservar a harmonia nas interações sociais.
 
 Mas então, qual forma utilizar? Existem formas que mais naturais, são elas:
-1. Chamar alguém pelo título ou nome ou sobrenome com o **sufixo honorífico** apropriado;
+1. Chamar alguém pelo título ou nome ou sobrenome com o **`sufixo honorífico`** apropriado;
 1. Não usar nada;
-1. Usar あなた, a forma mais neutra entre os ***dainininshou***.
+1. Usar あなた, a forma mais neutra entre os ***`dainininshou`***.
 
 Soa um pouco estranho quando pensamos na seguinte situação no contexto do português.
 Imagine conversar com um amigo e, em vez de usar o pronome “tu” para nos referirmos a alguém que está na nossa frente, perguntar algo como “João está ocupado?” para João ou “Maria já almoçou?” para Maria.
@@ -353,19 +327,19 @@ Isso parece como se estivéssemos falando sobre alguém que nem mesmo está pres
 No entanto, para os falantes japoneses, essa forma de comunicação é considerada a mais natural possível.
 
 ## **Pronomes pessoais de terceira pessoa**
-Existem inúmeros ***daiichininshou*** e ***dainininshou***, contudo, os ***daisan’ninshou*** (第三人称) – pronomes de terceira pessoa, chamados pronomes pessoais de terceira pessoa em português –, que são equivalentes a dizer “ele” ou “ela”, são mais limitados.
+Existem inúmeros ***`daiichininshou`*** e ***`dainininshou`***, contudo, os ***`daisan’ninshou`*** (第三人称) – pronomes de terceira pessoa, chamados pronomes pessoais de terceira pessoa em português –, que são equivalentes a dizer “ele” ou “ela”, são mais limitados.
 Alguns deles são:
 
 1. 彼 (かれ): utilizado para se referir a um homem.
 Pode significar “ele” ou “namorado” dependendo do contexto;
 1. 彼女 (かのじょ): utilizado para se referir a uma mulher.
 Pode significar “ela” ou “namorada” dependendo do contexto.
-1. 此奴 (こいつ): significa **este sujeito**, uma terceira pessoa que está mais perto do locutor, ou seja, perto de quem fala;
-1. 其奴 (そいつ): significa **esse sujeito**, uma terceira pessoa que está mais perto do interlocutor, ou seja, perto de quem ouve;
-1. 彼奴 (あいつ): significa **aquele sujeito**, uma terceira pessoa que não está perto nem do locutor nem do interlocutor, ou seja, uma terceira pessoa que esteja longe dos dois.
+1. 此奴 (こいつ): significa **`este sujeito`**, uma terceira pessoa que está mais perto do locutor, ou seja, perto de quem fala;
+1. 其奴 (そいつ): significa **`esse sujeito`**, uma terceira pessoa que está mais perto do interlocutor, ou seja, perto de quem ouve;
+1. 彼奴 (あいつ): significa **`aquele sujeito`**, uma terceira pessoa que não está perto nem do locutor nem do interlocutor, ou seja, uma terceira pessoa que esteja longe dos dois.
 
 Os três últimos são formas rudes de nos referirmos a uma terceira pessoa. Assim como nos pronomes pessoais anteriores, existem formas mais naturais e não rude:
-1. Chamar alguém pelo título ou nome ou sobrenome com o **sufixo honorífico** apropriado, exatamente igual aos ***dainininshou***, mas este não gera o estranhamento, porque se não é quem fala nem quem ouve, obviamente é outra pessoa, igual no português;
+1. Chamar alguém pelo título ou nome ou sobrenome com o **`sufixo honorífico`** apropriado, exatamente igual aos ***`dainininshou`***, mas este não gera o estranhamento, porque se não é quem fala nem quem ouve, obviamente é outra pessoa, igual no português;
 1. あの人 (あのひと): Significa literalmente “aquela pessoa” e pode ser usado para se referir a alguém de forma geral, quando você não sabe o nome da pessoa ou quer ser mais genérico;
 1. em situações mais formais, あの女の人 (あのおんなのひと)  para nos referirmos a mulheres e あの男の人 (あのおとこのひと)  para nos referirmos a homens.
 
@@ -413,19 +387,19 @@ A tabela a seguir mostra os modos formais e informais de nos referirmos a cada p
 
 | Português || Formal || Informal |
 :-|:-|:-|:-|:-
-Pai | | 父 (ちち)| | お父さん (おとうさん)
-Mãe ||  母 (はは) ||  お母さん (おかあさん)
-Irmã mais velha ||  姉 (あね) ||  お姉さん (おねえさん)
-Irmão mais velho ||  兄 (あに) ||  お兄さん (おにいさん)
-Irmã mais nova | | 妹 (いもうと) | | 妹さん (いもうとさん)
-Irmão mais novo | | 弟 (おとうと) | | 弟さん (おとうとさん)
-Esposa | | 妻 (つま) | | 奥さん (おくさん)
-Marido | | 夫 (おっと) | | 旦那さん (だんなさん)
-Tio | | 叔父さん (おじさん) | | おじさん (おじさん)
-Tia | | 叔母さん (おばさん) | | おばさん (おばさん)
-Avô | | 祖父 (そふ) | | おじいさん (おじいさん)
-Avó | | 祖母 (そぼ) | | おばあさん (おばあさん)
-Pais (pai e mãe) | | 親 (おや) | | 両親 (りょうしん)
+Pai              || 父 (ちち)          || お父さん (おとうさん)
+Mãe              || 母 (はは)          ||  お母さん (おかあさん)
+Irmã mais velha  || 姉 (あね)          ||  お姉さん (おねえさん)
+Irmão mais velho || 兄 (あに)          ||  お兄さん (おにいさん)
+Irmã mais nova   || 妹 (いもうと)      || 妹さん (いもうとさん)
+Irmão mais novo  || 弟 (おとうと)      || 弟さん (おとうとさん)
+Esposa           || 妻 (つま)          || 奥さん (おくさん)
+Marido           || 夫 (おっと)        || 旦那さん (だんなさん)
+Tio              || 叔父さん (おじさん) || おじさん (おじさん)
+Tia              || 叔母さん (おばさん) || おばさん (おばさん)
+Avô              || 祖父 (そふ)        || おじいさん (おじいさん)
+Avó              || 祖母 (そぼ)        || おばあさん (おばあさん)
+Pais (pai e mãe) || 親 (おや)          || 両親 (りょうしん)
 
 Tenha em mente que, mesmo que possamos nos referir de forma informal aos nossos parentes, geralmente escolhemos formas que demonstrem maior proximidade e carinho.
 Por exemplo: あなた é um pronome de segunda pessoa, mas também é uma forma carinhosa de se dirigir ao próprio marido; 君 é um pronome de segunda pessoa, mas também é uma forma carinhosa de se dirigir à própria esposa; おばあちゃん é uma forma carinhosa de se dirigir à própria avó; ねえちゃん é uma forma carinhosa de se dirigir à própria irmã.
